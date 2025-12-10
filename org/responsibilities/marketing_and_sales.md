@@ -13,7 +13,7 @@ Purpose: Outline responsibilities for Marketing & Sales to drive predictable gro
 - [ ] Script sales videos and VSLs; create advertising assets (copy, graphics, thumbnails) (Owner: Jordan; Cadence: per campaign).
 - [ ] Run and manage paid advertising campaigns (e.g., Facebook) (Owner: Jordan; Cadence: weekly optimisation).
 - [ ] Set up payment flows for upsells and cross-sells (Owner: Jordan; Cadence: as offers launch).
-- [ ] Conduct mid-challenge upsell calls and handle pre-purchase enquiries/cancellations (Owner: Tony; Cadence: weekly during challenges).
+- [ ] Conduct mid-challenge upsell calls and handle pre-purchase enquiries/cancellations (Owner: Jordan; Cadence: weekly during challenges).
 - [ ] Close sales for the One-to-One Coaching Package and community memberships (Owner: Tony; Cadence: ongoing with challenge spikes).
 
 ## Notes
