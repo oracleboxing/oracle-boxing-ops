@@ -37,11 +37,12 @@
 | --- | --- | --- | --- |
 | Deliver a 45-minute 1-on-1 coaching session to the top 10 members of the 7-day leaderboard | Toni (top 3); Charlie (bottom 7) | Weekly | All top-10 members receive their session |
 | Deliver a 45-minute 1-on-1 coaching session to the top 3 members of the 30-day leaderboard | Oliver | Monthly | 3 monthly sessions completed |
+| Deliver a 45-minute 1-on-1 coaching call to members who have purchased a 1-on-1 coaching package | Toni | 1-2 per week | Coaching package sessions delivered as purchased |
 
 ### Community Engagement
 | Deliverable | Owner | Cadence | KPI/Status |
 | --- | --- | --- | --- |
-| Leave a weekly video feedback on each member who makes a post following our set criteria (key takeaways, actionables, below 5 minutes) | All coaches | Weekly | Feedback queue cleared weekly |
+| Leave a weekly video feedback on each member who makes a post following our set criteria (key takeaways, actionables, below 5 minutes) | Charlie | Weekly | Feedback queue cleared weekly |
 | Provide a "satisfactory" level of community activity (chiming in where possible, leaving comments/likes, showing your face) | All coaches | Ongoing | Active community presence maintained |
 
 ### Onboarding
