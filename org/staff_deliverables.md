@@ -64,12 +64,19 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 
 | Deliverable | Department | Cadence |
 | --- | --- | --- |
-| Resolve and log support tickets (cancellations, access issues, general queries) | Operations & Finance | Daily |
-| Maintain pricing strategy and payment infrastructure for all products | Operations & Finance | Ongoing |
-| Maintain Make.com and Stripe automations with incident logs | Operations & Finance | Weekly review |
-| Keep websites and membership portals functional | Operations & Finance | Weekly checks |
-| Reconcile payments and issue contractor payouts | Operations & Finance | Monthly |
-| Oversee merchandise operations when applicable | Operations & Finance | Per project |
+| Upsell promotional offer customers to continuity offer (challenge to membership) via mid-challenge check-in call | Marketing & Sales | During challenges |
+| Answer customer emails | Operations & Finance | Daily |
+| Process refunds where possible | Operations & Finance | As needed |
+| Track profit and loss every month | Operations & Finance | Monthly |
+| Pay contractor wages and commissions | Operations & Finance | Monthly |
+| Ensure all automations are operating functionally | Operations & Finance | Weekly review |
+| Ensure website is operating functionally | Operations & Finance | Weekly checks |
+| Troubleshoot any software errors and bugs | Operations & Finance | As issues arise |
+| File quarterly VAT return | Operations & Finance | Quarterly |
+| File annual corporation tax return | Operations & Finance | Annually |
+| File annual self assessments | Operations & Finance | Annually |
+| File monthly PAYE for directors | Operations & Finance | Monthly |
+| Look for any inefficiencies in the business which can be removed or automated | Operations & Finance | Ongoing |
 
 *Note: Marketing campaign deliverables currently TBD (hiring planned for this department)*
 

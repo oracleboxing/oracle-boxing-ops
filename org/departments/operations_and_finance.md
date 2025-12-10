@@ -1,10 +1,40 @@
 # Operations & Finance Department
 
-| Focus | Owner | Cadence | KPI/Status |
+## People
+- **Jordan** – Head of Operations & Finance (may outsource some tasks later)
+
+---
+
+## Deliverables
+
+### Customer Support
+| Deliverable | Owner | Cadence | KPI/Status |
 | --- | --- | --- | --- |
-| Customer support emails (cancellations, access issues, general queries) | Jordan | Daily inbox sweeps | Support tickets resolved and logged. |
-| Pricing strategy for courses and payment infrastructure for products and upsells | Jordan | Ongoing with launch reviews | Pricing models and payment flows live and functional. |
-| Maintain automations via Make.com and Stripe; log incidents and fixes | Jordan | Ongoing with weekly review | Automations stable with incident log updated. |
-| Keep websites and membership portals functional with minimal updates | Jordan | Weekly checks | Sites/portals online; updates tracked. |
-| Manage payment processing and contractor payments | Jordan | Monthly with ad-hoc payouts | Payments reconciled and issued on time. |
-| Oversee merchandise operations when applicable | Jordan | Per project | Merchandise tasks tracked during active projects. |
+| Answer customer emails | Jordan | Daily | Inbox cleared daily |
+| Process refunds where possible | Jordan | As needed | Refunds processed promptly |
+
+### Financial Management
+| Deliverable | Owner | Cadence | KPI/Status |
+| --- | --- | --- | --- |
+| Track profit and loss every month | Jordan | Monthly | P&L report completed |
+| Pay contractor wages and commissions | Jordan | Monthly | Payments issued on time |
+
+### Systems & Automation
+| Deliverable | Owner | Cadence | KPI/Status |
+| --- | --- | --- | --- |
+| Ensure all automations are operating functionally | Jordan | Weekly review | Automations running without errors |
+| Ensure website is operating functionally | Jordan | Weekly checks | Site online and functional |
+| Troubleshoot any software errors and bugs | Jordan | As issues arise | Issues resolved promptly |
+
+### Tax & Compliance
+| Deliverable | Owner | Cadence | KPI/Status |
+| --- | --- | --- | --- |
+| File quarterly VAT return | Jordan | Quarterly | VAT filed on time |
+| File annual corporation tax return | Jordan | Annually | Corp tax filed on time |
+| File annual self assessments | Jordan | Annually | Self assessments filed on time |
+| File monthly PAYE for directors | Jordan | Monthly | PAYE filed on time |
+
+### Business Improvement
+| Deliverable | Owner | Cadence | KPI/Status |
+| --- | --- | --- | --- |
+| Look for any inefficiencies in the business which can be removed or automated | Jordan | Ongoing | Inefficiencies identified and addressed |

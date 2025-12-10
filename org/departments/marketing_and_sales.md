@@ -63,6 +63,12 @@
 
 ## Sales Deliverables
 
+### Challenge Upsells (Jordan)
+| Deliverable | Owner | Cadence | KPI/Status |
+| --- | --- | --- | --- |
+| Upsell promotional offer customers to continuity offer (challenge to membership) via mid-challenge check-in call | Jordan | During challenges | Upsell conversion tracked |
+
+### 1-1 Coaching Sales (Toni)
 | Deliverable | Owner | Cadence | KPI/Status |
 | --- | --- | --- | --- |
 | Identify potential customers who might be interested in 1-1 coaching | Toni | Ongoing | Prospects identified and noted |
