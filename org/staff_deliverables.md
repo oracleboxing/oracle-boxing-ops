@@ -37,7 +37,9 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 | Deliver a 45-minute 1-on-1 coaching call to members who have purchased a 1-on-1 coaching package | Product & Coaching | 1-2 per week |
 | Deliver a 15-minute onboarding call to every new member in the community | Product & Coaching | As members join |
 | Provide a "satisfactory" level of community activity | Product & Coaching | Ongoing |
-| Close sales for the One-to-One Coaching Package and community memberships | Marketing & Sales | Ongoing |
+| Identify potential customers who might be interested in 1-1 coaching | Marketing & Sales | Ongoing |
+| Explain the 1-1 coaching packages and prices to interested prospects | Marketing & Sales | As enquiries come in |
+| Collect payment for 1-on-1 coaching package and update tracker | Marketing & Sales | Per sale |
 
 ---
 
@@ -62,17 +64,14 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 
 | Deliverable | Department | Cadence |
 | --- | --- | --- |
-| Draft and send campaign emails/newsletters for active offers | Marketing & Sales | Weekly |
-| Build and optimise landing pages, sales funnels, and payment flows | Marketing & Sales | Ongoing |
-| Script sales videos/VSLs and create advertising assets | Marketing & Sales | Per campaign |
-| Launch and optimise paid ads on active platforms | Marketing & Sales | Weekly |
-| Conduct mid-challenge upsell calls and handle enquiries/cancellations | Marketing & Sales | Weekly during challenges |
 | Resolve and log support tickets (cancellations, access issues, general queries) | Operations & Finance | Daily |
 | Maintain pricing strategy and payment infrastructure for all products | Operations & Finance | Ongoing |
 | Maintain Make.com and Stripe automations with incident logs | Operations & Finance | Weekly review |
 | Keep websites and membership portals functional | Operations & Finance | Weekly checks |
 | Reconcile payments and issue contractor payouts | Operations & Finance | Monthly |
 | Oversee merchandise operations when applicable | Operations & Finance | Per project |
+
+*Note: Marketing campaign deliverables currently TBD (hiring planned for this department)*
 
 ---
 
@@ -97,3 +96,29 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 | Plan a high-CTR worthy title for each YouTube video (8 per month) | Content & Media | Per video |
 | Edit 3 high-CTR worthy thumbnails for each YouTube video to run an ABC test | Content & Media | Per video |
 | Schedule video with appropriate end cards and mid cards | Content & Media | Per video |
+
+---
+
+## TBD (Marketing & Sales)
+
+**Unassigned Deliverables** (Monthly Campaign):
+
+| Deliverable | Department | Cadence |
+| --- | --- | --- |
+| Create campaign overview (theme, timing, duration, rationale, unique angle) | Marketing & Sales | Per campaign |
+| Write copywriting for the landing page | Marketing & Sales | Per campaign |
+| Script and produce video sales letter (VSL) | Marketing & Sales | Per campaign |
+| Build front-end of the landing page | Marketing & Sales | Per campaign |
+| Build back-end of the landing page (forms, integrations, tracking) | Marketing & Sales | Per campaign |
+| Define pricing and available packages | Marketing & Sales | Per campaign |
+| Write email campaign sequence | Marketing & Sales | Per campaign |
+| Script YouTube mid-roll advert | Marketing & Sales | Per campaign |
+| Liaise with Content & Media to produce the mid-roll advert | Marketing & Sales | Per campaign |
+| Update YouTube video descriptions with campaign links | Marketing & Sales | During campaign |
+| Create organic Instagram assets (reels, carousels, stories) | Marketing & Sales | Per campaign |
+| Create paid Meta ads marketing assets | Marketing & Sales | Per campaign |
+| Schedule and launch Meta ads campaign | Marketing & Sales | Per campaign |
+| Monitor campaign performance (Facebook ad group) | Marketing & Sales | During campaign |
+| Post-campaign debrief (what went well, what didn't) | Marketing & Sales | Per campaign |
+| Remove/close special landing page | Marketing & Sales | End of campaign |
+| Remove YouTube mid-roll ads if necessary | Marketing & Sales | End of campaign |
