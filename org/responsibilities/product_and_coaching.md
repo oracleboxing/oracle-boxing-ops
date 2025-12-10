@@ -10,7 +10,7 @@ Purpose: Track the core responsibilities of the Product & Coaching department.
 ## Responsibility List
 | Responsibility/Deliverable | Owner | Cadence | Status/Metric |
 | --- | --- | --- | --- |
-| Maintain high-quality course material (Master Class, Roadmap, One-to-One) | Oliver | Ongoing with quarterly audits | Uptime with no student-impacting downtime; quarterly content audit and update log maintained |
+| Maintain high-quality course material | Oliver | Ongoing with quarterly audits | Uptime with no student-impacting downtime; quarterly content audit and update log maintained |
 | Set pricing strategies and maintain payment infrastructure for products and upsells | Jordan | Ongoing with launch reviews | Pricing updates and payment flows live before launches |
 | Deliver weekly group coaching calls (Mon 8pm Toni; Tue 9pm Toni; Wed 9am Oliver & 11pm Charlie; Thu 9am Oliver; Fri 9am Oliver; Sat 12am Charlie & 5pm Toni; Sun 12pm Toni — all UK time) with 10-minute pre-call prep and recordings published within 24 hours | Toni (Mon, Tue, Sat 5pm, Sun); Oliver (Wed 9am, Thu, Fri); Charlie (Wed 11pm, Sat 12am) | Weekly schedule | 9 sessions held at scheduled UK times; pre-call prep documented; recordings posted within 24 hours |
 | Deliver 45-minute 1:1 sessions for top-10 on the 7-day leaderboard (Toni: top 3; Charlie: bottom 7) | Toni (top 3); Charlie (bottom 7) | Weekly | All top-10 members scheduled and completed weekly with call notes logged |
