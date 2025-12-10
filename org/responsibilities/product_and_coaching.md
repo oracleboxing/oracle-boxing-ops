@@ -1,6 +1,6 @@
 # Product & Coaching Responsibilities
 Version: 1.1
-Last Updated: 2025-05-07
+Last Updated: 2025-05-08
 Purpose: Track the core responsibilities of the Product & Coaching department.
 
 ---
@@ -8,16 +8,18 @@ Purpose: Track the core responsibilities of the Product & Coaching department.
 - Creates, prices, and delivers Oracle Boxing's core products (Boxing Master Class, Boxing Roadmap, One-to-One Coaching) and live coaching experiences.
 
 ## Responsibility List
-- [ ] Maintain course quality and uptime for Master Class, Roadmap, and One-to-One Coaching (Owners: Ollie/Tony; Cadence: ongoing).
-- [ ] Set pricing strategies and maintain payment infrastructure for products and upsells (Owner: Jordan; Cadence: ongoing with launch reviews).
-- [ ] Update course content (Owner: Ollie updating Master Class; Cadence: as needed; Roadmap static).
-- [ ] Deliver live coaching: 9 group sessions/week; 10 community one-to-one sessions/week (Owners: Tony/Charlie; Cadence: weekly schedule).
-- [ ] Deliver leaderboard one-to-one sessions (Owner: Ollie; Cadence: 3 per month).
-- [ ] Run onboarding calls for new customers (Owner: Tony; Cadence: 30–40/month; 15 minutes for challenge entrants, 45 minutes for direct membership buyers).
-- [ ] Deliver graduation calls for non-upsell clients (Owner: Jordan; Cadence: weekly review).
-- [ ] Provide personalised video feedback on student submissions and manage the video feedback review system (Owner: Charlie; Cadence: 10–20/week) and engage in community forums (Owners: all coaches; Cadence: daily).
-- [ ] Offer "challenge win" 1:1 calls for members who upsell from the challenge into the community (Owner: Tony; Cadence: as upsells occur).
-- [ ] Collect and review inputs from the anonymous feedback box (Owners: Charlie/Jordan; Cadence: weekly).
+| Responsibility/Deliverable | Owner | Cadence | Status/Metric |
+| --- | --- | --- | --- |
+| Maintain course quality and uptime for Master Class, Roadmap, and One-to-One Coaching | Ollie/Tony | Ongoing | No downtime incidents impacting students |
+| Set pricing strategies and maintain payment infrastructure for products and upsells | Jordan | Ongoing with launch reviews | Pricing updates and payment flows live before launches |
+| Update course content (Master Class updates; Roadmap static) | Ollie | As needed | Update log maintained with latest lesson revisions |
+| Deliver live coaching: 9 group sessions/week; 10 community one-to-one sessions/week | Tony/Charlie | Weekly schedule | Published schedule met with attendance recorded weekly |
+| Deliver leaderboard one-to-one sessions | Ollie | 3 per month | 3 leaderboard sessions logged monthly |
+| Run onboarding calls for new customers | Tony | 30–40/month | Monthly onboarding call count meets target ranges |
+| Deliver graduation calls for non-upsell clients | Jordan | Weekly review | Weekly list cleared with outcomes recorded |
+| Provide personalised video feedback (10–20/week) and engage in community forums | Charlie (feedback); all coaches (community) | Feedback: 10–20/week; Community: daily | Feedback queue cleared weekly; daily community touchpoints recorded |
+| Offer "challenge win" 1:1 calls for members who upsell from the challenge into the community | Tony | As upsells occur | Upsell call log updated per conversion |
+| Collect and review inputs from the anonymous feedback box | Charlie/Jordan | Weekly | Weekly review completed with action items captured |
 
 ## Notes
 - Use call and feedback logs to track completion and identify students needing follow-up.
