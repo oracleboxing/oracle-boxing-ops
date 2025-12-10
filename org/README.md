@@ -6,6 +6,7 @@ Purpose: Document Oracle Boxing's organisational blueprint, roles, responsibilit
 ---
 ## Contents
 - `organisational_blueprint.md` – Core company design and departmental overviews.
+- `departments/` – Department KPI/cadence tables combining people, responsibilities, and deliverables.
 - `roles/` – Role definitions for leadership and functions.
 - `responsibilities/` – Department-level responsibilities.
 - `deliverables/` – Expected outputs by department.

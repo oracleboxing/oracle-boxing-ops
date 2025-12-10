@@ -16,6 +16,7 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 - Operations & Finance: Systems reliability, support, automations, billing, and contractor payments.
 
 ## 3. Product & Coaching
+[Department KPIs & Cadence](departments/product_and_coaching.md)
 ### People
 - Jordan – Product pricing and payment infrastructure owner.
 - Ollie – Creator of Boxing Roadmap and Boxing Master Class; group coaching lead; updates the Master Class.
@@ -39,6 +40,7 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 - Logged onboarding calls with duration by buyer type, graduation calls, and "challenge win" 1:1 sessions; timely personalised feedback videos; active community engagement; feedback box responses tracked alongside Charlie's review system.
 
 ## 4. Content & Media
+[Department KPIs & Cadence](departments/content_and_media.md)
 ### People
 - Ollie – Content creator (scripts, filming, on-camera presentation).
 - G – Video editor (long-form and short-form).
@@ -53,6 +55,7 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 - Professionally edited long-form and short-form videos ready for publication.
 
 ## 5. Marketing & Sales
+[Department KPIs & Cadence](departments/marketing_and_sales.md)
 ### People
 - Jordan – Head of Marketing & Sales.
 - Tony – Sales representative for the One-to-One Coaching Package and community upsells.
@@ -70,6 +73,7 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 - Payment architecture supporting upsells/cross-sells and records of upsell calls/conversions.
 
 ## 6. Operations & Finance
+[Department KPIs & Cadence](departments/operations_and_finance.md)
 ### People
 - Jordan – Head of Operations & Finance.
 
