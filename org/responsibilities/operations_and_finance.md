@@ -11,6 +11,7 @@ Purpose: Capture responsibilities for Operations & Finance to ensure reliability
 | Responsibility/Deliverable | Owner | Cadence | Status/Metric |
 | --- | --- | --- | --- |
 | Answer customer support emails (cancellations, access issues, general queries) | Jordan | Daily inbox sweeps | Inbox cleared daily; response SLAs met |
+| Own pricing for courses and maintain payment infrastructure for products and upsells | Jordan | Ongoing; reviews tied to launches | Pricing updates live and payment flows validated before launches |
 | Maintain automations via Make.com and Stripe; log incidents and fixes | Jordan | Ongoing with weekly review | Incident log updated weekly with resolutions |
 | Keep websites and membership portals functional; perform minimal updates when needed | Jordan | Weekly checks | Uptime verified weekly; no unresolved blockers |
 | Manage payment processing and contractor payments | Jordan | Monthly with ad-hoc payouts as needed | Payments reconciled monthly; contractor payouts on schedule |

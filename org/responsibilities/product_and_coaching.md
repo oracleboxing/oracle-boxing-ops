@@ -11,7 +11,6 @@ Purpose: Track the core responsibilities of the Product & Coaching department.
 | Responsibility/Deliverable | Owner | Cadence | Status/Metric |
 | --- | --- | --- | --- |
 | Maintain course quality and uptime for Master Class, Roadmap, and One-to-One Coaching | Ollie/Tony | Ongoing | No downtime incidents impacting students |
-| Set pricing strategies and maintain payment infrastructure for products and upsells | Jordan | Ongoing with launch reviews | Pricing updates and payment flows live before launches |
 | Update course content (Master Class updates; Roadmap static) | Ollie | As needed | Update log maintained with latest lesson revisions |
 | Deliver live coaching: 9 group sessions/week; 10 community one-to-one sessions/week | Tony/Charlie | Weekly schedule | Published schedule met with attendance recorded weekly |
 | Deliver leaderboard one-to-one sessions | Ollie | 3 per month | 3 leaderboard sessions logged monthly |
