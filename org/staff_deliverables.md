@@ -72,13 +72,37 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 
 ---
 
-## Ollie (G)
+## Ollie
 
-**Roles**: Content Creator; Video Editor
+**Roles**: Content Creator (scripting, filming, on-camera presentation)
 
 | Deliverable | Department | Cadence |
 | --- | --- | --- |
-| Script and film two YouTube videos per week plus weekly vlogs | Content & Media | Weekly |
-| Produce 3-4 short-form social videos and repurpose long-form into shorts | Content & Media | Weekly |
-| Edit long-form and short-form content to publication-ready quality | Content & Media | Weekly |
-| Maintain consistent branding across all media assets | Content & Media | Ongoing |
+| Script 8 YouTube videos per month (2 per week) | Content & Media | Monthly |
+| Film 8 YouTube videos per month (2 per week) | Content & Media | Monthly |
+| Upload raw YouTube videos to Dropbox and link in the long-form content schedule | Content & Media | Per video |
+| Weekly editing + presentation review of the last week's videos (Saturday morning) | Content & Media | Weekly (Saturday) |
+
+---
+
+## G
+
+**Roles**: Video Editor
+
+| Deliverable | Department | Cadence |
+| --- | --- | --- |
+| Edit 2 YouTube videos per week for high retention, views, and engagement | Content & Media | Weekly |
+| Re-purpose long-form footage into shorts (2 per week) | Content & Media | Weekly |
+| Weekly editing + presentation review of the last week's videos (Saturday morning) | Content & Media | Weekly (Saturday) |
+
+---
+
+## TBD (Content & Media)
+
+**Unassigned Deliverables**:
+
+| Deliverable | Department | Cadence |
+| --- | --- | --- |
+| Plan a high-CTR worthy title for each YouTube video (8 per month) | Content & Media | Per video |
+| Edit 3 high-CTR worthy thumbnails for each YouTube video to run an ABC test | Content & Media | Per video |
+| Schedule video with appropriate end cards and mid cards | Content & Media | Per video |
