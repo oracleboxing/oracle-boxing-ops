@@ -9,10 +9,8 @@ Purpose: Document Oracle Boxing's organisational blueprint, roles, responsibilit
 - `roles/` – Role definitions for leadership and functions.
 - `responsibilities/` – Department-level responsibilities.
 - `deliverables/` – Expected outputs by department.
-- `hiring/` – Roadmaps and job scorecards.
 
 ## How to Update
 - Revise the blueprint quarterly or after structural changes.
 - Update role and responsibility files when team members or scopes change.
 - Keep deliverables aligned with current KPIs and projects.
-- Maintain hiring roadmap and scorecards ahead of recruiting cycles.
