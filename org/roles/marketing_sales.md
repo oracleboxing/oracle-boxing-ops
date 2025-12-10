@@ -9,15 +9,15 @@ Purpose: Capture the scope and measures for Marketing & Sales roles.
 
 ## Role Overview
 - Jordan: Head of Marketing & Sales; plans campaigns, writes emails, builds funnels/landing pages, scripts VSLs, creates ad assets, runs paid ads, and configures upsell payment flows.
-- Tony: Sales representative focused on One-to-One Coaching and community upsells; handles pre-purchase enquiries, mid-challenge upsell calls, cancellations, and closes premium offers.
+- Toni: Sales representative focused on One-to-One Coaching and community upsells; handles pre-purchase enquiries, mid-challenge upsell calls, cancellations, and closes premium offers.
 
 ## Key Responsibilities
 - Draft and send marketing emails/newsletters across campaigns (Jordan).
 - Build and optimise landing pages, funnels, and checkout/payment flows for all offers (Jordan).
 - Script sales videos/VSLs and create ad assets including copy, graphics, and thumbnails (Jordan).
 - Manage paid advertising campaigns with weekly optimisation and reporting (Jordan).
-- Execute mid-challenge upsell calls and manage enquiries/cancellations (Tony).
-- Close One-to-One Coaching Package and community membership sales (Tony).
+- Execute mid-challenge upsell calls and manage enquiries/cancellations (Toni).
+- Close One-to-One Coaching Package and community membership sales (Toni).
 
 ## KPIs / Success Measures
 - Email performance (open/click rates) and funnel conversion across offers.

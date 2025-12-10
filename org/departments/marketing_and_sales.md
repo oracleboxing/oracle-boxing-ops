@@ -8,4 +8,4 @@
 | Paid advertising campaigns (e.g., Facebook) | Jordan | Weekly optimisation | Ads launched and optimised with performance logs. |
 | Payment flows for upsells/cross-sells | Jordan | As offers launch | Payment architecture live for current offers. |
 | Mid-challenge upsell calls and pre-purchase enquiries/cancellations | Jordan | Weekly during challenges | Upsell calls completed and logged; enquiries handled. |
-| Close sales for One-to-One Coaching and community memberships | Tony | Ongoing with challenge spikes | Sales outcomes recorded for premium offers. |
+| Close sales for One-to-One Coaching and community memberships | Toni | Ongoing with challenge spikes | Sales outcomes recorded for premium offers. |

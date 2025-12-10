@@ -10,7 +10,7 @@ Purpose: Quick view of people, scope, and references for the Marketing & Sales d
 
 ## Key People
 - Jordan – Head of Marketing & Sales.
-- Tony – Sales representative for the One-to-One Coaching Package and community upsells.
+- Toni – Sales representative for the One-to-One Coaching Package and community upsells.
 
 ## Detailed References
 - Responsibilities: [Marketing & Sales Responsibilities](../responsibilities/marketing_and_sales.md)

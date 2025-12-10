@@ -1,19 +1,18 @@
 # Product & Coaching Snapshot
-Version: 1.0
-Last Updated: 2025-05-07
+Version: 1.1
+Last Updated: 2025-12-10
 Purpose: Quick view of people, scope, and references for the Product & Coaching department.
 
 ---
 ## Overview
-- Owns Oracle Boxing's core products (Boxing Master Class, Boxing Roadmap, One-to-One Coaching) and live coaching experiences.
-- Focuses on pricing, payments, programme quality, and reliable delivery of group and one-to-one coaching.
+- Owns Oracle Boxing's core course content and live coaching experiences.
+- Focuses on course quality, group coaching delivery, 1-1 coaching, community engagement, and new member onboarding.
 
 ## Key People
-- Jordan – Pricing strategy and payment infrastructure.
-- Ollie – Master Class updates and leaderboard one-to-ones.
-- Tony – One-to-One Coaching lead and onboarding calls.
-- Charlie – Assistant Community Coach and video feedback specialist.
+- Oliver – Managing Course Creator (planning and filming courses); Community Coach.
+- Toni – Community Coach; 1-1 Coach.
+- Charlie – Community Coach.
 
 ## Detailed References
+- Deliverables: [Product & Coaching Department](../departments/product_and_coaching.md)
 - Responsibilities: [Product & Coaching Responsibilities](../responsibilities/product_and_coaching.md)
-- Deliverables: [Departmental Deliverables](../deliverables/departmental_deliverables.md#product--coaching)

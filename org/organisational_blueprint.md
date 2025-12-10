@@ -1,6 +1,6 @@
 # Organisational Blueprint
-Version: 1.2
-Last Updated: 2025-05-08
+Version: 1.3
+Last Updated: 2025-12-10
 Purpose: Define Oracle Boxing's mission, departmental structure, people, responsibilities, deliverables, and hiring roadmap.
 
 ---
@@ -10,34 +10,25 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 - Operate with reliable delivery, clear guarantees, and risk-reduced offers that build confidence in our programmes.
 
 ## 2. Department Overview
-- Product & Coaching: Course creation, pricing, payment infrastructure, live coaching, onboarding/graduation, and community engagement.
+- Product & Coaching: Course creation, live coaching, onboarding, and community engagement.
 - Content & Media: Public-facing video production for YouTube, vlogs, and social clips.
 - Marketing & Sales: Acquisition strategy, funnels, ads, email, and premium coaching sales.
-- Operations & Finance: Systems reliability, support, automations, billing, and contractor payments.
+- Operations & Finance: Systems reliability, support, automations, pricing, payment infrastructure, billing, and contractor payments.
 
 ## 3. Product & Coaching
 [Department KPIs & Cadence](departments/product_and_coaching.md)
 ### People
-- Jordan – Product pricing and payment infrastructure owner.
-- Ollie – Creator of Boxing Roadmap and Boxing Master Class; group coaching lead; updates the Master Class.
-- Tony – Product Lead for the One-to-One Coaching Package; lead group and 1:1 coach.
-- Charlie – Assistant Community Coach & Video Feedback Specialist.
-
-### Responsibilities
-- Maintain and deliver the core products: Boxing Master Class, Boxing Roadmap, and One-to-One Coaching Package.
-- Set pricing strategies and build payment flows for all offers and upsells (Jordan).
-- Keep course content current (Ollie updating the Master Class; Roadmap is static).
-- Deliver live coaching: 9 group sessions/week; 10 one-to-one community sessions/week (Tony/Charlie); 3 leaderboard one-to-ones/month (Ollie).
-- Run onboarding calls for new customers (Tony: 15 minutes for challenge entrants; 45 minutes for direct membership buyers).
-- Deliver graduation calls for clients not upsold (Jordan).
-- Provide personalised video feedback (10–20/week) and engage in community forums; maintain the anonymous feedback box and Charlie's video feedback review system.
-- Offer a "challenge win" 1:1 call (Tony) for members who upsell from the challenge into the community.
+- Oliver – Managing Course Creator (planning and filming courses); Community Coach.
+- Toni – Community Coach; 1-1 Coach.
+- Charlie – Community Coach.
 
 ### Deliverables
-- Stable delivery of Boxing Master Class, Boxing Roadmap, and One-to-One Coaching Package.
-- Pricing models and payment flows for all products and upsells.
-- Weekly cadence: 9 group sessions and 10 community one-to-ones; monthly leaderboard one-to-ones.
-- Logged onboarding calls with duration by buyer type, graduation calls, and "challenge win" 1:1 sessions; timely personalised feedback videos; active community engagement; feedback box responses tracked alongside Charlie's review system.
+See [Product & Coaching Department](departments/product_and_coaching.md) for full deliverables including:
+- Course creation and maintenance
+- 9 weekly group coaching sessions with schedule
+- Weekly and monthly 1-1 coaching sessions
+- Community engagement and video feedback
+- New member onboarding calls
 
 ## 4. Content & Media
 [Department KPIs & Cadence](departments/content_and_media.md)
@@ -58,19 +49,19 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 [Department KPIs & Cadence](departments/marketing_and_sales.md)
 ### People
 - Jordan – Head of Marketing & Sales.
-- Tony – Sales representative for the One-to-One Coaching Package and community upsells.
+- Toni – Sales representative for the One-to-One Coaching Package and community upsells.
 
 ### Responsibilities
 - Write marketing emails/newsletters; build and optimise landing pages and funnels.
 - Script sales videos and VSLs; create advertising assets (copy, graphics, thumbnails).
-- Run and manage paid ad campaigns (e.g., Facebook) and set up payment flows for upsells/cross-sells.
+- Run and manage paid ad campaigns (e.g., Facebook).
 - Conduct mid-challenge upsell calls and handle pre-purchase enquiries/cancellations.
-- Close sales for One-to-One Coaching Package and community memberships (Tony).
+- Close sales for One-to-One Coaching Package and community memberships (Toni).
 
 ### Deliverables
 - Email campaigns/newsletters; high-converting landing pages/funnel assets.
 - Sales video scripts/VSLs and launched ads across platforms.
-- Payment architecture supporting upsells/cross-sells and records of upsell calls/conversions.
+- Records of upsell calls/conversions.
 
 ## 6. Operations & Finance
 [Department KPIs & Cadence](departments/operations_and_finance.md)
@@ -79,11 +70,13 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 
 ### Responsibilities
 - Answer customer support emails (cancellations, access issues, general queries).
+- Own pricing strategy for courses and maintain payment infrastructure for products and upsells.
 - Maintain automations via Make.com and Stripe; keep sites and membership portals functional.
 - Manage payment processing and contractor payments; oversee merchandise operations when applicable.
 
 ### Deliverables
 - Resolved support tickets and functioning automations/billing flows.
+- Pricing models and payment flows live and functional.
 - Stable websites/portals and on-time contractor payments.
 
 ## 7. Hiring Roadmap

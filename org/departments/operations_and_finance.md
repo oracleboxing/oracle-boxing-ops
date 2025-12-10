@@ -3,6 +3,7 @@
 | Focus | Owner | Cadence | KPI/Status |
 | --- | --- | --- | --- |
 | Customer support emails (cancellations, access issues, general queries) | Jordan | Daily inbox sweeps | Support tickets resolved and logged. |
+| Pricing strategy for courses and payment infrastructure for products and upsells | Jordan | Ongoing with launch reviews | Pricing models and payment flows live and functional. |
 | Maintain automations via Make.com and Stripe; log incidents and fixes | Jordan | Ongoing with weekly review | Automations stable with incident log updated. |
 | Keep websites and membership portals functional with minimal updates | Jordan | Weekly checks | Sites/portals online; updates tracked. |
 | Manage payment processing and contractor payments | Jordan | Monthly with ad-hoc payouts | Payments reconciled and issued on time. |
