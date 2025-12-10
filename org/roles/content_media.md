@@ -8,7 +8,7 @@ Purpose: Define the Content & Media roles and expectations.
 - Drives public-facing storytelling through YouTube, vlogs, and social clips, independent of course curriculum.
 
 ## Role Overview
-- Ollie: Scripts, films, and presents all long-form content and weekly vlogs; sources footage for shorts.
+- Oliver: Scripts, films, and presents all long-form content and weekly vlogs; sources footage for shorts.
 - G: Edits long-form and short-form videos, ensuring brand consistency and publish-ready masters.
 
 ## Key Responsibilities

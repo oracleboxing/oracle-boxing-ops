@@ -7,7 +7,7 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 
 ## Oliver
 
-**Roles**: Managing Course Creator; Community Coach
+**Roles**: Managing Course Creator; Community Coach; Content Creator
 
 | Deliverable | Department | Cadence |
 | --- | --- | --- |
@@ -17,6 +17,10 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 | Publish coaching call recordings within 24 hours | Product & Coaching | Per session |
 | Deliver a 45-minute 1-on-1 coaching session to the top 3 members of the 30-day leaderboard | Product & Coaching | Monthly |
 | Provide a "satisfactory" level of community activity | Product & Coaching | Ongoing |
+| Script 8 YouTube videos per month (2 per week) | Content & Media | Monthly |
+| Film 8 YouTube videos per month (2 per week) | Content & Media | Monthly |
+| Upload raw YouTube videos to Dropbox and link in the long-form content schedule | Content & Media | Per video |
+| Weekly editing + presentation review of the last week's videos (Saturday morning) | Content & Media | Weekly (Saturday) |
 
 ---
 
@@ -69,19 +73,6 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 | Keep websites and membership portals functional | Operations & Finance | Weekly checks |
 | Reconcile payments and issue contractor payouts | Operations & Finance | Monthly |
 | Oversee merchandise operations when applicable | Operations & Finance | Per project |
-
----
-
-## Ollie
-
-**Roles**: Content Creator (scripting, filming, on-camera presentation)
-
-| Deliverable | Department | Cadence |
-| --- | --- | --- |
-| Script 8 YouTube videos per month (2 per week) | Content & Media | Monthly |
-| Film 8 YouTube videos per month (2 per week) | Content & Media | Monthly |
-| Upload raw YouTube videos to Dropbox and link in the long-form content schedule | Content & Media | Per video |
-| Weekly editing + presentation review of the last week's videos (Saturday morning) | Content & Media | Weekly (Saturday) |
 
 ---
 

@@ -33,7 +33,7 @@ See [Product & Coaching Department](departments/product_and_coaching.md) for ful
 ## 4. Content & Media
 [Department KPIs & Cadence](departments/content_and_media.md)
 ### People
-- Ollie – Content creator (scripts, filming, on-camera presentation).
+- Oliver – Content creator (scripts, filming, on-camera presentation).
 - G – Video editor (long-form and short-form).
 
 ### Responsibilities

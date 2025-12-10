@@ -9,7 +9,7 @@ Purpose: Quick view of people, scope, and references for the Content & Media dep
 - Maintains consistent branding across long-form and short-form media.
 
 ## Key People
-- Ollie – Content creator (scripts, filming, on-camera presentation).
+- Oliver – Content creator (scripts, filming, on-camera presentation).
 - G – Video editor for long-form and short-form content.
 
 ## Detailed References
