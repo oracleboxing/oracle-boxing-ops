@@ -1,6 +1,6 @@
 # Organisational Blueprint
-Version: 1.1
-Last Updated: 2025-05-07
+Version: 1.2
+Last Updated: 2025-05-08
 Purpose: Define Oracle Boxing's mission, departmental structure, people, responsibilities, deliverables, and hiring roadmap.
 
 ---
@@ -16,23 +16,19 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 - Operations & Finance: Systems reliability, support, automations, billing, and contractor payments.
 
 ## 3. Product & Coaching
-- Focus: Owns product creation, pricing, payment infrastructure, and delivery of the Boxing Master Class, Boxing Roadmap, and One-to-One Coaching Package.
-- People: Jordan (pricing and payments), Ollie (Master Class updates and leaderboard one-to-ones), Tony (One-to-One lead and onboarding), Charlie (video feedback and assistant coaching).
+- Scope: Product creation, pricing, payments, and reliable delivery of core programmes.
 - Reference: [Product & Coaching Snapshot](department_snapshots/product_coaching.md).
 
 ## 4. Content & Media
-- Focus: Scripts, films, and edits YouTube, vlog, and social media content with consistent branding.
-- People: Ollie (creator) and G (editor).
+- Scope: Script, film, and edit YouTube, vlog, and social media content with consistent branding.
 - Reference: [Content & Media Snapshot](department_snapshots/content_media.md).
 
 ## 5. Marketing & Sales
-- Focus: Acquisition strategy across funnels, ads, email, and sales calls to drive programme and upsell revenue.
-- People: Jordan (Head of Marketing & Sales) and Tony (sales for One-to-One and community upsells).
+- Scope: Acquisition strategy across funnels, ads, email, and sales calls to drive programme and upsell revenue.
 - Reference: [Marketing & Sales Snapshot](department_snapshots/marketing_sales.md).
 
 ## 6. Operations & Finance
-- Focus: Customer support, automations, billing, and contractor payments; keeps sites and portals running.
-- People: Jordan (Head of Operations & Finance).
+- Scope: Customer support, automations, billing, and contractor payments; keeps sites and portals running.
 - Reference: [Operations & Finance Snapshot](department_snapshots/operations_finance.md).
 
 ## 7. Hiring Roadmap
