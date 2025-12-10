@@ -1,6 +1,6 @@
 # Organisational Blueprint
-Version: 1.1
-Last Updated: 2025-05-07
+Version: 1.2
+Last Updated: 2025-05-08
 Purpose: Define Oracle Boxing's mission, departmental structure, people, responsibilities, deliverables, and hiring roadmap.
 
 ---
