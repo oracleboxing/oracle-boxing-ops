@@ -27,14 +27,16 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 - Set pricing strategies and build payment flows for all offers and upsells (Jordan).
 - Keep course content current (Ollie updating the Master Class; Roadmap is static).
 - Deliver live coaching: 9 group sessions/week; 10 one-to-one community sessions/week (Tony/Charlie); 3 leaderboard one-to-ones/month (Ollie).
-- Run onboarding calls for new customers (30–40/month) and graduation calls for clients not upsold.
-- Provide personalised video feedback (10–20/week) and engage in community forums.
+- Run onboarding calls for new customers (Tony: 15 minutes for challenge entrants; 45 minutes for direct membership buyers).
+- Deliver graduation calls for clients not upsold (Jordan).
+- Provide personalised video feedback (10–20/week) and engage in community forums; maintain the anonymous feedback box and Charlie's video feedback review system.
+- Offer a "challenge win" 1:1 call (Tony) for members who upsell from the challenge into the community.
 
 ### Deliverables
 - Stable delivery of Boxing Master Class, Boxing Roadmap, and One-to-One Coaching Package.
 - Pricing models and payment flows for all products and upsells.
 - Weekly cadence: 9 group sessions and 10 community one-to-ones; monthly leaderboard one-to-ones.
-- Logged onboarding and graduation calls; timely personalised feedback videos; active community engagement.
+- Logged onboarding calls with duration by buyer type, graduation calls, and "challenge win" 1:1 sessions; timely personalised feedback videos; active community engagement; feedback box responses tracked alongside Charlie's review system.
 
 ## 4. Content & Media
 ### People
@@ -42,12 +44,12 @@ Purpose: Define Oracle Boxing's mission, departmental structure, people, respons
 - G – Video editor (long-form and short-form).
 
 ### Responsibilities
-- Script and film ~15 YouTube videos per month plus weekly vlog updates.
+- Script and film two YouTube videos per week plus weekly vlog updates.
 - Create 3–4 short-form social videos per week and repurpose long-form footage.
 - Maintain consistent branding across all media and ensure edit-ready outputs.
 
 ### Deliverables
-- 15 YouTube videos per month, weekly vlogs, and 3–4 short-form pieces each week.
+- Two YouTube videos per week (roughly eight per month), weekly vlogs, and 3–4 short-form pieces each week.
 - Professionally edited long-form and short-form videos ready for publication.
 
 ## 5. Marketing & Sales

@@ -13,8 +13,11 @@ Purpose: Track the core responsibilities of the Product & Coaching department.
 - [ ] Update course content (Owner: Ollie updating Master Class; Cadence: as needed; Roadmap static).
 - [ ] Deliver live coaching: 9 group sessions/week; 10 community one-to-one sessions/week (Owners: Tony/Charlie; Cadence: weekly schedule).
 - [ ] Deliver leaderboard one-to-one sessions (Owner: Ollie; Cadence: 3 per month).
-- [ ] Run onboarding calls for new customers (Owner: Jordan; Cadence: 30–40/month) and graduation calls for non-upsell clients (Owner: Jordan/Tony; Cadence: weekly review).
-- [ ] Provide personalised video feedback on student submissions (Owner: Charlie; Cadence: 10–20/week) and engage in community forums (Owners: all coaches; Cadence: daily).
+- [ ] Run onboarding calls for new customers (Owner: Tony; Cadence: 30–40/month; 15 minutes for challenge entrants, 45 minutes for direct membership buyers).
+- [ ] Deliver graduation calls for non-upsell clients (Owner: Jordan; Cadence: weekly review).
+- [ ] Provide personalised video feedback on student submissions and manage the video feedback review system (Owner: Charlie; Cadence: 10–20/week) and engage in community forums (Owners: all coaches; Cadence: daily).
+- [ ] Offer "challenge win" 1:1 calls for members who upsell from the challenge into the community (Owner: Tony; Cadence: as upsells occur).
+- [ ] Collect and review inputs from the anonymous feedback box (Owners: Charlie/Jordan; Cadence: weekly).
 
 ## Notes
 - Use call and feedback logs to track completion and identify students needing follow-up.

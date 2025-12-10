@@ -12,13 +12,13 @@ Purpose: Define the Content & Media roles and expectations.
 - G: Edits long-form and short-form videos, ensuring brand consistency and publish-ready masters.
 
 ## Key Responsibilities
-- Maintain a monthly calendar of ~15 YouTube videos plus weekly vlog production.
+- Maintain a weekly cadence of two YouTube videos plus weekly vlog production.
 - Produce 3–4 short-form social videos per week, repurposing long-form footage where possible.
 - Ensure all assets follow brand guidelines and are delivered in publish-ready formats.
 - Coordinate with Marketing on launch timelines and thumbnail/copy needs.
 
 ## KPIs / Success Measures
-- Content velocity: 15 long-form videos/month, weekly vlogs, and 3–4 shorts/week delivered on time.
+- Content velocity: two long-form videos per week (roughly eight/month), weekly vlogs, and 3–4 shorts/week delivered on time.
 - Edit quality and brand adherence across published assets.
 - Engagement metrics across YouTube and social channels (views, watch time, CTR on thumbnails).
 

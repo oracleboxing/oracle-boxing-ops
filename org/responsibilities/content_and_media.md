@@ -8,7 +8,7 @@ Purpose: Define responsibilities for the Content & Media department.
 - Produces public-facing media (YouTube, vlogs, and social clips) independent of the course curriculum.
 
 ## Responsibility List
-- [ ] Script and film ~15 YouTube videos per month plus weekly vlog updates (Owner: Ollie; Cadence: monthly/weekly).
+- [ ] Script and film two YouTube videos per week plus weekly vlog updates (Owner: Ollie; Cadence: weekly).
 - [ ] Produce 3–4 short-form videos per week for social platforms (Owner: Ollie; Cadence: weekly).
 - [ ] Edit long-form and short-form content to publication-ready quality (Owner: G; Cadence: weekly release schedule).
 - [ ] Repurpose long-form footage into shorts and clips for social (Owners: Ollie/G; Cadence: weekly).

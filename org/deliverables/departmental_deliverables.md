@@ -13,7 +13,7 @@ Purpose: Maintain current deliverables for each department within Oracle Boxing.
 - Personalised video feedback issued for student submissions (10–20/week) and active community engagement.
 
 ## Content & Media
-- 15 YouTube videos scripted, filmed, and released per month plus weekly vlog updates (Ollie).
+- Two YouTube videos scripted, filmed, and released per week (roughly eight per month) plus weekly vlog updates (Ollie).
 - 3–4 short-form social videos created and published each week; long-form content repurposed into shorts (Ollie/G).
 - Professionally edited, brand-consistent videos ready for publication across channels (G).
 
