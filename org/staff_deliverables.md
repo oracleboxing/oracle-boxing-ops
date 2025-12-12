@@ -77,8 +77,23 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 | File annual self assessments | Operations & Finance | Annually |
 | File monthly PAYE for directors | Operations & Finance | Monthly |
 | Look for any inefficiencies in the business which can be removed or automated | Operations & Finance | Ongoing |
-
-*Note: Marketing campaign deliverables currently TBD (hiring planned for this department)*
+| Create campaign overview (theme, timing, duration, rationale, unique angle) | Marketing & Sales | Per campaign |
+| Write copywriting for the landing page | Marketing & Sales | Per campaign |
+| Script and produce video sales letter (VSL) | Marketing & Sales | Per campaign |
+| Build front-end of the landing page | Marketing & Sales | Per campaign |
+| Build back-end of the landing page (forms, integrations, tracking) | Marketing & Sales | Per campaign |
+| Define pricing and available packages | Marketing & Sales | Per campaign |
+| Write email campaign sequence | Marketing & Sales | Per campaign |
+| Script YouTube mid-roll advert | Marketing & Sales | Per campaign |
+| Liaise with Content & Media to produce the mid-roll advert | Marketing & Sales | Per campaign |
+| Update YouTube video descriptions with campaign links | Marketing & Sales | During campaign |
+| Create organic Instagram assets (reels, carousels, stories) | Marketing & Sales | Per campaign |
+| Create paid Meta ads marketing assets | Marketing & Sales | Per campaign |
+| Schedule and launch Meta ads campaign | Marketing & Sales | Per campaign |
+| Monitor campaign performance (Facebook ad group) | Marketing & Sales | During campaign |
+| Post-campaign debrief (what went well, what didn't) | Marketing & Sales | Per campaign |
+| Remove/close special landing page | Marketing & Sales | End of campaign |
+| Remove YouTube mid-roll ads if necessary | Marketing & Sales | End of campaign |
 
 ---
 
@@ -104,28 +119,3 @@ Purpose: Overview of each staff member and their assigned deliverables across al
 | Edit 3 high-CTR worthy thumbnails for each YouTube video to run an ABC test | Content & Media | Per video |
 | Schedule video with appropriate end cards and mid cards | Content & Media | Per video |
 
----
-
-## TBD (Marketing & Sales)
-
-**Unassigned Deliverables** (Monthly Campaign):
-
-| Deliverable | Department | Cadence |
-| --- | --- | --- |
-| Create campaign overview (theme, timing, duration, rationale, unique angle) | Marketing & Sales | Per campaign |
-| Write copywriting for the landing page | Marketing & Sales | Per campaign |
-| Script and produce video sales letter (VSL) | Marketing & Sales | Per campaign |
-| Build front-end of the landing page | Marketing & Sales | Per campaign |
-| Build back-end of the landing page (forms, integrations, tracking) | Marketing & Sales | Per campaign |
-| Define pricing and available packages | Marketing & Sales | Per campaign |
-| Write email campaign sequence | Marketing & Sales | Per campaign |
-| Script YouTube mid-roll advert | Marketing & Sales | Per campaign |
-| Liaise with Content & Media to produce the mid-roll advert | Marketing & Sales | Per campaign |
-| Update YouTube video descriptions with campaign links | Marketing & Sales | During campaign |
-| Create organic Instagram assets (reels, carousels, stories) | Marketing & Sales | Per campaign |
-| Create paid Meta ads marketing assets | Marketing & Sales | Per campaign |
-| Schedule and launch Meta ads campaign | Marketing & Sales | Per campaign |
-| Monitor campaign performance (Facebook ad group) | Marketing & Sales | During campaign |
-| Post-campaign debrief (what went well, what didn't) | Marketing & Sales | Per campaign |
-| Remove/close special landing page | Marketing & Sales | End of campaign |
-| Remove YouTube mid-roll ads if necessary | Marketing & Sales | End of campaign |
