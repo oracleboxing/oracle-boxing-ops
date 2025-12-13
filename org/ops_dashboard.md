@@ -1,13 +1,43 @@
 # Ops Dashboard
-Version: 1.1
-Last Updated: 2025-12-10
-Purpose: Weekly operational snapshot of department priorities, owners, cadences, and status.
 
-Update this dashboard during weekly planning. Each department name links to its snapshot page for deeper detail.
+**Version:** 2.0
+**Last Updated:** 2025-12-13
+**Purpose:** Weekly operational snapshot of department priorities, owners, cadences, and status.
 
-| Department | Top 5 Priorities | Owners | Due/Cadence | Status |
+Update this dashboard during weekly planning. Each department name links to its full department file.
+
+---
+
+| Department | Top 5 Priorities | Owners | Cadence | Status |
 | --- | --- | --- | --- | --- |
-| [Product & Coaching](departments/product_and_coaching.md) | - Maintain high quality course material.<br>- Host 9 group coaching calls per week on schedule.<br>- Deliver weekly 1-1 sessions to top 10 on 7-day leaderboard.<br>- Deliver monthly 1-1 sessions to top 3 on 30-day leaderboard.<br>- Complete video feedback and onboarding calls for new members. | Oliver; Toni; Charlie | Weekly review; leaderboard one-to-ones monthly | On track |
-| [Content & Media](departments/content_and_media.md) | - Script, film, and release two YouTube videos each week plus weekly vlogs.<br>- Produce 3–4 short-form social videos weekly and repurpose long-form into shorts.<br>- Maintain a reliable content calendar with timely uploads.<br>- Ensure editing quality, branding, and publish-ready assets.<br>- Capture performance notes to feed back into future shoots. | Oliver; G | Weekly content cadence | On track |
-| [Marketing & Sales](departments/marketing_and_sales.md) | - Draft and send campaign emails/newsletters for active offers.<br>- Build and optimise landing pages and funnels for each offer.<br>- Script sales videos/VSLs and create advertising assets.<br>- Launch and optimise paid ads across active platforms.<br>- Run mid-challenge upsell calls and close One-to-One Coaching/community memberships. | Jordan; Toni | Weekly with campaign-specific checkpoints | On track |
-| [Operations & Finance](departments/operations_and_finance.md) | - Resolve and log support tickets for cancellations, access issues, and general queries.<br>- Maintain pricing strategy and payment infrastructure for all products.<br>- Keep Make.com/Stripe automations healthy with incident logs.<br>- Maintain uptime for websites and membership portals.<br>- Reconcile payments and issue contractor payouts on time. | Jordan | Weekly operations review | On track |
+| [Executive & Strategy](departments/executive_and_strategy.md) | - Maintain org blueprint and operating system current<br>- Conduct weekly planning and ops dashboard updates<br>- Review department performance against KPIs<br>- Progress hiring roadmap (Content Operator priority)<br>- Drive quarterly priorities and resource allocation | Jordan | Weekly planning; Quarterly review | On track |
+| [Product & Coaching](departments/product_and_coaching.md) | - Host 9 group coaching calls per week on schedule<br>- Deliver weekly 1-1 sessions to top 10 on 7-day leaderboard<br>- Deliver monthly 1-1 sessions to top 3 on 30-day leaderboard<br>- Complete video feedback and onboarding for new members<br>- Maintain high quality course material | Oliver; Toni; Charlie | Weekly; Monthly leaderboard 1-1s | On track |
+| [Community & Retention](departments/community_and_retention.md) | - Maintain daily community presence and engagement<br>- Complete accountability check-ins with members<br>- Capture member success stories monthly<br>- Monitor churn signals and at-risk members<br>- (Interim: duties split across Coach–Educators) | Future hire (Coach–Educators interim) | Daily engagement; Weekly review | Interim |
+| [Content](departments/content.md) | - Script, film, and release 2 YouTube videos + weekly vlog<br>- Produce 3-4 short-form videos weekly<br>- Complete Saturday editing + presentation review<br>- Maintain content asset tracker current<br>- (TBD: Publishing workflow awaiting Content Operator hire) | Oliver; G; TBD | Weekly content cadence | On track |
+| [Growth (Marketing & Sales)](departments/growth_marketing_and_sales.md) | - Execute active marketing campaigns end-to-end<br>- Build and optimise landing pages and funnels<br>- Send campaign emails and newsletters on schedule<br>- Handle 1-1 coaching sales and enquiries (Toni)<br>- Track campaign performance and conversions | Jordan; Toni | Per campaign; Weekly review | On track |
+| [Operations & Finance](departments/operations_and_finance.md) | - Clear customer support inbox daily<br>- Maintain automations and site uptime (weekly checks)<br>- Track P&L and issue contractor payments monthly<br>- Keep tax filings on schedule<br>- Engage Dev/Tech for technical projects as needed | Jordan | Daily support; Weekly ops review | On track |
+
+---
+
+## Weekly Planning Notes
+
+*Use this section to capture notes from weekly planning sessions.*
+
+**Week of:** [Date]
+
+**Key Focus:**
+-
+
+**Blockers:**
+-
+
+**Decisions Made:**
+-
+
+---
+
+## Quick Links
+
+- [Start Here](START_HERE.md) – Navigation hub
+- [Organisational Blueprint](organisational_blueprint.md) – Full org structure
+- [Staff Deliverables](staff_deliverables.md) – Person → deliverables mapping
