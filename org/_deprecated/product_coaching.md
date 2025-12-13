@@ -1,4 +1,22 @@
 # Product & Coaching Team
+
+> **DEPRECATED** (2025-12-13)
+>
+> This file has been superseded by the new organisational structure.
+>
+> **See instead:**
+> - [Coach–Educator Role](../roles/coach_educator.md)
+> - [Product & Coaching Department](../departments/product_and_coaching.md)
+>
+> This file will be removed after 2025-01-13.
+
+---
+
+*Original content preserved below for reference:*
+
+---
+
+# Product & Coaching Team
 Version: 1.2
 Last Updated: 2025-12-10
 Purpose: Outline responsibilities and success metrics for the Product & Coaching function.

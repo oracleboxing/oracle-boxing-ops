@@ -1,4 +1,23 @@
 # Operations & Finance Lead
+
+> **DEPRECATED** (2025-12-13)
+>
+> This file has been superseded by the new organisational structure.
+>
+> **See instead:**
+> - [Operations Manager Role](../roles/operations_manager.md)
+> - [Dev/Tech Contract Role](../roles/dev_tech_contract.md)
+> - [Operations & Finance Department](../departments/operations_and_finance.md)
+>
+> This file will be removed after 2025-01-13.
+
+---
+
+*Original content preserved below for reference:*
+
+---
+
+# Operations & Finance Lead
 Version: 1.2
 Last Updated: 2025-12-10
 Purpose: Define the Operations & Finance role, scope, and metrics.

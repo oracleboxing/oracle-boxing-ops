@@ -1,4 +1,24 @@
 # Content & Media Team
+
+> **DEPRECATED** (2025-12-13)
+>
+> This file has been superseded by the new organisational structure.
+>
+> **See instead:**
+> - [Content Creator Role](../roles/content_creator.md)
+> - [Content Producer (Editor) Role](../roles/content_producer_editor.md)
+> - [Content Operator Role](../roles/content_operator.md)
+> - [Content Department](../departments/content.md)
+>
+> This file will be removed after 2025-01-13.
+
+---
+
+*Original content preserved below for reference:*
+
+---
+
+# Content & Media Team
 Version: 1.1
 Last Updated: 2025-05-07
 Purpose: Define the Content & Media roles and expectations.

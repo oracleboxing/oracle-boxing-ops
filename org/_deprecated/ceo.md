@@ -1,4 +1,21 @@
 # CEO
+
+> **DEPRECATED** (2025-12-13)
+>
+> This file has been superseded by the new organisational structure.
+>
+> **See instead:**
+> - [CEO / Operating Founder Role](../roles/operating_founder_ceo.md)
+>
+> This file will be removed after 2025-01-13.
+
+---
+
+*Original content preserved below for reference:*
+
+---
+
+# CEO
 Version: 1.0
 Last Updated: 2025-05-06
 Purpose: Define the CEO role scope, decision rights, and success measures for Oracle Boxing.
@@ -23,4 +40,4 @@ Purpose: Define the CEO role scope, decision rights, and success measures for Or
 - Team health and hiring velocity
 
 ## Notes
-- 
+-

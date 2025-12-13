@@ -1,4 +1,23 @@
 # Marketing & Sales Team
+
+> **DEPRECATED** (2025-12-13)
+>
+> This file has been superseded by the new organisational structure.
+>
+> **See instead:**
+> - [Growth Operator Role](../roles/growth_operator.md)
+> - [Coach–Educator Role](../roles/coach_educator.md) (for Toni's sales responsibilities)
+> - [Growth (Marketing & Sales) Department](../departments/growth_marketing_and_sales.md)
+>
+> This file will be removed after 2025-01-13.
+
+---
+
+*Original content preserved below for reference:*
+
+---
+
+# Marketing & Sales Team
 Version: 1.1
 Last Updated: 2025-05-07
 Purpose: Capture the scope and measures for Marketing & Sales roles.

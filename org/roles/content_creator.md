@@ -1,0 +1,104 @@
+# Content Creator
+
+**Version:** 1.0
+**Last Updated:** 2025-12-13
+**Purpose:** Define the Content Creator role scope, decision rights, and success measures for Oracle Boxing.
+
+---
+
+## Role Summary
+
+| Attribute | Value |
+| --- | --- |
+| **Current Holder** | Oliver |
+| **Primary Department** | Content |
+| **Reports To** | CEO / Operating Founder |
+| **Collaborates With** | Content Producer (G), Content Operator (TBD), Growth |
+
+---
+
+## Scope
+
+Plan, script, and film all public-facing video content including YouTube videos, vlogs, and on-camera presentations. Own the creative direction and ensure content aligns with brand voice and audience needs.
+
+Oliver also holds the **Coach–Educator** role in Product & Coaching.
+
+---
+
+## Key Responsibilities
+
+### Content Planning
+- [ ] Develop content calendar and video topics
+- [ ] Script 8 YouTube videos per month (2 per week)
+- [ ] Plan weekly vlog updates
+- [ ] Align content themes with marketing campaigns (via Growth)
+
+### Content Production
+- [ ] Film 8 YouTube videos per month (2 per week)
+- [ ] Film weekly vlog updates
+- [ ] Deliver raw footage to Content Producer on schedule
+- [ ] Upload raw videos to Dropbox and link in content schedule
+
+### Creative Direction
+- [ ] Maintain consistent brand voice and presentation style
+- [ ] Review edited content for quality and messaging
+- [ ] Participate in weekly edit + presentation review (Saturday)
+- [ ] Provide feedback to Content Producer on edits
+
+### Collaboration
+- [ ] Liaise with Growth on mid-roll scripts for campaigns
+- [ ] Coordinate with Content Operator on titles and thumbnails (when hired)
+- [ ] Share content insights with Product & Coaching team
+
+---
+
+## Decision Rights
+
+### Decides Without Asking
+- Video topics and scripting approach
+- Filming schedule and logistics
+- Creative direction and presentation style
+- Raw footage organisation and delivery process
+
+### Must Escalate
+- Major content strategy changes (CEO)
+- Significant resource requests (CEO)
+- Brand-level creative decisions (CEO)
+- Campaign-specific content requirements (Growth)
+
+---
+
+## KPIs / Success Measures
+
+- **Video output:** 8 YouTube videos + 4 vlogs per month
+- **Script completion:** All scripts delivered on schedule
+- **Filming completion:** All videos filmed on schedule
+- **Raw delivery:** Raw footage uploaded within 24h of filming
+- **Review participation:** Weekly Saturday review attended
+
+---
+
+## Interfaces
+
+| Who | Collaboration Purpose | Frequency |
+| --- | --- | --- |
+| Content Producer (G) | Raw footage handoff, edit feedback | Per video |
+| Content Operator (TBD) | Title/thumbnail coordination | Per video |
+| Growth (Jordan) | Campaign themes, mid-roll scripts | Per campaign |
+| Coach–Educators | Content ideas from coaching sessions | Weekly |
+
+---
+
+## Notes
+
+- Oliver splits time between Content Creator and Coach–Educator roles
+- Content Creator work typically happens in batched filming sessions
+- Saturday review session is key quality checkpoint
+
+---
+
+## Related Documents
+
+- [Content Department](../departments/content.md)
+- [Coach–Educator Role](coach_educator.md)
+- [Staff Deliverables](../staff_deliverables.md)
