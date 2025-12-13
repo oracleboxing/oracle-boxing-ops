@@ -1,85 +1,248 @@
 # Organisational Blueprint
-Version: 1.3
-Last Updated: 2025-12-10
-Purpose: Define Oracle Boxing's mission, departmental structure, people, responsibilities, deliverables, and hiring roadmap.
+
+**Version:** 2.0
+**Last Updated:** 2025-12-13
+**Purpose:** Define Oracle Boxing's mission, departmental structure, people, roles, outcomes, and hiring roadmap.
 
 ---
+
 ## 1. Company Mission
+
 - Help beginners and intermediate boxers master old-school boxing from home through structured digital courses, live coaching, and a supportive community.
 - Combine trustworthy fundamentals with modern coaching, feedback loops, and community accountability.
 - Operate with reliable delivery, clear guarantees, and risk-reduced offers that build confidence in our programmes.
 
+---
+
 ## 2. Department Overview
-- Product & Coaching: Course creation, live coaching, onboarding, and community engagement.
-- Content & Media: Public-facing video production for YouTube, vlogs, and social clips.
-- Marketing & Sales: Acquisition strategy, funnels, ads, email, and premium coaching sales.
-- Operations & Finance: Systems reliability, support, automations, pricing, payment infrastructure, billing, and contractor payments.
 
-## 3. Product & Coaching
-[Department KPIs & Cadence](departments/product_and_coaching.md)
+| # | Department | Outcome | Primary Owner |
+|---|------------|---------|---------------|
+| 1 | [Executive & Strategy](#3-executive--strategy) | Direction, priorities, resourcing, culture | Jordan |
+| 2 | [Product & Coaching](#4-product--coaching) | Student results through curriculum and live coaching | Oliver, Toni, Charlie |
+| 3 | [Community & Retention](#5-community--retention) | High retention, community health, accountability | Future hire |
+| 4 | [Content](#6-content) | Consistent high-quality content pipeline that feeds growth | Oliver, G |
+| 5 | [Growth (Marketing & Sales)](#7-growth-marketing--sales) | Predictable acquisition + conversion across offers | Jordan, Toni |
+| 6 | [Operations & Finance](#8-operations--finance) | Reliability, support, payments, compliance | Jordan |
+
+---
+
+## 3. Executive & Strategy
+
+[Department Details](departments/executive_and_strategy.md)
+
 ### People
-- Oliver – Managing Course Creator (planning and filming courses); Community Coach.
-- Toni – Community Coach; 1-1 Coach.
-- Charlie – Community Coach.
+- **Jordan** – CEO / Operating Founder
 
-### Deliverables
-See [Product & Coaching Department](departments/product_and_coaching.md) for full deliverables including:
-- Course creation and maintenance
-- 9 weekly group coaching sessions with schedule
-- Weekly and monthly 1-1 coaching sessions
-- Community engagement and video feedback
-- New member onboarding calls
+### Outcome
+Direction, priorities, resourcing, and culture that enable the team to execute effectively.
 
-## 4. Content & Media
-[Department KPIs & Cadence](departments/content_and_media.md)
+### Key Responsibilities
+- Set company vision, quarterly priorities, and resource allocation
+- Own hiring decisions and team performance management
+- Maintain org blueprint and operating system
+- Drive culture and decision-making frameworks
+
+### Key Deliverables
+- Quarterly org blueprint review
+- Weekly planning + ops dashboard update
+- Hiring plans and performance reviews
+- Budget and capital allocation decisions
+
+---
+
+## 4. Product & Coaching
+
+[Department Details](departments/product_and_coaching.md)
+
 ### People
-- Oliver – Content creator (scripts, filming, on-camera presentation).
-- G – Video editor (long-form and short-form).
+- **Oliver** – Coach–Educator (Managing Course Creator)
+- **Toni** – Coach–Educator (1-1 Coach, Onboarding)
+- **Charlie** – Coach–Educator (Community Coach)
 
-### Responsibilities
-- Script and film two YouTube videos per week plus weekly vlog updates.
-- Create 3–4 short-form social videos per week and repurpose long-form footage.
-- Maintain consistent branding across all media and ensure edit-ready outputs.
+### Outcome
+Student results through high-quality curriculum and consistent live coaching delivery.
 
-### Deliverables
-- Two YouTube videos per week (roughly eight per month), weekly vlogs, and 3–4 short-form pieces each week.
-- Professionally edited long-form and short-form videos ready for publication.
+### Key Responsibilities
+- Create and maintain course content (Oliver)
+- Deliver 9 weekly group coaching sessions (schedule in department file)
+- Provide 1-1 coaching sessions (leaderboard + paid packages)
+- Record and post feedback videos within 24h
+- Conduct new member onboarding calls
 
-## 5. Marketing & Sales
-[Department KPIs & Cadence](departments/marketing_and_sales.md)
+### Key Deliverables
+- Course modules created and updated
+- 9 group coaching calls/week delivered
+- Weekly 1-1 coaching sessions (Toni: 1-2/week paid packages)
+- Video feedback posted within 24h (Charlie: weekly)
+- Onboarding calls completed for all new members
+
+---
+
+## 5. Community & Retention
+
+[Department Details](departments/community_and_retention.md)
+
 ### People
-- Jordan – Head of Marketing & Sales.
-- Toni – Sales representative for the One-to-One Coaching Package and community upsells.
+- **Future hire** – Community Steward
+- Coach–Educators provide interim support
 
-### Responsibilities
-- Write marketing emails/newsletters; build and optimise landing pages and funnels.
-- Script sales videos and VSLs; create advertising assets (copy, graphics, thumbnails).
-- Run and manage paid ad campaigns (e.g., Facebook).
-- Conduct mid-challenge upsell calls and handle pre-purchase enquiries/cancellations.
-- Close sales for One-to-One Coaching Package and community memberships (Toni).
+### Outcome
+High retention, strong community health, member accountability, and success story capture.
 
-### Deliverables
-- Email campaigns/newsletters; high-converting landing pages/funnel assets.
-- Sales video scripts/VSLs and launched ads across platforms.
-- Records of upsell calls/conversions.
+### Key Responsibilities
+- Maintain daily community presence standards
+- Run accountability systems and follow-ups
+- Capture and document member success stories
+- Monitor churn signals and escalate at-risk members
 
-## 6. Operations & Finance
-[Department KPIs & Cadence](departments/operations_and_finance.md)
+### Key Deliverables
+- Daily community engagement maintained
+- Accountability check-ins completed
+- Success stories documented monthly
+- Churn signal reviews (weekly cadence)
+
+**Note:** This is a future department. Current community duties are split among Coach–Educators.
+
+---
+
+## 6. Content
+
+[Department Details](departments/content.md)
+
 ### People
-- Jordan – Head of Operations & Finance.
+- **Oliver** – Content Creator (planning, scripting, filming)
+- **G** – Content Producer / Editor (editing long-form and short-form)
+- **TBD** – Content Operator (publishing, titles, thumbnails, performance loop)
 
-### Responsibilities
-- Answer customer support emails (cancellations, access issues, general queries).
-- Own pricing strategy for courses and maintain payment infrastructure for products and upsells.
-- Maintain automations via Make.com and Stripe; keep sites and membership portals functional.
-- Manage payment processing and contractor payments; oversee merchandise operations when applicable.
+### Outcome
+Consistent high-quality content pipeline that feeds growth and reinforces brand authority.
 
-### Deliverables
-- Resolved support tickets and functioning automations/billing flows.
-- Pricing models and payment flows live and functional.
-- Stable websites/portals and on-time contractor payments.
+### Key Responsibilities
+- Script and film 2 YouTube videos per week plus weekly vlog
+- Produce 3-4 short-form pieces per week
+- Edit all content to professional standard
+- Manage publishing schedule and performance tracking
 
-## 7. Hiring Roadmap
-- Near-term: None currently planned; maintain contractor coverage for editing as needed.
-- Mid-term: Evaluate additional community coaching capacity if session volume increases.
-- Long-term: Consider specialised lifecycle marketing or operations support depending on growth.
+### Key Deliverables
+- 8 YouTube videos/month + 4 weekly vlogs
+- 12-16 short-form pieces/month
+- Weekly edit + presentation review (Saturday)
+- Asset tracker: script → raw → edit → publish URL
+
+**Unassigned (Content Operator role):**
+- YouTube titles and descriptions
+- Thumbnail creation/coordination
+- Publishing schedule management
+- Performance analytics and recommendations
+
+---
+
+## 7. Growth (Marketing & Sales)
+
+[Department Details](departments/growth_marketing_and_sales.md)
+
+### People
+- **Jordan** – Growth Operator (strategy, funnels, email, ads, pricing)
+- **Toni** – Sales Rep (1-1 coaching sales, upsell calls, enquiry handling)
+
+### Outcome
+Predictable acquisition and conversion across all offers.
+
+### Key Responsibilities
+- Plan and execute marketing campaigns
+- Build and optimise landing pages and funnels
+- Write email sequences and newsletters
+- Create ad assets (copy, graphics, mid-roll scripts)
+- Handle pre-purchase enquiries and close sales (Toni)
+- Track conversions and campaign performance
+
+### Key Deliverables
+- Campaign plans with pricing/package definition
+- Landing pages and funnel assets
+- Email sequences per campaign
+- Organic IG assets + paid Meta ad assets
+- Upsell call records and conversion tracking
+- Launch → monitor → debrief → close for each campaign
+
+---
+
+## 8. Operations & Finance
+
+[Department Details](departments/operations_and_finance.md)
+
+### People
+- **Jordan** – Operations Manager
+- **Dev/Tech** – On-demand contractor (project-based)
+
+### Outcome
+Reliability, customer support, payment processing, compliance, and system stability.
+
+### Key Responsibilities
+- Handle customer support inbox daily
+- Process refunds and resolve access issues
+- Manage payment infrastructure (Stripe, membership portals)
+- Maintain automations (Make.com workflows)
+- Ensure site uptime and weekly health checks
+- Handle tax and compliance (VAT, corp tax, PAYE, SA)
+- Process contractor payments monthly
+
+### Key Deliverables
+- Support inbox cleared daily
+- Monthly P&L reporting
+- Contractor payments on time
+- Automations health check (weekly)
+- Site checks (weekly)
+- Tax filings on schedule (VAT quarterly, corp tax annual, SA annual, PAYE monthly)
+
+### Systems, Automations & Reliability
+- Make.com workflows maintained
+- Stripe payment flows operational
+- Incident log and runbook links maintained
+- Dev/Tech contractor engaged via SOW for projects (see [Dev/Tech Contract Role](roles/dev_tech_contract.md))
+
+---
+
+## 9. Canonical Roles
+
+| Role | Current Holder(s) | Primary Department |
+|------|-------------------|-------------------|
+| CEO / Operating Founder | Jordan | Executive & Strategy |
+| Content Creator | Oliver | Content |
+| Content Producer (Editor) | G | Content |
+| Content Operator | TBD | Content |
+| Coach–Educator | Oliver, Toni, Charlie | Product & Coaching |
+| Community Steward | Future hire | Community & Retention |
+| Growth Operator | Jordan | Growth |
+| Operations Manager | Jordan | Operations & Finance |
+| Dev / Tech (Contract) | On-demand | Operations & Finance |
+
+See [Staff Deliverables](staff_deliverables.md) for the complete person → role → deliverables mapping.
+
+---
+
+## 10. Hiring Roadmap
+
+### Immediate Priority
+1. **Content Operator** – Remove bottleneck on publishing, titles, thumbnails, performance tracking. Currently unassigned deliverables sitting with TBD.
+
+### Near-Term (Next 6 months)
+2. **Community Steward** – As community grows, dedicated retention and accountability support needed. Currently split across Coach–Educators.
+
+### Mid-Term (6-12 months)
+3. **Growth Operator (dedicated)** – Allow Jordan to step back from day-to-day marketing execution.
+4. **Operations Manager (dedicated)** – Allow Jordan to step back from support and compliance.
+
+### Long-Term
+5. Additional Coach–Educator capacity if session volume increases
+6. Specialised roles as business scales (e.g., ads specialist, customer success)
+
+---
+
+## Document Links
+
+- [Start Here](START_HERE.md) – Navigation hub
+- [Ops Dashboard](ops_dashboard.md) – Weekly operational snapshot
+- [Staff Deliverables](staff_deliverables.md) – Person → role → deliverables
+- [Departments Index](departments/) – All department files
+- [Roles Index](roles/) – All role definitions
