@@ -164,6 +164,14 @@ Campaign Net Profit = Attributable Campaign Revenue
 - **Direct Fulfilment Costs:** Any direct costs to deliver campaign promises
 - **Refunds:** Refunds requested within the agreed refund window
 
+### Challenge Upsell Commission
+| Component | Rate | Basis |
+|-----------|------|-------|
+| Challenge upsell calls | 10% | Of collected revenue from challenge upsell sales |
+
+**Conditions:**
+- Commission is calculated on collected revenue, net of refunds within agreed refund window
+
 ### Ops & Finance Hourly Lane (Episodic)
 | Component | Amount | Cadence |
 |-----------|--------|---------|
@@ -212,11 +220,6 @@ Campaign Net Profit = Attributable Campaign Revenue
 | Component | Amount | Condition |
 |-----------|--------|-----------|
 | Monthly floor | £1,000 | If commission total < £1,000, business tops up to £1,000 |
-
-### Challenge Upsell Sales Commission
-| Component | Rate | Basis |
-|-----------|------|-------|
-| Challenge upsell calls | 10% | Of collected revenue from challenge upsell sales |
 
 **Conditions:**
 - Commission is calculated on collected revenue, net of refunds within agreed refund window

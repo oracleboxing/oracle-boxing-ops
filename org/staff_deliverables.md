@@ -79,6 +79,7 @@
 | --- | --- | --- |
 | Growth Operator base | £1,000/month | Flat |
 | Campaign profit share | 20–30% of net | Performance |
+| Challenge upsell calls | 10% of collected revenue | Commission |
 | Ops & Finance work | £20/hour | Hourly (pre-approved) |
 | Architect milestone bonuses | £300–£750 each | Quarterly incentive |
 
@@ -149,7 +150,6 @@
 | Component | Amount | Type |
 | --- | --- | --- |
 | 1-on-1 coaching sales | 60% of sales | Commission |
-| Challenge upsell calls | 10% of collected revenue | Commission |
 | Monthly floor guarantee | £1,000 | Floor |
 
 *Commission calculated on collected revenue, net of refunds within agreed refund window.*
