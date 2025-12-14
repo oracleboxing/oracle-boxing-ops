@@ -23,9 +23,9 @@ Set company direction, allocate resources, manage team performance, and maintain
 ### Strategic Planning
 | Deliverable | Owner | Cadence | KPI/Status |
 | --- | --- | --- | --- |
-| Conduct quarterly organisational blueprint review | Jordan | Quarterly | Blueprint reviewed and updated |
-| Set quarterly company priorities and OKRs | Jordan | Quarterly | Priorities documented and communicated |
-| Define annual budget and capital allocation | Jordan | Annually | Budget approved and tracked |
+| Conduct quarterly budget allocation review | Jordan | Quarterly | Budget allocation updated and communicated |
+| Set quarterly focus and key bets | Jordan | Quarterly | Focus documented |
+| Update organisational blueprint as needed | Jordan | As needed | Blueprint updated when structure changes |
 
 ### Operational Oversight
 | Deliverable | Owner | Cadence | KPI/Status |
@@ -57,8 +57,8 @@ Set company direction, allocate resources, manage team performance, and maintain
 | --- | --- |
 | Weekly planning + ops dashboard update | Weekly |
 | Performance review | Quarterly |
-| Org blueprint review | Quarterly |
-| Budget/capital allocation review | Annually |
+| Budget allocation review | Quarterly |
+| Org blueprint updates | As needed |
 
 ---
 

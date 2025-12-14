@@ -18,10 +18,11 @@
 
 ## Key Deliverables
 
-- Quarterly org blueprint review
+- Quarterly budget allocation review + key bets
 - Weekly planning and ops dashboard updates
 - Quarterly performance reviews
 - Hiring and resource allocation decisions
+- Org blueprint updates as needed
 
 ## Detailed References
 
