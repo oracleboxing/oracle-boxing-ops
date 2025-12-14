@@ -117,7 +117,7 @@ Provide technical development and integration services on a project basis. Build
 - Whether to accept completed work
 - Budget allocation for technical work
 
-### Must Escalate (to CEO)
+### Must Escalate (to Managing Director)
 - Budget increases beyond approved amount
 - Timeline extensions affecting other departments
 - Technical decisions with significant business impact

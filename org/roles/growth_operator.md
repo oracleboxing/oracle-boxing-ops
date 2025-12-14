@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | Jordan (to be delegated) |
 | **Primary Department** | Growth (Marketing & Sales) |
-| **Reports To** | Architect of Scale & Culture (Operating Founder) |
+| **Reports To** | Managing Director (Founding Partner) |
 | **Collaborates With** | Sales Rep (Toni), Content team, Operations |
 
 ---
@@ -21,7 +21,7 @@
 
 Own customer acquisition and conversion systems: campaign strategy, funnels, landing pages, email marketing, paid advertising, and offer design. Drive predictable growth through systematic marketing execution.
 
-Jordan currently holds this role alongside CEO and Operations Manager. Mid-term goal is to delegate to a dedicated hire.
+Jordan currently holds this role alongside Managing Director and Operations Manager. Mid-term goal is to delegate to a dedicated hire.
 
 ---
 
@@ -79,10 +79,10 @@ Jordan currently holds this role alongside CEO and Operations Manager. Mid-term 
 - Pricing within approved ranges
 
 ### Must Escalate
-- New product/offer creation (CEO)
-- Significant budget increases (CEO)
-- Major pricing changes (CEO)
-- Strategic partnerships or affiliates (CEO)
+- New product/offer creation (Managing Director)
+- Significant budget increases (Managing Director)
+- Major pricing changes (Managing Director)
+- Strategic partnerships or affiliates (Managing Director)
 
 ---
 
@@ -105,7 +105,7 @@ Jordan currently holds this role alongside CEO and Operations Manager. Mid-term 
 | Content Creator (Oliver) | Mid-roll production, content alignment | Per campaign |
 | Content Producer (G) | Mid-roll editing | Per campaign |
 | Operations | Payment infrastructure, tracking | Per campaign |
-| CEO | Budget approval, strategy alignment | Weekly |
+| Managing Director | Budget approval, strategy alignment | Weekly |
 
 ---
 
@@ -113,7 +113,7 @@ Jordan currently holds this role alongside CEO and Operations Manager. Mid-term 
 
 **Model:** Flat + Performance
 
-See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--architect-of-scale--culture--growth-operator--operations-manager) for full details.
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager) for full details.
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -145,5 +145,5 @@ When a dedicated Growth Operator is hired, Jordan would:
 ## Related Documents
 
 - [Growth (Marketing & Sales) Department](../departments/growth_marketing_and_sales.md)
-- [Architect of Scale & Culture Role](architect_of_scale_and_culture.md)
+- [Managing Director Role](managing_director.md)
 - [Staff Deliverables](../staff_deliverables.md)

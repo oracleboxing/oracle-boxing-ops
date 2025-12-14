@@ -8,7 +8,7 @@
 
 ## People
 
-- **Jordan** – Architect of Scale & Culture
+- **Jordan** – Managing Director (Founding Partner)
 
 ---
 
@@ -84,6 +84,6 @@ Set company direction, allocate resources, manage team performance, and maintain
 
 ## Next Hire to Remove Founder Bottleneck
 
-Currently, Jordan holds the Architect of Scale & Culture role with no planned delegation. As the company scales, consider:
-- **Chief of Staff** or **Ops Lead** to handle operational oversight and planning cadence
-- This would free Jordan to focus on vision, partnerships, and high-level strategy
+Currently, Jordan holds the Managing Director role alongside Growth Operator and Operations Manager. As the company scales:
+- Growth Operator and Operations Manager roles will be delegated first
+- This would free Jordan to focus on leverage design, hiring, and strategic priorities

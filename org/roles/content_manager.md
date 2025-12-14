@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | G [interim] |
 | **Primary Department** | Content |
-| **Reports To** | Architect of Scale & Culture (Operating Founder) |
+| **Reports To** | Managing Director (Founding Partner) |
 | **Collaborates With** | Content Creator (Oliver), Fiverr (thumbnails) |
 
 ---
@@ -67,10 +67,10 @@ G currently holds this role in addition to Content Producer (Editor) on an inter
 - Performance tracking methodology
 
 ### Must Escalate
-- Major changes to publishing strategy (CEO / Content Creator)
-- Significant performance concerns (CEO / Content Creator)
-- Resource or tool requests (CEO)
-- Brand-level thumbnail style changes (CEO / Content Creator)
+- Major changes to publishing strategy (Managing Director / Content Creator)
+- Significant performance concerns (Managing Director / Content Creator)
+- Resource or tool requests (Managing Director)
+- Brand-level thumbnail style changes (Managing Director / Content Creator)
 
 ---
 
@@ -92,7 +92,7 @@ G currently holds this role in addition to Content Producer (Editor) on an inter
 | Content Creator (Oliver) | Align on video themes, review titles | Per video |
 | Fiverr | Thumbnail briefs and feedback | Per video |
 | Growth (Jordan) | Campaign links, promotional coordination | Per campaign |
-| CEO | Performance reports, strategic input | Weekly |
+| Managing Director | Performance reports, strategic input | Weekly |
 
 ---
 

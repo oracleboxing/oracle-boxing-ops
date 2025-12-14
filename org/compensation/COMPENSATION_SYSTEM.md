@@ -15,7 +15,7 @@ Oracle Boxing uses four compensation modes:
 | **Flat** | Reliability and baseline commitment | Monthly retainer |
 | **Unit** | Throughput and volume | Per-short payment |
 | **Performance** | Outcomes controlled by the role | AVD% bonus tiers |
-| **Incentive/Bonus** | Milestone achievements | Architect quarterly bonuses |
+| **Incentive/Bonus** | Milestone achievements | Managing Director quarterly bonuses |
 
 All performance bonuses are defined with:
 - **Metric**: What is measured
@@ -31,7 +31,7 @@ All performance bonuses are defined with:
 |--------|---------|-------------------|--------------|-------------------|
 | G | Content Producer + Content Manager | Flat + Unit + Performance | £300 | £200–£1,400+ |
 | Oliver | Content Creator + Coach–Educator | Flat + Unit + Performance | £1,500 | £300–£1,500+ |
-| Jordan | Growth Operator + Architect | Flat + Performance + Hourly | £1,000 | 20–30% campaign profit + bonuses |
+| Jordan | Growth Operator + Managing Director | Flat + Performance + Hourly | £1,000 | 20–30% campaign profit + bonuses |
 | Toni | Coach–Educator + Sales Rep | Commission + Floor | £1,000 floor | 60% of 1-1 sales |
 | Charlie | Coach–Educator | Flat | Existing base | — |
 
@@ -45,7 +45,7 @@ All performance bonuses are defined with:
 | Unit payments | Monthly | End of month |
 | Performance bonuses (AVD%, Meta) | Monthly | After metrics finalised |
 | Campaign profit share | Per campaign | After campaign closes and refund window ends |
-| Architect milestone bonuses | Quarterly | After milestone verified |
+| Managing Director milestone bonuses | Quarterly | After milestone verified |
 | Hourly work | Monthly | After hours logged and approved |
 
 ---
@@ -139,7 +139,7 @@ All performance bonuses are defined with:
 
 ---
 
-## Jordan — Architect of Scale & Culture + Growth Operator + Operations Manager
+## Jordan — Managing Director + Growth Operator + Operations Manager
 
 ### Growth Operator Flat Component
 | Component | Amount | Cadence |
@@ -188,7 +188,7 @@ Campaign Net Profit = Attributable Campaign Revenue
 - Hourly work must be pre-approved
 - Hours must be logged and submitted
 
-### Architect of Scale & Culture Milestone Bonuses
+### Managing Director Milestone Bonuses
 
 **Base:** No salary uplift for this role
 

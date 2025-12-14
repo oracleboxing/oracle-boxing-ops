@@ -12,7 +12,7 @@ Oracle Boxing uses 9 canonical roles across 6 departments:
 
 | Role | Current Holder(s) | Primary Department | File |
 |------|-------------------|-------------------|------|
-| Architect of Scale & Culture (Operating Founder) | Jordan | Executive & Strategy | [View](architect_of_scale_and_culture.md) |
+| Managing Director (Founding Partner) | Jordan | Executive & Strategy | [View](managing_director.md) |
 | Content Creator | Oliver | Content | [View](content_creator.md) |
 | Content Producer (Editor) | G | Content | [View](content_producer_editor.md) |
 | Content Manager (Publishing & Performance) | G [interim] | Content | [View](content_manager.md) |
@@ -53,7 +53,7 @@ Some team members hold multiple roles:
 
 | Person | Roles |
 |--------|-------|
-| Jordan | Architect of Scale & Culture, Growth Operator, Operations Manager |
+| Jordan | Managing Director, Growth Operator, Operations Manager |
 | Oliver | Content Creator, Coach–Educator |
 | Toni | Coach–Educator (+ Sales Rep responsibilities) |
 | Charlie | Coach–Educator |
@@ -66,7 +66,8 @@ See [Staff Deliverables](../staff_deliverables.md) for the complete person → r
 ## Deprecated Role Files
 
 Previous role files have been moved to [_deprecated/](../_deprecated/). These include:
-- `ceo.md` → See [architect_of_scale_and_culture.md](architect_of_scale_and_culture.md)
+- `ceo.md` → See [managing_director.md](managing_director.md)
+- `architect_of_scale_and_culture.md` → See [managing_director.md](managing_director.md)
 - `product_coaching.md` → See [coach_educator.md](coach_educator.md)
 - `content_media.md` → See [content_creator.md](content_creator.md), [content_producer_editor.md](content_producer_editor.md), [content_manager.md](content_manager.md)
 - `marketing_sales.md` → See [growth_operator.md](growth_operator.md)

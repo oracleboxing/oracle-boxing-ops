@@ -2,7 +2,7 @@
 
 **Version:** 1.0
 **Last Updated:** 2025-12-13
-**Purpose:** Quick navigation hub for the Oracle Boxing CEO Operating System.
+**Purpose:** Quick navigation hub for the Oracle Boxing Operating System.
 
 ---
 
@@ -34,7 +34,7 @@
 
 | Role | File | Current Holder(s) |
 |------|------|-------------------|
-| Architect of Scale & Culture (Operating Founder) | [View](roles/architect_of_scale_and_culture.md) | Jordan |
+| Managing Director (Founding Partner) | [View](roles/managing_director.md) | Jordan |
 | Content Creator | [View](roles/content_creator.md) | Oliver |
 | Content Producer (Editor) | [View](roles/content_producer_editor.md) | G |
 | Content Manager (Publishing & Performance) | [View](roles/content_manager.md) | G [interim] |

@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | Oliver |
 | **Primary Department** | Content |
-| **Reports To** | Architect of Scale & Culture (Operating Founder) |
+| **Reports To** | Managing Director (Founding Partner) |
 | **Collaborates With** | Content Producer (G), Content Manager (G), Growth |
 
 ---
@@ -61,9 +61,9 @@ Oliver also holds the **Coach–Educator** role in Product & Coaching.
 - Raw footage organisation and delivery process
 
 ### Must Escalate
-- Major content strategy changes (CEO)
-- Significant resource requests (CEO)
-- Brand-level creative decisions (CEO)
+- Major content strategy changes (Managing Director)
+- Significant resource requests (Managing Director)
+- Brand-level creative decisions (Managing Director)
 - Campaign-specific content requirements (Growth)
 
 ---

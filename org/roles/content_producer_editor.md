@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | G |
 | **Primary Department** | Content |
-| **Reports To** | Architect of Scale & Culture (Operating Founder) |
+| **Reports To** | Managing Director (Founding Partner) |
 | **Collaborates With** | Content Creator (Oliver), Content Manager (G – same person in interim) |
 
 ---
@@ -58,10 +58,10 @@ Edit all video content (long-form YouTube videos, vlogs, short-form content) to 
 - Short-form clip selection from long-form footage
 
 ### Must Escalate
-- Significant timeline delays (Content Creator / CEO)
+- Significant timeline delays (Content Creator / Managing Director)
 - Major quality concerns with raw footage (Content Creator)
-- Capacity constraints affecting output (CEO)
-- Requests for new content types or formats (CEO)
+- Capacity constraints affecting output (Managing Director)
+- Requests for new content types or formats (Managing Director)
 
 ---
 

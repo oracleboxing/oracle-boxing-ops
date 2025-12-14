@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | Jordan (to be delegated) |
 | **Primary Department** | Operations & Finance |
-| **Reports To** | Architect of Scale & Culture (Operating Founder) |
+| **Reports To** | Managing Director (Founding Partner) |
 | **Collaborates With** | Dev/Tech (contractor), All departments |
 
 ---
@@ -21,7 +21,7 @@
 
 Own business reliability: customer support, payment processing, automations, system uptime, tax compliance, and contractor management. Ensure the operational foundation enables all other departments to function smoothly.
 
-Jordan currently holds this role alongside CEO and Growth Operator. Mid-term goal is to delegate to a dedicated hire.
+Jordan currently holds this role alongside Managing Director and Growth Operator. Mid-term goal is to delegate to a dedicated hire.
 
 ---
 
@@ -81,11 +81,11 @@ Jordan currently holds this role alongside CEO and Growth Operator. Mid-term goa
 - Routine operational decisions
 
 ### Must Escalate
-- Refunds outside policy (CEO)
-- Significant system outages (CEO + affected departments)
-- Major automation changes (CEO)
-- Contractor budget increases (CEO)
-- Compliance concerns (CEO / legal)
+- Refunds outside policy (Managing Director)
+- Significant system outages (Managing Director + affected departments)
+- Major automation changes (Managing Director)
+- Contractor budget increases (Managing Director)
+- Compliance concerns (Managing Director / legal)
 
 ---
 
@@ -108,7 +108,7 @@ Jordan currently holds this role alongside CEO and Growth Operator. Mid-term goa
 | Growth | Payment infrastructure, campaign support | Per campaign |
 | Content | Site functionality, tool access | As needed |
 | Product & Coaching | Access issues, member support | Daily |
-| CEO | P&L reports, compliance status, escalations | Weekly |
+| Managing Director | P&L reports, compliance status, escalations | Weekly |
 
 ---
 
@@ -116,7 +116,7 @@ Jordan currently holds this role alongside CEO and Growth Operator. Mid-term goa
 
 **Model:** Hourly (episodic)
 
-See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--architect-of-scale--culture--growth-operator--operations-manager) for full details.
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager) for full details.
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -156,5 +156,5 @@ When a dedicated Operations Manager is hired, Jordan would:
 
 - [Operations & Finance Department](../departments/operations_and_finance.md)
 - [Dev/Tech Contract Role](dev_tech_contract.md)
-- [Architect of Scale & Culture Role](architect_of_scale_and_culture.md)
+- [Managing Director Role](managing_director.md)
 - [Staff Deliverables](../staff_deliverables.md)

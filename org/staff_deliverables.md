@@ -10,7 +10,7 @@
 
 | Person | Role(s) | Primary Department(s) |
 |--------|---------|----------------------|
-| Jordan | Architect of Scale & Culture, Growth Operator, Operations Manager | Executive, Growth, Ops |
+| Jordan | Managing Director, Growth Operator, Operations Manager | Executive, Growth, Ops |
 | Oliver | Content Creator, Coach–Educator | Content, Product & Coaching |
 | Toni | Coach–Educator, Sales Rep | Product & Coaching, Growth |
 | Charlie | Coach–Educator | Product & Coaching |
@@ -20,7 +20,7 @@
 
 ## Jordan
 
-**Roles:** Architect of Scale & Culture (Operating Founder); Growth Operator; Operations Manager
+**Roles:** Managing Director (Founding Partner); Growth Operator; Operations Manager
 
 ### Executive & Strategy
 | Deliverable | Cadence |
@@ -73,7 +73,7 @@
 | Engage Dev/Tech contractor via SOW for projects | As needed |
 
 ### Compensation
-**Model:** Flat + Performance + Hourly | [Full details](compensation/COMPENSATION_SYSTEM.md#jordan--architect-of-scale--culture--growth-operator--operations-manager)
+**Model:** Flat + Performance + Hourly | [Full details](compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager)
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -81,7 +81,7 @@
 | Campaign profit share | 20–30% of net | Performance |
 | Challenge upsell calls | 10% of collected revenue | Commission |
 | Ops & Finance work | £20/hour | Hourly (pre-approved) |
-| Architect milestone bonuses | £300–£750 each | Quarterly incentive |
+| Managing Director milestone bonuses | £300–£750 each | Quarterly incentive |
 
 ---
 

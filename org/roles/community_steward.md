@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | TBD (Future hire) |
 | **Primary Department** | Community & Retention |
-| **Reports To** | Architect of Scale & Culture (Operating Founder) |
+| **Reports To** | Managing Director (Founding Partner) |
 | **Collaborates With** | Coach–Educators, Growth |
 
 ---
@@ -47,7 +47,7 @@ Own community health, member retention, and accountability systems. Proactively 
 - [ ] Monitor engagement signals for at-risk members
 - [ ] Conduct weekly churn signal review
 - [ ] Reach out to disengaging members proactively
-- [ ] Escalate high-value at-risk members to coaches or CEO
+- [ ] Escalate high-value at-risk members to coaches or Managing Director
 - [ ] Track interventions and outcomes
 
 ### Community Culture
@@ -67,10 +67,10 @@ Own community health, member retention, and accountability systems. Proactively 
 - Routine member outreach
 
 ### Must Escalate
-- Member complaints or serious concerns (CEO)
-- High-value member churn risk (CEO / Coach–Educators)
-- Community policy changes (CEO)
-- Resource or tool requests (CEO)
+- Member complaints or serious concerns (Managing Director)
+- High-value member churn risk (Managing Director / Coach–Educators)
+- Community policy changes (Managing Director)
+- Resource or tool requests (Managing Director)
 
 ---
 
@@ -91,7 +91,7 @@ Own community health, member retention, and accountability systems. Proactively 
 | --- | --- | --- |
 | Coach–Educators | Member progress, session attendance, at-risk alerts | Weekly |
 | Growth | Success stories for marketing, case study creation | Monthly |
-| CEO | Retention reports, escalations, resource needs | Weekly |
+| Managing Director | Retention reports, escalations, resource needs | Weekly |
 
 ---
 

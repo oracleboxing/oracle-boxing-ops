@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holders** | Oliver, Toni, Charlie |
 | **Primary Department** | Product & Coaching |
-| **Reports To** | Architect of Scale & Culture (Operating Founder) |
+| **Reports To** | Managing Director (Founding Partner) |
 | **Collaborates With** | Other Coach–Educators, Community & Retention |
 
 ---
@@ -95,9 +95,9 @@ Deliver boxing coaching through group sessions, 1-1 coaching, video feedback, an
 
 ### Must Escalate
 - Schedule changes affecting coverage (coordinate with team)
-- Member concerns or complaints (CEO)
-- Capacity constraints (CEO)
-- Course content strategy changes (CEO / Oliver)
+- Member concerns or complaints (Managing Director)
+- Capacity constraints (Managing Director)
+- Course content strategy changes (Managing Director / Oliver)
 
 ---
 
@@ -131,7 +131,7 @@ Compensation varies by holder. See [Compensation System](../compensation/COMPENS
 | Person | Model | Key Components |
 | --- | --- | --- |
 | Oliver | Flat + Unit | £30/group session, £30/1-1 session |
-| Toni | Commission + Floor | 60% of 1-1 sales, 10% challenge upsells, £1,000 floor |
+| Toni | Commission + Floor | 60% of 1-1 sales, £1,000 floor |
 | Charlie | Flat | Existing base (unchanged) |
 
 ---
