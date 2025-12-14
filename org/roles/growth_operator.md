@@ -118,7 +118,7 @@ See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--managin
 | Component | Amount | Type |
 | --- | --- | --- |
 | Base | £1,000/month | Flat |
-| Campaign profit share | 20–30% of net | Performance |
+| Campaign profit share | 20% of net | Performance |
 
 **Campaign Net Profit** = Revenue − Ad Spend − Direct Fulfilment − Refunds
 

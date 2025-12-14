@@ -31,7 +31,7 @@ All performance bonuses are defined with:
 |--------|---------|-------------------|--------------|-------------------|
 | G | Content Producer + Content Manager | Flat + Unit + Performance | £300 | £200–£1,400+ |
 | Oliver | Content Creator + Coach–Educator | Flat + Unit + Performance | £1,500 | £300–£1,500+ |
-| Jordan | Growth Operator + Managing Director | Flat + Performance + Hourly | £1,000 | 20–30% campaign profit + bonuses |
+| Jordan | Growth Operator + Managing Director | Flat + Performance + Hourly | £1,000 | 20% campaign profit + bonuses |
 | Toni | Coach–Educator + Sales Rep | Commission + Floor | £1,000 floor | 60% of 1-1 sales |
 | Charlie | Coach–Educator | Flat | Existing base | — |
 
@@ -148,7 +148,7 @@ All performance bonuses are defined with:
 
 ### Growth Operator Performance (Campaign Net Profit Share)
 
-**Rate:** 20–30% of campaign net profit
+**Rate:** 20% of campaign net profit
 
 **Campaign Net Profit Definition:**
 ```

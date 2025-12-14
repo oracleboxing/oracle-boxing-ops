@@ -78,7 +78,7 @@
 | Component | Amount | Type |
 | --- | --- | --- |
 | Growth Operator base | £1,000/month | Flat |
-| Campaign profit share | 20–30% of net | Performance |
+| Campaign profit share | 20% of net | Performance |
 | Challenge upsell calls | 10% of collected revenue | Commission |
 | Ops & Finance work | £20/hour | Hourly (pre-approved) |
 | MD constraint bounties | £1,000–£2,500 each | Success-only ([details](roles/managing_director.md#success-only-compensation-model)) |
