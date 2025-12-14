@@ -124,6 +124,18 @@ Deliver boxing coaching through group sessions, 1-1 coaching, video feedback, an
 
 ---
 
+## Compensation
+
+Compensation varies by holder. See [Compensation System](../compensation/COMPENSATION_SYSTEM.md) for full details.
+
+| Person | Model | Key Components |
+| --- | --- | --- |
+| Oliver | Flat + Unit | £30/group session, £30/1-1 session, £150/month community stipend (conditional) |
+| Toni | Commission + Floor | 60% of 1-1 sales, 10% challenge upsells, £1,000 floor |
+| Charlie | Flat | Existing base (unchanged) |
+
+---
+
 ## Notes
 
 - Coach–Educator is a unified role; the old titles (Community Coach, 1-1 Coach, Course Creator) are deprecated

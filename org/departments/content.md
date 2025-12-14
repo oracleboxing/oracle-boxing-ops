@@ -110,6 +110,12 @@ Thumbnails are outsourced to **Fiverr**:
 
 ---
 
+## Compensation
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md) for pay structures.
+
+---
+
 ## Notes
 
 - G currently holds **Content Producer / Editor** and **Content Manager** roles [interim]

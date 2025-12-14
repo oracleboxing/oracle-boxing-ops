@@ -89,6 +89,19 @@ Oliver also holds the **Coach–Educator** role in Product & Coaching.
 
 ---
 
+## Compensation
+
+**Model:** Flat + Performance
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#oliver--content-creator--coachecator) for full details.
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Content Creator base | £1,500/month | Flat |
+| AVD% bonus (40/45/50%) | £300/£600/£900 | Performance |
+
+---
+
 ## Notes
 
 - Oliver splits time between Content Creator and Coach–Educator roles

@@ -124,6 +124,12 @@ See [Dev/Tech Contract Role](../roles/dev_tech_contract.md) for contractor engag
 
 ---
 
+## Compensation
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md) for pay structures.
+
+---
+
 ## Next Hire to Remove Founder Bottleneck
 
 **Operations Manager (dedicated)** – Allow Jordan to step back from:

@@ -86,6 +86,20 @@ Edit all video content (long-form YouTube videos, vlogs, short-form content) to 
 
 ---
 
+## Compensation
+
+**Model:** Flat + Unit + Performance (combined with Content Manager role)
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#g--content-producer-editor--content-manager-interim) for full details.
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Base retainer | £300/month | Flat |
+| Short-form videos | £8/short | Unit |
+| Meta interactions bonus | £100–£500 | Performance |
+
+---
+
 ## Notes
 
 - G is a contractor role; engagement terms per agreement

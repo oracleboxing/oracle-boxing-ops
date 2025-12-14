@@ -1,7 +1,7 @@
 # Staff Deliverables
 
-**Version:** 2.0
-**Last Updated:** 2025-12-13
+**Version:** 2.1
+**Last Updated:** 2025-12-14
 **Purpose:** Single source of truth mapping each staff member to their roles and deliverables.
 
 ---
@@ -72,6 +72,16 @@
 | Look for any inefficiencies to remove or automate | Ongoing |
 | Engage Dev/Tech contractor via SOW for projects | As needed |
 
+### Compensation
+**Model:** Flat + Performance + Hourly | [Full details](compensation/COMPENSATION_SYSTEM.md#jordan--architect-of-scale--culture--growth-operator--operations-manager)
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Growth Operator base | £1,000/month | Flat |
+| Campaign profit share | 20–30% of net | Performance |
+| Ops & Finance work | £20/hour | Hourly (pre-approved) |
+| Architect milestone bonuses | £300–£750 each | Quarterly incentive |
+
 ---
 
 ## Oliver
@@ -96,6 +106,18 @@
 | Publish coaching call recordings within 24 hours | Per session |
 | Deliver a 45-minute 1-on-1 coaching session to top 3 on 30-day leaderboard | Monthly |
 | Provide a "satisfactory" level of community activity | Ongoing |
+
+### Compensation
+**Model:** Flat + Unit + Performance | [Full details](compensation/COMPENSATION_SYSTEM.md#oliver--content-creator--coachecator)
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Content Creator base | £1,500/month | Flat |
+| AVD% bonus (40/45/50%) | £300/£600/£900 | Performance |
+| Group coaching call | £30/session | Unit |
+| 1-on-1 coaching session | £30/session | Unit |
+| Community presence stipend | £150/month | Conditional |
+| Course creation | £20/hour | Hourly (pre-approved) |
 
 ---
 
@@ -122,6 +144,17 @@
 | Explain the 1-1 coaching packages and prices to prospects | As enquiries come in |
 | Collect payment for 1-on-1 coaching package and update tracker | Per sale |
 
+### Compensation
+**Model:** Commission + Floor | [Full details](compensation/COMPENSATION_SYSTEM.md#toni--coachecator--sales-rep)
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| 1-on-1 coaching sales | 60% of sales | Commission |
+| Challenge upsell calls | 10% of collected revenue | Commission |
+| Monthly floor guarantee | £1,000 | Floor |
+
+*Commission calculated on collected revenue, net of refunds within agreed refund window.*
+
 ---
 
 ## Charlie
@@ -137,6 +170,13 @@
 | Deliver a 45-minute 1-on-1 coaching session to members ranked 4-10 on 7-day leaderboard | Weekly |
 | Leave weekly video feedback on qualifying member posts (key takeaways, actionables, <5 mins) | Weekly |
 | Provide a "satisfactory" level of community activity | Ongoing |
+
+### Compensation
+**Model:** Flat | [Full details](compensation/COMPENSATION_SYSTEM.md#charlie--coachecator)
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Base | Existing base (unchanged) | Flat |
 
 ---
 
@@ -163,6 +203,18 @@
 | Manage publishing schedule and calendar | Weekly |
 | Track video performance and report insights | Weekly |
 
+### Compensation
+**Model:** Flat + Unit + Performance | [Full details](compensation/COMPENSATION_SYSTEM.md#g--content-producer-editor--content-manager-interim)
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Base retainer | £300/month | Flat |
+| Short-form videos | £8/short | Unit |
+| AVD% bonus (35/40/45/50%) | £200/£400/£650/£900 | Performance |
+| Meta interactions bonus (50k/75k/100k/150k) | £100/£200/£350/£500 | Performance |
+
+*AVD% bonus conditions: All scheduled videos ship on time + weekly insights report delivered.*
+
 ---
 
 ## Notes
@@ -181,3 +233,4 @@
 - [Start Here](START_HERE.md) – Navigation hub
 - [Organisational Blueprint](organisational_blueprint.md) – Department structure
 - [Roles Index](roles/README.md) – Role definitions
+- [Compensation System](compensation/COMPENSATION_SYSTEM.md) – Pay structures and formulas

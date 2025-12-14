@@ -119,6 +119,12 @@ All coaches share the **Coach–Educator** role with different load allocations:
 
 ---
 
+## Compensation
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md) for pay structures.
+
+---
+
 ## Next Hire to Remove Founder Bottleneck
 
 If coaching volume increases, consider:

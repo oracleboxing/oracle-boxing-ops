@@ -124,6 +124,12 @@ Generate predictable customer acquisition and conversion through strategic marke
 
 ---
 
+## Compensation
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md) for pay structures.
+
+---
+
 ## Next Hire to Remove Founder Bottleneck
 
 **Growth Operator (dedicated)** – Allow Jordan to step back from:

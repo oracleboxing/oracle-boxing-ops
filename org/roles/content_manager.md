@@ -96,6 +96,20 @@ G currently holds this role in addition to Content Producer (Editor) on an inter
 
 ---
 
+## Compensation
+
+**Model:** Flat + Performance (part of G's combined compensation)
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#g--content-producer-editor--content-manager-interim) for full details.
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| AVD% bonus (35/40/45/50%) | £200/£400/£650/£900 | Performance |
+
+**Conditions:** All scheduled videos ship on time + weekly insights report delivered.
+
+---
+
 ## Notes
 
 - G currently holds this role [interim] in addition to Content Producer (Editor)

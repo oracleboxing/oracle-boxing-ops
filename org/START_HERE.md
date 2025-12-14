@@ -13,6 +13,7 @@
 | [Organisational Blueprint](organisational_blueprint.md) | Core company model – departments, outcomes, hiring roadmap |
 | [Ops Dashboard](ops_dashboard.md) | Weekly operational snapshot – priorities, owners, status |
 | [Staff Deliverables](staff_deliverables.md) | Person → role(s) → deliverables mapping (single source of truth) |
+| [Compensation System](compensation/COMPENSATION_SYSTEM.md) | Pay structures, bonus tiers, and payout cadence |
 
 ---
 

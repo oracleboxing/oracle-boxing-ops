@@ -112,6 +112,27 @@ Jordan currently holds this role alongside CEO and Growth Operator. Mid-term goa
 
 ---
 
+## Compensation
+
+**Model:** Hourly (episodic)
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--architect-of-scale--culture--growth-operator--operations-manager) for full details.
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Ops & Finance work | £20/hour | Hourly (pre-approved) |
+
+**Examples of qualifying work:**
+- Automations (Make.com workflows)
+- Stripe/payment logic
+- Accounting/admin above baseline
+- VAT/tax preparation
+- Backend systems work
+
+*Hourly work must be pre-approved and hours logged.*
+
+---
+
 ## Notes
 
 - Jordan currently holds this role; mid-term goal is delegation

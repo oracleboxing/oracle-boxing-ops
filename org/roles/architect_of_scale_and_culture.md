@@ -155,6 +155,24 @@ These measure whether the role is working—not vanity metrics.
 
 ---
 
+## Compensation
+
+**Model:** Milestone bonuses (no salary uplift for this role)
+
+See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--architect-of-scale--culture--growth-operator--operations-manager) for full details.
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Milestone bonuses | £300–£750 each | Quarterly |
+
+**Example milestones:**
+- Successful hire onboarded and operating independently for 30 days
+- Founder exits a lane without performance drop for 30–60 days
+- Manual process replaced by automation
+- Documented bottleneck eliminated
+
+---
+
 ## Notes
 
 - Jordan currently also holds Growth Operator and Operations Manager roles—these will be delegated as hiring progresses
