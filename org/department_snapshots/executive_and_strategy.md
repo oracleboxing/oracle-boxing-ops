@@ -14,7 +14,7 @@
 
 ## Key People
 
-- **Jordan** – CEO / Operating Founder
+- **Jordan** – Architect of Scale & Culture (Operating Founder)
 
 ## Key Deliverables
 
@@ -26,5 +26,5 @@
 ## Detailed References
 
 - Department: [Executive & Strategy](../departments/executive_and_strategy.md)
-- Role: [CEO / Operating Founder](../roles/operating_founder_ceo.md)
+- Role: [Architect of Scale & Culture](../roles/architect_of_scale_and_culture.md)
 - Responsibilities: [Executive & Strategy](../responsibilities/executive_and_strategy.md)

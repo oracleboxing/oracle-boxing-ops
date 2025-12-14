@@ -40,4 +40,4 @@ Sets company direction, allocates resources, manages team performance, and maint
 ## References
 
 - [Executive & Strategy Department](../departments/executive_and_strategy.md)
-- [CEO / Operating Founder Role](../roles/operating_founder_ceo.md)
+- [Architect of Scale & Culture Role](../roles/architect_of_scale_and_culture.md)

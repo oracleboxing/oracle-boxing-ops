@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holders** | Oliver, Toni, Charlie |
 | **Primary Department** | Product & Coaching |
-| **Reports To** | CEO / Operating Founder |
+| **Reports To** | Architect of Scale & Culture (Operating Founder) |
 | **Collaborates With** | Other Coach–Educators, Community & Retention |
 
 ---

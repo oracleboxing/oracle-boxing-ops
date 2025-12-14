@@ -10,7 +10,7 @@
 
 | Person | Role(s) | Primary Department(s) |
 |--------|---------|----------------------|
-| Jordan | Operating Founder/CEO, Growth Operator, Operations Manager | Executive, Growth, Ops |
+| Jordan | Architect of Scale & Culture, Growth Operator, Operations Manager | Executive, Growth, Ops |
 | Oliver | Content Creator, Coach–Educator | Content, Product & Coaching |
 | Toni | Coach–Educator, Sales Rep | Product & Coaching, Growth |
 | Charlie | Coach–Educator | Product & Coaching |
@@ -21,7 +21,7 @@
 
 ## Jordan
 
-**Roles:** Operating Founder/CEO; Growth Operator; Operations Manager
+**Roles:** Architect of Scale & Culture (Operating Founder); Growth Operator; Operations Manager
 
 ### Executive & Strategy
 | Deliverable | Cadence |

@@ -8,7 +8,7 @@
 
 ## People
 
-- **Jordan** – CEO / Operating Founder
+- **Jordan** – Architect of Scale & Culture (Operating Founder)
 
 ---
 
@@ -84,6 +84,6 @@ Set company direction, allocate resources, manage team performance, and maintain
 
 ## Next Hire to Remove Founder Bottleneck
 
-Currently, Jordan holds the CEO role with no planned delegation. As the company scales, consider:
+Currently, Jordan holds the Architect of Scale & Culture role with no planned delegation. As the company scales, consider:
 - **Chief of Staff** or **Ops Lead** to handle operational oversight and planning cadence
 - This would free Jordan to focus on vision, partnerships, and high-level strategy

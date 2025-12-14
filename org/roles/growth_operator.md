@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | Jordan (to be delegated) |
 | **Primary Department** | Growth (Marketing & Sales) |
-| **Reports To** | CEO / Operating Founder |
+| **Reports To** | Architect of Scale & Culture (Operating Founder) |
 | **Collaborates With** | Sales Rep (Toni), Content team, Operations |
 
 ---
@@ -130,5 +130,5 @@ When a dedicated Growth Operator is hired, Jordan would:
 ## Related Documents
 
 - [Growth (Marketing & Sales) Department](../departments/growth_marketing_and_sales.md)
-- [CEO / Operating Founder Role](operating_founder_ceo.md)
+- [Architect of Scale & Culture Role](architect_of_scale_and_culture.md)
 - [Staff Deliverables](../staff_deliverables.md)

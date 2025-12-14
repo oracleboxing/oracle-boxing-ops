@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | Jordan (to be delegated) |
 | **Primary Department** | Operations & Finance |
-| **Reports To** | CEO / Operating Founder |
+| **Reports To** | Architect of Scale & Culture (Operating Founder) |
 | **Collaborates With** | Dev/Tech (contractor), All departments |
 
 ---
@@ -135,5 +135,5 @@ When a dedicated Operations Manager is hired, Jordan would:
 
 - [Operations & Finance Department](../departments/operations_and_finance.md)
 - [Dev/Tech Contract Role](dev_tech_contract.md)
-- [CEO / Operating Founder Role](operating_founder_ceo.md)
+- [Architect of Scale & Culture Role](architect_of_scale_and_culture.md)
 - [Staff Deliverables](../staff_deliverables.md)

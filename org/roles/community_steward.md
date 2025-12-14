@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | TBD (Future hire) |
 | **Primary Department** | Community & Retention |
-| **Reports To** | CEO / Operating Founder |
+| **Reports To** | Architect of Scale & Culture (Operating Founder) |
 | **Collaborates With** | Coach–Educators, Growth |
 
 ---

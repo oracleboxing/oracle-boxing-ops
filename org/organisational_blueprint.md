@@ -32,7 +32,7 @@
 [Department Details](departments/executive_and_strategy.md)
 
 ### People
-- **Jordan** – CEO / Operating Founder
+- **Jordan** – Architect of Scale & Culture (Operating Founder)
 
 ### Outcome
 Direction, priorities, resourcing, and culture that enable the team to execute effectively.
@@ -207,7 +207,7 @@ Reliability, customer support, payment processing, compliance, and system stabil
 
 | Role | Current Holder(s) | Primary Department |
 |------|-------------------|-------------------|
-| CEO / Operating Founder | Jordan | Executive & Strategy |
+| Architect of Scale & Culture (Operating Founder) | Jordan | Executive & Strategy |
 | Content Creator | Oliver | Content |
 | Content Producer (Editor) | G | Content |
 | Content Operator | TBD | Content |

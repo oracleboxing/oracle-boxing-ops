@@ -33,7 +33,7 @@
 
 | Role | File | Current Holder(s) |
 |------|------|-------------------|
-| CEO / Operating Founder | [View](roles/operating_founder_ceo.md) | Jordan |
+| Architect of Scale & Culture (Operating Founder) | [View](roles/architect_of_scale_and_culture.md) | Jordan |
 | Content Creator | [View](roles/content_creator.md) | Oliver |
 | Content Producer (Editor) | [View](roles/content_producer_editor.md) | G |
 | Content Operator | [View](roles/content_operator.md) | TBD |

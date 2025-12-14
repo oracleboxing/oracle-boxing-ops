@@ -12,7 +12,7 @@
 | --- | --- |
 | **Current Holder** | TBD (Immediate priority hire) |
 | **Primary Department** | Content |
-| **Reports To** | CEO / Operating Founder |
+| **Reports To** | Architect of Scale & Culture (Operating Founder) |
 | **Collaborates With** | Content Creator (Oliver), Content Producer (G) |
 
 ---
