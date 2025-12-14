@@ -123,11 +123,6 @@ All performance bonuses are defined with:
 | Live group coaching call | £30 | Per session |
 | 1-on-1 coaching session | £30 | Per session |
 
-### Community Presence Stipend
-| Component | Amount | Cadence | Condition |
-|-----------|--------|---------|-----------|
-| Community presence | £150 | Monthly | Only if active ongoing presence/support occurs that month |
-
 ### Course Creation (Episodic Hourly Lane)
 | Component | Amount | Cadence |
 |-----------|--------|---------|
@@ -139,8 +134,8 @@ All performance bonuses are defined with:
 
 ### Oliver Monthly Compensation Range
 - **Minimum:** £1,500 (flat only)
-- **Typical:** £1,800–£2,200 (flat + coaching sessions + moderate performance)
-- **Maximum potential:** £2,700+ (all bonuses + high session volume + course work)
+- **Typical:** £1,800–£2,100 (flat + coaching sessions + moderate performance)
+- **Maximum potential:** £2,500+ (all bonuses + high session volume + course work)
 
 ---
 

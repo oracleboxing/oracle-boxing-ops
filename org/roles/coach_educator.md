@@ -130,7 +130,7 @@ Compensation varies by holder. See [Compensation System](../compensation/COMPENS
 
 | Person | Model | Key Components |
 | --- | --- | --- |
-| Oliver | Flat + Unit | £30/group session, £30/1-1 session, £150/month community stipend (conditional) |
+| Oliver | Flat + Unit | £30/group session, £30/1-1 session |
 | Toni | Commission + Floor | 60% of 1-1 sales, 10% challenge upsells, £1,000 floor |
 | Charlie | Flat | Existing base (unchanged) |
 

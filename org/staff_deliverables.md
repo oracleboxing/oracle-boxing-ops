@@ -116,7 +116,6 @@
 | AVD% bonus (40/45/50%) | £300/£600/£900 | Performance |
 | Group coaching call | £30/session | Unit |
 | 1-on-1 coaching session | £30/session | Unit |
-| Community presence stipend | £150/month | Conditional |
 | Course creation | £20/hour | Hourly (pre-approved) |
 
 ---
