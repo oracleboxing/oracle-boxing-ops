@@ -8,7 +8,7 @@
 
 ## People
 
-- **Jordan** – Architect of Scale & Culture (Operating Founder)
+- **Jordan** – Architect of Scale & Culture
 
 ---
 
