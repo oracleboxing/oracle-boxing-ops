@@ -36,7 +36,7 @@
 | Architect of Scale & Culture (Operating Founder) | [View](roles/architect_of_scale_and_culture.md) | Jordan |
 | Content Creator | [View](roles/content_creator.md) | Oliver |
 | Content Producer (Editor) | [View](roles/content_producer_editor.md) | G |
-| Content Operator | [View](roles/content_operator.md) | TBD |
+| Content Manager (Publishing & Performance) | [View](roles/content_manager.md) | G [interim] |
 | Coach–Educator | [View](roles/coach_educator.md) | Oliver, Toni, Charlie |
 | Community Steward | [View](roles/community_steward.md) | Future hire |
 | Growth Operator | [View](roles/growth_operator.md) | Jordan (→ future hire) |
@@ -65,6 +65,6 @@
 
 ## Update Cadence
 
-- **Quarterly:** Organisational blueprint review
+- **Quarterly:** Budget allocation review + key bets
 - **Weekly:** Ops dashboard update
-- **As needed:** Role and deliverable updates when team changes
+- **As needed:** Org blueprint, role, and deliverable updates when structure changes

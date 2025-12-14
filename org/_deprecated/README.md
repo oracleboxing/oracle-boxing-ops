@@ -20,7 +20,7 @@ All files in this folder were deprecated on **2025-12-13** and will be removed a
 |----------|-------------|
 | `ceo.md` | [architect_of_scale_and_culture.md](../roles/architect_of_scale_and_culture.md) |
 | `product_coaching.md` | [coach_educator.md](../roles/coach_educator.md) |
-| `content_media.md` | [content_creator.md](../roles/content_creator.md), [content_producer_editor.md](../roles/content_producer_editor.md), [content_operator.md](../roles/content_operator.md) |
+| `content_media.md` | [content_creator.md](../roles/content_creator.md), [content_producer_editor.md](../roles/content_producer_editor.md), [content_manager.md](../roles/content_manager.md) |
 | `marketing_sales.md` | [growth_operator.md](../roles/growth_operator.md) |
 | `operations_finance.md` | [operations_manager.md](../roles/operations_manager.md) |
 

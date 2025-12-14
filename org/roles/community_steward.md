@@ -97,7 +97,7 @@ Own community health, member retention, and accountability systems. Proactively 
 
 ## Notes
 
-- **This role is a near-term hiring priority** (after Content Operator)
+- **This role is the immediate priority hire**
 - Currently, community duties are split among Coach–Educators
 - Hiring this role would free coaches to focus on coaching delivery
 - Ideal candidate: strong communication, empathy, community management experience

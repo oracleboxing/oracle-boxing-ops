@@ -44,10 +44,10 @@ Direction, priorities, resourcing, and culture that enable the team to execute e
 - Drive culture and decision-making frameworks
 
 ### Key Deliverables
-- Quarterly org blueprint review
+- Quarterly budget allocation review + key bets
 - Weekly planning + ops dashboard update
 - Hiring plans and performance reviews
-- Budget and capital allocation decisions
+- Org blueprint updates as needed
 
 ---
 
@@ -112,8 +112,8 @@ High retention, strong community health, member accountability, and success stor
 
 ### People
 - **Oliver** – Content Creator (planning, scripting, filming)
-- **G** – Content Producer / Editor (editing long-form and short-form)
-- **TBD** – Content Operator (publishing, titles, thumbnails, performance loop)
+- **G** – Content Producer / Editor (editing) + Content Manager (publishing & performance) [interim]
+- **Fiverr** – Thumbnails (external vendor)
 
 ### Outcome
 Consistent high-quality content pipeline that feeds growth and reinforces brand authority.
@@ -130,11 +130,9 @@ Consistent high-quality content pipeline that feeds growth and reinforces brand 
 - Weekly edit + presentation review (Saturday)
 - Asset tracker: script → raw → edit → publish URL
 
-**Unassigned (Content Operator role):**
-- YouTube titles and descriptions
-- Thumbnail creation/coordination
-- Publishing schedule management
-- Performance analytics and recommendations
+**Thumbnails:**
+- Outsourced to Fiverr (coordinated by G)
+- 3 variants per video for ABC testing
 
 ---
 
@@ -210,7 +208,7 @@ Reliability, customer support, payment processing, compliance, and system stabil
 | Architect of Scale & Culture (Operating Founder) | Jordan | Executive & Strategy |
 | Content Creator | Oliver | Content |
 | Content Producer (Editor) | G | Content |
-| Content Operator | TBD | Content |
+| Content Manager (Publishing & Performance) | G [interim] | Content |
 | Coach–Educator | Oliver, Toni, Charlie | Product & Coaching |
 | Community Steward | Future hire | Community & Retention |
 | Growth Operator | Jordan | Growth |
@@ -224,10 +222,10 @@ See [Staff Deliverables](staff_deliverables.md) for the complete person → role
 ## 10. Hiring Roadmap
 
 ### Immediate Priority
-1. **Content Operator** – Remove bottleneck on publishing, titles, thumbnails, performance tracking. Currently unassigned deliverables sitting with TBD.
+1. **Community Steward** – As community grows, dedicated retention and accountability support needed. Currently split across Coach–Educators.
 
 ### Near-Term (Next 6 months)
-2. **Community Steward** – As community grows, dedicated retention and accountability support needed. Currently split across Coach–Educators.
+2. **Content Manager (dedicated)** – Allow G to focus on editing once publishing workload grows. Currently held by G [interim].
 
 ### Mid-Term (6-12 months)
 3. **Growth Operator (dedicated)** – Allow Jordan to step back from day-to-day marketing execution.

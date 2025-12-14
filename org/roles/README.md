@@ -15,7 +15,7 @@ Oracle Boxing uses 9 canonical roles across 6 departments:
 | Architect of Scale & Culture (Operating Founder) | Jordan | Executive & Strategy | [View](architect_of_scale_and_culture.md) |
 | Content Creator | Oliver | Content | [View](content_creator.md) |
 | Content Producer (Editor) | G | Content | [View](content_producer_editor.md) |
-| Content Operator | TBD | Content | [View](content_operator.md) |
+| Content Manager (Publishing & Performance) | G [interim] | Content | [View](content_manager.md) |
 | Coach–Educator | Oliver, Toni, Charlie | Product & Coaching | [View](coach_educator.md) |
 | Community Steward | Future hire | Community & Retention | [View](community_steward.md) |
 | Growth Operator | Jordan | Growth | [View](growth_operator.md) |
@@ -57,7 +57,7 @@ Some team members hold multiple roles:
 | Oliver | Content Creator, Coach–Educator |
 | Toni | Coach–Educator (+ Sales Rep responsibilities) |
 | Charlie | Coach–Educator |
-| G | Content Producer (Editor) |
+| G | Content Producer (Editor), Content Manager [interim] |
 
 See [Staff Deliverables](../staff_deliverables.md) for the complete person → role → deliverables mapping.
 
@@ -68,7 +68,7 @@ See [Staff Deliverables](../staff_deliverables.md) for the complete person → r
 Previous role files have been moved to [_deprecated/](../_deprecated/). These include:
 - `ceo.md` → See [architect_of_scale_and_culture.md](architect_of_scale_and_culture.md)
 - `product_coaching.md` → See [coach_educator.md](coach_educator.md)
-- `content_media.md` → See [content_creator.md](content_creator.md), [content_producer_editor.md](content_producer_editor.md), [content_operator.md](content_operator.md)
+- `content_media.md` → See [content_creator.md](content_creator.md), [content_producer_editor.md](content_producer_editor.md), [content_manager.md](content_manager.md)
 - `marketing_sales.md` → See [growth_operator.md](growth_operator.md)
 - `operations_finance.md` → See [operations_manager.md](operations_manager.md)
 
