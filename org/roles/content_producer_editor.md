@@ -13,7 +13,7 @@
 | **Current Holder** | G |
 | **Primary Department** | Content |
 | **Reports To** | Architect of Scale & Culture (Operating Founder) |
-| **Collaborates With** | Content Creator (Oliver), Content Operator (TBD) |
+| **Collaborates With** | Content Creator (Oliver), Content Manager (G – same person in interim) |
 
 ---
 
@@ -81,7 +81,7 @@ Edit all video content (long-form YouTube videos, vlogs, short-form content) to 
 | Who | Collaboration Purpose | Frequency |
 | --- | --- | --- |
 | Content Creator (Oliver) | Receive raw footage, get feedback, align on style | Per video |
-| Content Operator (TBD) | Handoff edited videos for publishing | Per video |
+| Content Manager (G – same person in interim) | Publishing workflow handoff | Per video |
 | Growth (Jordan) | Mid-roll integration requirements | Per campaign |
 
 ---
@@ -89,6 +89,7 @@ Edit all video content (long-form YouTube videos, vlogs, short-form content) to 
 ## Notes
 
 - G is a contractor role; engagement terms per agreement
+- G also holds the Content Manager (Publishing & Performance) role [interim]
 - Editing happens after raw footage is uploaded to Dropbox
 - Saturday review is key feedback loop for continuous improvement
 
@@ -98,4 +99,5 @@ Edit all video content (long-form YouTube videos, vlogs, short-form content) to 
 
 - [Content Department](../departments/content.md)
 - [Content Creator Role](content_creator.md)
+- [Content Manager Role](content_manager.md)
 - [Staff Deliverables](../staff_deliverables.md)

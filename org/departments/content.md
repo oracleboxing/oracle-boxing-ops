@@ -9,8 +9,8 @@
 ## People
 
 - **Oliver** – Content Creator (planning, scripting, filming)
-- **G** – Content Producer / Editor (editing long-form and short-form)
-- **TBD** – Content Operator (publishing, titles, thumbnails, performance loop)
+- **G** – Content Producer / Editor (editing) + Content Manager (publishing & performance) [interim]
+- **Fiverr** – Thumbnails (external vendor)
 
 ---
 
@@ -39,14 +39,15 @@ Deliver a consistent pipeline of high-quality YouTube videos, vlogs, and short-f
 | Edit weekly vlog | G | Weekly | Vlog edited and delivered |
 | Repurpose long-form footage into shorts (2 per week minimum) | G | Weekly | 2+ shorts delivered weekly |
 
-#### Content Operations (TBD)
+#### Content Management – Publishing & Performance (G)
 | Deliverable | Owner | Cadence | KPI/Status |
 | --- | --- | --- | --- |
-| Plan a high-CTR worthy title for each YouTube video | TBD | Per video | Titles optimised for CTR |
-| Edit 3 high-CTR worthy thumbnails for ABC testing | TBD | Per video | 3 thumbnail variants per video |
-| Schedule video with appropriate end cards and mid cards | TBD | Per video | Videos scheduled with cards configured |
-| Manage publishing schedule and calendar | TBD | Weekly | Schedule maintained and followed |
-| Track video performance and report insights | TBD | Weekly | Performance tracked with recommendations |
+| Plan a high-CTR worthy title for each YouTube video | G | Per video | Titles optimised for CTR |
+| Write SEO-optimised descriptions | G | Per video | Descriptions published |
+| Coordinate Fiverr thumbnails (3 variants for ABC testing) | G | Per video | 3 thumbnail variants per video |
+| Schedule video with appropriate end cards and mid cards | G | Per video | Videos scheduled with cards configured |
+| Manage publishing schedule and calendar | G | Weekly | Schedule maintained and followed |
+| Track video performance and report insights | G | Weekly | Performance tracked with recommendations |
 
 ### Short-Form Content
 | Deliverable | Owner | Cadence | KPI/Status |
@@ -62,7 +63,7 @@ Deliver a consistent pipeline of high-quality YouTube videos, vlogs, and short-f
 ### Asset Management
 | Deliverable | Owner | Cadence | KPI/Status |
 | --- | --- | --- | --- |
-| Maintain content asset tracker (script → raw → edit → publish URL) | Oliver / TBD | Ongoing | Tracker current and accurate |
+| Maintain content asset tracker (script → raw → edit → publish URL) | Oliver / G | Ongoing | Tracker current and accurate |
 
 ---
 
@@ -100,24 +101,17 @@ Deliver a consistent pipeline of high-quality YouTube videos, vlogs, and short-f
 
 ---
 
-## Unassigned Deliverables (Content Operator Role)
+## Thumbnails (External Vendor)
 
-The following deliverables are currently unassigned and await hiring of a Content Operator:
-
-- YouTube titles and descriptions (optimised for CTR/SEO)
-- Thumbnail creation/coordination (3 variants per video for testing)
-- Publishing schedule management
-- Video card configuration (end cards, mid cards)
-- Performance analytics and recommendations
+Thumbnails are outsourced to **Fiverr**:
+- G provides brief and raw frame references
+- Fiverr delivers 3 thumbnail variants per video for ABC testing
+- G coordinates delivery timeline and provides feedback
 
 ---
 
-## Next Hire to Remove Founder Bottleneck
+## Notes
 
-**Content Operator** – Dedicated role to:
-- Own publishing workflow (titles, thumbnails, scheduling, cards)
-- Track and report on video performance
-- Optimise for CTR and retention based on data
-- Free Oliver from publishing logistics to focus on creation
-
-This is the **immediate priority hire** to complete the content pipeline.
+- G currently holds **Content Producer / Editor** and **Content Manager** roles [interim]
+- Thumbnails outsourced to Fiverr rather than handled internally
+- Community Steward is now the **immediate priority hire** to support member engagement

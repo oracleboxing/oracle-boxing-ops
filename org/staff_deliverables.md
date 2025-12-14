@@ -14,8 +14,7 @@
 | Oliver | Content Creator, Coach–Educator | Content, Product & Coaching |
 | Toni | Coach–Educator, Sales Rep | Product & Coaching, Growth |
 | Charlie | Coach–Educator | Product & Coaching |
-| G | Content Producer (Editor) | Content |
-| TBD | Content Operator | Content |
+| G | Content Producer (Editor), Content Manager (Publishing & Performance) [interim] | Content |
 
 ---
 
@@ -26,11 +25,13 @@
 ### Executive & Strategy
 | Deliverable | Cadence |
 | --- | --- |
-| Conduct quarterly organisational blueprint review | Quarterly |
+| Conduct quarterly budget allocation review | Quarterly |
+| Set quarterly focus and key bets | Quarterly |
 | Update ops dashboard with weekly priorities and status | Weekly |
 | Conduct weekly planning session | Weekly |
 | Make hiring and resource allocation decisions | As needed |
 | Conduct performance reviews | Quarterly |
+| Update organisational blueprint as needed | As needed |
 
 ### Growth (Marketing & Sales)
 | Deliverable | Cadence |
@@ -141,9 +142,9 @@
 
 ## G
 
-**Roles:** Content Producer (Editor)
+**Roles:** Content Producer (Editor); Content Manager (Publishing & Performance) [interim]
 
-### Content
+### Content – Editing
 | Deliverable | Cadence |
 | --- | --- |
 | Edit 2 YouTube videos per week for high retention, views, and engagement | Weekly |
@@ -152,18 +153,12 @@
 | Create additional short-form content as needed (1-2 per week) | Weekly |
 | Weekly editing + presentation review (Saturday morning) | Weekly (Saturday) |
 
----
-
-## TBD (Content Operator)
-
-**Role:** Content Operator (Immediate priority hire)
-
-### Content (Unassigned)
+### Content – Publishing & Performance [interim]
 | Deliverable | Cadence |
 | --- | --- |
 | Plan a high-CTR worthy title for each YouTube video (8 per month) | Per video |
 | Write SEO-optimised descriptions | Per video |
-| Create 3 high-CTR thumbnails for ABC testing | Per video |
+| Coordinate Fiverr thumbnails (3 variants for ABC testing) | Per video |
 | Schedule video with appropriate end cards and mid cards | Per video |
 | Manage publishing schedule and calendar | Weekly |
 | Track video performance and report insights | Weekly |
@@ -175,8 +170,9 @@
 - **Jordan** currently holds 3 roles; mid-term goal is to delegate Growth Operator and Operations Manager
 - **Oliver** splits time between Content Creator and Coach–Educator
 - **Toni** handles both coaching and sales execution
-- **Content Operator** is the immediate priority hire to complete the content pipeline
-- **Community Steward** is the next priority hire (not yet listed as no deliverables assigned)
+- **G** holds Content Producer/Editor and Content Manager roles [interim]
+- **Thumbnails** outsourced to Fiverr (coordinated by G)
+- **Community Steward** is the immediate priority hire to support member engagement
 
 ---
 

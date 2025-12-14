@@ -25,17 +25,19 @@ Delivers a consistent pipeline of high-quality YouTube videos, vlogs, and short-
 | Repurpose footage into shorts (2 per week minimum) | G | Weekly | 2+ shorts delivered |
 | Create additional short-form content (1-2 per week) | G | Weekly | 3-4 shorts total |
 | Attend Saturday editing + presentation review | Oliver, G | Weekly | Review completed |
-| Plan high-CTR titles for each video | TBD (Content Operator) | Per video | Titles optimised |
-| Create 3 thumbnail variants for ABC testing | TBD (Content Operator) | Per video | Thumbnails ready |
-| Schedule videos with end cards and mid cards | TBD (Content Operator) | Per video | Videos scheduled |
-| Manage publishing schedule and calendar | TBD (Content Operator) | Weekly | Schedule maintained |
-| Track video performance and report insights | TBD (Content Operator) | Weekly | Reports delivered |
+| Plan high-CTR titles for each video | G | Per video | Titles optimised |
+| Write SEO-optimised descriptions | G | Per video | Descriptions published |
+| Coordinate Fiverr thumbnails (3 variants for ABC testing) | G | Per video | Thumbnails ready |
+| Schedule videos with end cards and mid cards | G | Per video | Videos scheduled |
+| Manage publishing schedule and calendar | G | Weekly | Schedule maintained |
+| Track video performance and report insights | G | Weekly | Reports delivered |
 
 ---
 
 ## Notes
 
-- Content Operator responsibilities are currently unassigned (immediate priority hire)
+- G handles publishing/performance loop [interim] in addition to editing
+- Thumbnails outsourced to Fiverr (coordinated by G)
 - Saturday review is key quality checkpoint for the team
 - Content supports Growth through mid-roll integrations
 
@@ -46,4 +48,4 @@ Delivers a consistent pipeline of high-quality YouTube videos, vlogs, and short-
 - [Content Department](../departments/content.md)
 - [Content Creator Role](../roles/content_creator.md)
 - [Content Producer Role](../roles/content_producer_editor.md)
-- [Content Operator Role](../roles/content_operator.md)
+- [Content Manager Role](../roles/content_manager.md)

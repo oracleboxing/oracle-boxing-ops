@@ -1,8 +1,8 @@
-# Content Operator
+# Content Manager (Publishing & Performance)
 
 **Version:** 1.0
-**Last Updated:** 2025-12-13
-**Purpose:** Define the Content Operator role scope, decision rights, and success measures for Oracle Boxing.
+**Last Updated:** 2025-12-14
+**Purpose:** Define the Content Manager role scope, decision rights, and success measures for Oracle Boxing.
 
 ---
 
@@ -10,16 +10,18 @@
 
 | Attribute | Value |
 | --- | --- |
-| **Current Holder** | TBD (Immediate priority hire) |
+| **Current Holder** | G [interim] |
 | **Primary Department** | Content |
 | **Reports To** | Architect of Scale & Culture (Operating Founder) |
-| **Collaborates With** | Content Creator (Oliver), Content Producer (G) |
+| **Collaborates With** | Content Creator (Oliver), Fiverr (thumbnails) |
 
 ---
 
 ## Scope
 
-Own the publishing workflow for all video content: titles, thumbnails, scheduling, and performance tracking. Optimise content for discoverability (CTR, SEO) and feed insights back to the content team. Complete the content pipeline from edited video to published and tracked.
+Own the publishing workflow for all video content: titles, descriptions, thumbnails (via Fiverr), scheduling, and performance tracking. Optimise content for discoverability (CTR, SEO) and feed insights back to the content team.
+
+G currently holds this role in addition to Content Producer (Editor) on an interim basis.
 
 ---
 
@@ -31,11 +33,11 @@ Own the publishing workflow for all video content: titles, thumbnails, schedulin
 - [ ] Create title variations for testing if needed
 - [ ] Align titles with video content and audience search intent
 
-### Thumbnails
-- [ ] Create or coordinate 3 thumbnail variants per video (ABC testing)
-- [ ] Ensure thumbnails are high-CTR and brand-consistent
-- [ ] Work with designer or create directly (depending on skills)
-- [ ] Test and iterate based on performance data
+### Thumbnails (Fiverr Coordination)
+- [ ] Brief Fiverr on thumbnail requirements (3 variants per video for ABC testing)
+- [ ] Provide raw frame references and creative direction
+- [ ] Review and approve thumbnail deliveries
+- [ ] Coordinate delivery timeline to match publishing schedule
 
 ### Publishing & Scheduling
 - [ ] Manage video publishing schedule and calendar
@@ -60,7 +62,7 @@ Own the publishing workflow for all video content: titles, thumbnails, schedulin
 
 ### Decides Without Asking
 - Title wording and description content (within guidelines)
-- Thumbnail design and testing approach
+- Fiverr brief and thumbnail feedback
 - Publishing schedule timing
 - Performance tracking methodology
 
@@ -75,7 +77,7 @@ Own the publishing workflow for all video content: titles, thumbnails, schedulin
 ## KPIs / Success Measures
 
 - **Title delivery:** All videos have optimised titles before publish
-- **Thumbnail delivery:** 3 variants per video ready for testing
+- **Thumbnail coordination:** 3 variants per video delivered on time via Fiverr
 - **Publishing:** All videos published on schedule with correct settings
 - **CTR:** Click-through rate improvement over time (target TBD)
 - **Performance reports:** Weekly insights delivered
@@ -88,7 +90,7 @@ Own the publishing workflow for all video content: titles, thumbnails, schedulin
 | Who | Collaboration Purpose | Frequency |
 | --- | --- | --- |
 | Content Creator (Oliver) | Align on video themes, review titles | Per video |
-| Content Producer (G) | Receive edited videos for publishing | Per video |
+| Fiverr | Thumbnail briefs and feedback | Per video |
 | Growth (Jordan) | Campaign links, promotional coordination | Per campaign |
 | CEO | Performance reports, strategic input | Weekly |
 
@@ -96,21 +98,10 @@ Own the publishing workflow for all video content: titles, thumbnails, schedulin
 
 ## Notes
 
-- **This is the immediate priority hire** to complete the content pipeline
-- Currently unassigned deliverables are blocking optimal content performance
-- Role can be part-time or full-time depending on workload
-- Candidate should have: YouTube analytics experience, copywriting skills, design skills (or ability to coordinate with designer)
-
----
-
-## Current Unassigned Deliverables
-
-These deliverables are waiting for this hire:
-- YouTube titles and descriptions
-- Thumbnail creation/coordination (3 variants per video)
-- Publishing schedule management
-- Video card configuration (end cards, mid cards)
-- Performance analytics and recommendations
+- G currently holds this role [interim] in addition to Content Producer (Editor)
+- Thumbnails are outsourced to Fiverr (not created internally)
+- Community Steward is now the **immediate priority hire**
+- This role may be split out to a dedicated hire when workload increases
 
 ---
 
@@ -119,4 +110,4 @@ These deliverables are waiting for this hire:
 - [Content Department](../departments/content.md)
 - [Content Creator Role](content_creator.md)
 - [Content Producer Role](content_producer_editor.md)
-- [Hiring Roadmap](../organisational_blueprint.md#10-hiring-roadmap)
+- [Staff Deliverables](../staff_deliverables.md)

@@ -13,7 +13,7 @@
 | **Current Holder** | Oliver |
 | **Primary Department** | Content |
 | **Reports To** | Architect of Scale & Culture (Operating Founder) |
-| **Collaborates With** | Content Producer (G), Content Operator (TBD), Growth |
+| **Collaborates With** | Content Producer (G), Content Manager (G), Growth |
 
 ---
 
@@ -47,7 +47,7 @@ Oliver also holds the **Coach–Educator** role in Product & Coaching.
 
 ### Collaboration
 - [ ] Liaise with Growth on mid-roll scripts for campaigns
-- [ ] Coordinate with Content Operator on titles and thumbnails (when hired)
+- [ ] Coordinate with Content Manager (G) on titles and Fiverr thumbnails
 - [ ] Share content insights with Product & Coaching team
 
 ---
@@ -83,7 +83,7 @@ Oliver also holds the **Coach–Educator** role in Product & Coaching.
 | Who | Collaboration Purpose | Frequency |
 | --- | --- | --- |
 | Content Producer (G) | Raw footage handoff, edit feedback | Per video |
-| Content Operator (TBD) | Title/thumbnail coordination | Per video |
+| Content Manager (G) | Title/thumbnail coordination | Per video |
 | Growth (Jordan) | Campaign themes, mid-roll scripts | Per campaign |
 | Coach–Educators | Content ideas from coaching sessions | Weekly |
 
@@ -101,4 +101,5 @@ Oliver also holds the **Coach–Educator** role in Product & Coaching.
 
 - [Content Department](../departments/content.md)
 - [Coach–Educator Role](coach_educator.md)
+- [Content Manager Role](content_manager.md)
 - [Staff Deliverables](../staff_deliverables.md)
