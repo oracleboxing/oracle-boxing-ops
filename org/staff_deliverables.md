@@ -73,12 +73,12 @@
 | Engage Dev/Tech contractor via SOW for projects | As needed |
 
 ### Compensation
-**Model:** Flat + Performance + Hourly | [Full details](compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager)
+**Model:** Flat + Tiered Commission + Hourly | [Full details](compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager)
 
 | Component | Amount | Type |
 | --- | --- | --- |
 | Growth Operator base | £1,000/month | Flat |
-| Campaign profit share | 20% of net | Performance |
+| Campaign commission | Tiered 10–20% (£3k cap) | Per campaign |
 | Challenge upsell calls | 10% of collected revenue | Commission |
 | Ops & Finance work | £20/hour | Hourly (pre-approved) |
 | MD constraint bounties | £1,000–£2,500 each | Success-only ([details](roles/managing_director.md#success-only-compensation-model)) |

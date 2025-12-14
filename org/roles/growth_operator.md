@@ -111,16 +111,36 @@ Jordan currently holds this role alongside Managing Director and Operations Mana
 
 ## Compensation
 
-**Model:** Flat + Performance
+**Model:** Flat + Tiered Commission
 
 See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager) for full details.
 
-| Component | Amount | Type |
-| --- | --- | --- |
-| Base | £1,000/month | Flat |
-| Campaign profit share | 20% of net | Performance |
+### Base Pay
 
-**Campaign Net Profit** = Revenue − Ad Spend − Direct Fulfilment − Refunds
+| Component | Amount | Cadence |
+| --- | --- | --- |
+| Base | £1,000 | Monthly |
+
+### Tiered Commission (per Campaign)
+
+**Campaign Net Profit Definition:**
+> **Campaign Net Profit = Revenue − Advertising spend − Payment fees − Refunds**
+
+Notes:
+- Do **not** subtract coaching fulfilment costs (treated as fixed costs)
+- Commission is calculated on **cash collected** (net of refunds) for the campaign
+
+**Tiered Commission Structure:**
+
+| Campaign Net Profit Band | Commission Rate |
+|--------------------------|-----------------|
+| First £5,000 | 10% |
+| £5,001 – £10,000 | 15% |
+| Above £10,000 | 20% |
+
+**Hard Cap:** Maximum commission per campaign: **£3,000**
+
+> Commission is calculated per campaign according to the tiered structure above and is capped at **£3,000 per campaign**. Commission structure is reviewed quarterly as campaign scale and business capacity evolve.
 
 ---
 

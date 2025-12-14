@@ -31,7 +31,7 @@ All performance bonuses are defined with:
 |--------|---------|-------------------|--------------|-------------------|
 | G | Content Producer + Content Manager | Flat + Unit + Performance | £300 | £200–£1,400+ |
 | Oliver | Content Creator + Coach–Educator | Flat + Unit + Performance | £1,500 | £300–£1,500+ |
-| Jordan | Growth Operator + Managing Director | Flat + Performance + Hourly | £1,000 | 20% campaign profit + bonuses |
+| Jordan | Growth Operator + Managing Director | Flat + Tiered Commission + Hourly | £1,000 | Tiered commission (£3k cap) + bonuses |
 | Toni | Coach–Educator + Sales Rep | Commission + Floor | £1,000 floor | 60% of 1-1 sales |
 | Charlie | Coach–Educator | Flat | Existing base | — |
 
@@ -146,23 +146,35 @@ All performance bonuses are defined with:
 |-----------|--------|---------|
 | Growth Operator base | £1,000 | Monthly |
 
-### Growth Operator Performance (Campaign Net Profit Share)
-
-**Rate:** 20% of campaign net profit
+### Growth Operator Tiered Commission (per Campaign)
 
 **Campaign Net Profit Definition:**
-```
-Campaign Net Profit = Attributable Campaign Revenue
-                    − Ad Spend
-                    − Direct Fulfilment Costs
-                    − Refunds Attributable to Campaign
-```
+> **Campaign Net Profit = Revenue − Advertising spend − Payment fees − Refunds**
 
-**Components explained:**
-- **Attributable Campaign Revenue:** Sales directly tied to the campaign
-- **Ad Spend:** Meta ads, any paid promotion for the campaign
-- **Direct Fulfilment Costs:** Any direct costs to deliver campaign promises
-- **Refunds:** Refunds requested within the agreed refund window
+Notes:
+- Do **not** subtract coaching fulfilment costs (treated as fixed costs)
+- Commission is calculated on **cash collected** (net of refunds) for the campaign
+
+**Tiered Commission Structure:**
+
+| Campaign Net Profit Band | Commission Rate |
+|--------------------------|-----------------|
+| First £5,000 | 10% |
+| £5,001 – £10,000 | 15% |
+| Above £10,000 | 20% |
+
+**Hard Cap:** Maximum commission per campaign: **£3,000**
+
+**Worked Example:**
+- Campaign Net Profit: £15,000
+- Commission: (£5,000 × 10%) + (£5,000 × 15%) + (£5,000 × 20%) = £500 + £750 + £1,000 = **£2,250**
+
+**Worked Example (hitting cap):**
+- Campaign Net Profit: £25,000
+- Uncapped commission: (£5,000 × 10%) + (£5,000 × 15%) + (£15,000 × 20%) = £500 + £750 + £3,000 = £4,250
+- **Actual commission: £3,000** (capped)
+
+> Commission is calculated per campaign according to the tiered structure above and is capped at **£3,000 per campaign**. Commission structure is reviewed quarterly as campaign scale and business capacity evolve.
 
 ### Challenge Upsell Commission
 | Component | Rate | Basis |
@@ -211,8 +223,9 @@ Run rate = 3-month rolling average gross revenue. Milestones are one-time, not r
 
 ### Jordan Monthly Compensation Range
 - **Minimum:** £1,000 (Growth Operator base only)
-- **Typical:** £1,200–£2,000 (base + campaign share + occasional ops work)
-- **Variable:** Highly dependent on campaign performance and milestone achievement
+- **Typical:** £1,500–£3,000 (base + tiered commission + occasional ops work)
+- **Maximum per campaign:** £3,000 commission cap + base + hourly + MD bonuses
+- **Variable:** Dependent on campaign performance and milestone achievement
 
 ---
 
