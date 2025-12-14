@@ -188,19 +188,26 @@ Campaign Net Profit = Attributable Campaign Revenue
 - Hourly work must be pre-approved
 - Hours must be logged and submitted
 
-### Managing Director Milestone Bonuses
+### Managing Director: Success-Only Compensation
 
 **Base:** No salary uplift for this role
 
-**Milestone Bonuses:** £300–£750 per milestone (paid quarterly)
+The Managing Director is compensated through a two-layer success-only model. See [Managing Director Role – Success-Only Compensation Model](../roles/managing_director.md#success-only-compensation-model) for full details, definitions, and the quarterly pre-agreement process.
 
-**Example milestone targets:**
-- Successful hire onboarded and operating independently for 30 days
-- Founder exits a lane (Ops or Growth) without performance drop for 30–60 days
-- Manual process replaced by automation
-- Documented bottleneck eliminated (measurable reduction in friction)
-- Revenue band held for 3 consecutive months
-- Role charters written/adopted and review cadence implemented
+**Layer 1: Constraint Removal Bounties (Primary)**
+- 1–3 pre-approved bounties per quarter
+- Typical bounty: £1,000–£2,500 (only if constraint is removed)
+- Requires board pre-approval with written Bounty Spec
+
+**Layer 2: Run-Rate Milestone Bonuses (Secondary)**
+
+| Run Rate Threshold | One-Time Bonus |
+|-------------------|----------------|
+| £25,000/month | £2,000 |
+| £35,000/month | £3,000 |
+| £50,000/month | £5,000 |
+
+Run rate = 3-month rolling average gross revenue. Milestones are one-time, not recurring.
 
 ### Jordan Monthly Compensation Range
 - **Minimum:** £1,000 (Growth Operator base only)

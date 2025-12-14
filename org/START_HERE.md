@@ -14,6 +14,7 @@
 | [Ops Dashboard](ops_dashboard.md) | Weekly operational snapshot – priorities, owners, status |
 | [Staff Deliverables](staff_deliverables.md) | Person → role(s) → deliverables mapping (single source of truth) |
 | [Compensation System](compensation/COMPENSATION_SYSTEM.md) | Pay structures, bonus tiers, and payout cadence |
+| [MD Success-Only Model](roles/managing_director.md#success-only-compensation-model) | Constraint bounties and run-rate milestones for Managing Director |
 
 ---
 

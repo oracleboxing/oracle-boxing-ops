@@ -81,7 +81,8 @@
 | Campaign profit share | 20–30% of net | Performance |
 | Challenge upsell calls | 10% of collected revenue | Commission |
 | Ops & Finance work | £20/hour | Hourly (pre-approved) |
-| Managing Director milestone bonuses | £300–£750 each | Quarterly incentive |
+| MD constraint bounties | £1,000–£2,500 each | Success-only ([details](roles/managing_director.md#success-only-compensation-model)) |
+| MD run-rate milestones | £2,000–£5,000 | One-time per threshold |
 
 ---
 
