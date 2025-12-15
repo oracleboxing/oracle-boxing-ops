@@ -20,7 +20,7 @@
 
 ## Jordan
 
-**Roles:** Managing Director (Founding Partner); Growth Operator; Operations Manager
+**Roles:** Managing Director; Growth Operator; Operations Manager
 
 ### Executive & Strategy
 | Deliverable | Cadence |
