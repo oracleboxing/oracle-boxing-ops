@@ -132,7 +132,7 @@ Compensation varies by holder. See [Compensation System](../compensation/COMPENS
 | --- | --- | --- |
 | Oliver | Flat + Unit | £30/group session, £30/1-1 session |
 | Toni | Commission + Floor | 60% of 1-1 sales, £1,000 floor |
-| Charlie | Flat | £800/month |
+| Charlie | Flat | $800/month |
 
 ---
 

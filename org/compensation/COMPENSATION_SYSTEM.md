@@ -33,7 +33,7 @@ All performance bonuses are defined with:
 | Oliver | Content Creator + Coach–Educator | Flat + Unit + Performance | £1,500 | £300–£1,500+ |
 | Jordan | Growth Operator + Managing Director | Flat + Tiered Commission + Hourly | £1,000 | Tiered commission (£3k cap) + bonuses |
 | Toni | Coach–Educator + Sales Rep | Commission + Floor | £1,000 floor | 60% of 1-1 sales |
-| Charlie | Coach–Educator | Flat | £800 | — |
+| Charlie | Coach–Educator | Flat | $800 | — |
 
 ---
 
@@ -257,7 +257,7 @@ Run rate = 3-month rolling average gross revenue. Milestones are one-time, not r
 ### Flat Component
 | Component | Amount | Cadence |
 |-----------|--------|---------|
-| Base | £800 | Monthly |
+| Base | $800 | Monthly |
 
 ---
 
