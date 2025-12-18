@@ -105,7 +105,7 @@ All performance bonuses are defined with:
 ### Flat Component
 | Component | Amount | Cadence |
 |-----------|--------|---------|
-| Content Creator base | £1,500 | Monthly |
+| Content Creator base | £1,000 | Monthly |
 
 ### Long-Form YouTube Performance Bonus
 
