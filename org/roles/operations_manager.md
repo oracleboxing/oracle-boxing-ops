@@ -116,7 +116,7 @@ Jordan currently holds this role alongside Managing Director and Growth Operator
 
 **Model:** Hourly (episodic)
 
-See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager) for full details.
+See [Jordan's Compensation](../compensation/people/jordan.md) for full details.
 
 | Component | Amount | Type |
 | --- | --- | --- |

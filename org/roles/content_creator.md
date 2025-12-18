@@ -1,7 +1,7 @@
 # Content Creator
 
-**Version:** 1.0
-**Last Updated:** 2025-12-13
+**Version:** 1.1
+**Last Updated:** 2025-12-18
 **Purpose:** Define the Content Creator role scope, decision rights, and success measures for Oracle Boxing.
 
 ---
@@ -84,7 +84,7 @@ Oliver also holds the **Coach–Educator** role in Product & Coaching.
 | --- | --- | --- |
 | Content Producer (G) | Raw footage handoff, edit feedback | Per video |
 | Content Manager (G) | Title/thumbnail coordination | Per video |
-| Growth (Jordan) | Campaign themes, mid-roll scripts | Per campaign |
+| Growth Operator | Campaign themes, mid-roll scripts | Per campaign |
 | Coach–Educators | Content ideas from coaching sessions | Weekly |
 
 ---
@@ -93,12 +93,12 @@ Oliver also holds the **Coach–Educator** role in Product & Coaching.
 
 **Model:** Flat + Performance
 
-See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#oliver--content-creator--coachecator) for full details.
+See [Oliver's Compensation](../compensation/people/oliver.md) for full details.
 
 | Component | Amount | Type |
 | --- | --- | --- |
-| Content Creator base | £1,500/month | Flat |
-| AVD% bonus (40/45/50%) | £300/£600/£900 | Performance |
+| Content Creator base | £1,000/month | Flat |
+| Watch Time bonus (10k/12.5k/15k/20k hrs) | £450/£675/£900/£1,125 | Performance |
 
 ---
 

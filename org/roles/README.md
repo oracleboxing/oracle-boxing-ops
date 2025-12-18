@@ -1,7 +1,7 @@
 # Roles Overview
 
-**Version:** 2.0
-**Last Updated:** 2025-12-13
+**Version:** 2.1
+**Last Updated:** 2025-12-18
 **Purpose:** Central index for role definitions, scopes, and expectations for Oracle Boxing.
 
 ---
@@ -12,7 +12,7 @@ Oracle Boxing uses 9 canonical roles across 6 departments:
 
 | Role | Current Holder(s) | Primary Department | File |
 |------|-------------------|-------------------|------|
-| Managing Director (Founding Partner) | Jordan | Executive & Strategy | [View](managing_director.md) |
+| Managing Director (Founding Partner) | WIP / Unassigned | Executive & Strategy | [View](managing_director.md) |
 | Content Creator | Oliver | Content | [View](content_creator.md) |
 | Content Producer (Editor) | G | Content | [View](content_producer_editor.md) |
 | Content Manager (Publishing & Performance) | G [interim] | Content | [View](content_manager.md) |
@@ -53,7 +53,7 @@ Some team members hold multiple roles:
 
 | Person | Roles |
 |--------|-------|
-| Jordan | Managing Director, Growth Operator, Operations Manager |
+| Jordan | Growth Operator, Operations Manager |
 | Oliver | Content Creator, Coach–Educator |
 | Toni | Coach–Educator (+ Sales Rep responsibilities) |
 | Charlie | Coach–Educator |

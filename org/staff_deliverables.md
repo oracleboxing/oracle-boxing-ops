@@ -1,6 +1,6 @@
 # Staff Deliverables
 
-**Version:** 2.2
+**Version:** 2.3
 **Last Updated:** 2025-12-18
 **Purpose:** Single source of truth mapping each staff member to their roles and deliverables.
 
@@ -10,7 +10,7 @@
 
 | Person | Role(s) | Primary Department(s) |
 |--------|---------|----------------------|
-| Jordan | Managing Director, Growth Operator, Operations Manager | Executive, Growth, Ops |
+| Jordan | Growth Operator, Operations Manager | Growth, Ops |
 | Oliver | Content Creator, Coach–Educator | Content, Product & Coaching |
 | Toni | Coach–Educator, Sales Rep | Product & Coaching, Growth |
 | Charlie | Coach–Educator | Product & Coaching |
@@ -20,18 +20,7 @@
 
 ## Jordan
 
-**Roles:** Managing Director; Growth Operator; Operations Manager
-
-### Executive & Strategy
-| Deliverable | Cadence |
-| --- | --- |
-| Conduct quarterly budget allocation review | Quarterly |
-| Set quarterly focus and key bets | Quarterly |
-| Update ops dashboard with weekly priorities and status | Weekly |
-| Conduct weekly planning session | Weekly |
-| Make hiring and resource allocation decisions | As needed |
-| Conduct performance reviews | Quarterly |
-| Update organisational blueprint as needed | As needed |
+**Roles:** Growth Operator; Operations Manager
 
 ### Growth (Marketing & Sales)
 | Deliverable | Cadence |
@@ -73,7 +62,7 @@
 | Engage Dev/Tech contractor via SOW for projects | As needed |
 
 ### Compensation
-**Model:** Flat + Tiered Commission + Hourly | [Full details](compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager)
+**Model:** Flat + Tiered Commission + Hourly | [Full details](compensation/people/jordan.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -81,8 +70,6 @@
 | Campaign commission | Tiered 10–20% (£3k cap) | Per campaign |
 | Challenge upsell calls | 10% of collected revenue | Commission |
 | Ops & Finance work | £20/hour | Hourly (pre-approved) |
-| MD constraint bounties | £1,000–£2,500 each | Success-only ([details](roles/managing_director.md#success-only-compensation-model)) |
-| MD run-rate milestones | £2,000–£5,000 | One-time per threshold |
 
 ---
 
@@ -110,15 +97,15 @@
 | Provide a "satisfactory" level of community activity | Ongoing |
 
 ### Compensation
-**Model:** Flat + Unit + Performance | [Full details](compensation/COMPENSATION_SYSTEM.md#oliver--content-creator--coachecator)
+**Model:** Flat + Unit + Performance | [Full details](compensation/people/oliver.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
-| Content Creator base | £1,500/month | Flat |
-| AVD% bonus (40/45/50%) | £300/£600/£900 | Performance |
+| Content Creator base | £1,000/month | Flat |
+| Watch Time bonus (10k/12.5k/15k/20k hrs) | £450/£675/£900/£1,125 | Performance |
 | Group coaching call | £30/session | Unit |
 | 1-on-1 coaching session | £30/session | Unit |
-| Course creation | £20/hour | Hourly (pre-approved) |
+| Course content creation | Bounty-based | Per project (pre-approved) |
 
 ---
 
@@ -145,7 +132,7 @@
 | Collect payment for 1-on-1 coaching package and update tracker | Per sale |
 
 ### Compensation
-**Model:** Commission + Floor | [Full details](compensation/COMPENSATION_SYSTEM.md#toni--coachecator--sales-rep)
+**Model:** Commission + Floor | [Full details](compensation/people/toni.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -171,11 +158,11 @@
 | Provide a "satisfactory" level of community activity | Ongoing |
 
 ### Compensation
-**Model:** Flat | [Full details](compensation/COMPENSATION_SYSTEM.md#charlie--coachecator)
+**Model:** Flat | [Full details](compensation/people/charlie.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
-| Base | Existing base (unchanged) | Flat |
+| Base | $800/month | Flat |
 
 ---
 
@@ -203,7 +190,7 @@
 | Track video performance and report insights | Weekly |
 
 ### Compensation
-**Model:** Flat + Unit + Performance | [Full details](compensation/COMPENSATION_SYSTEM.md#g--content-producer-editor--content-manager-interim)
+**Model:** Flat + Unit + Performance | [Full details](compensation/people/g.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -218,12 +205,13 @@
 
 ## Notes
 
-- **Jordan** currently holds 3 roles; mid-term goal is to delegate Growth Operator and Operations Manager
+- **Jordan** currently holds 2 roles; mid-term goal is to delegate Growth Operator and Operations Manager
 - **Oliver** splits time between Content Creator and Coach–Educator
 - **Toni** handles both coaching and sales execution
 - **G** holds Content Producer/Editor and Content Manager roles [interim]
 - **Thumbnails** outsourced to Fiverr (coordinated by G)
 - **Community Steward** is the immediate priority hire to support member engagement
+- **Managing Director** role is defined but currently WIP/unassigned — see [Managing Director Role](roles/managing_director.md)
 
 ---
 
