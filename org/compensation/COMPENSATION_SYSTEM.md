@@ -139,6 +139,8 @@ All performance bonuses are defined with:
 | Jan 2025 | 6,203.4 |
 | Dec 2024 | 7,497.2 |
 | Nov 2024 | 3,019.8 |
+**Reference (historical watch time hours):**
+- Nov 2025 4,508.9; Oct 2025 17,381.9; Sep 2025 4,101.9; Aug 2025 5,311.7; Jul 2025 4,784.6; Jun 2025 4,232.9; May 2025 3,806.1; Apr 2025 6,528.3; Mar 2025 4,986.3; Feb 2025 6,924.8; Jan 2025 6,203.4; Dec 2024 7,497.2; Nov 2024 3,019.8
 
 ### Coaching Pay Grade
 | Component | Amount | Cadence |
