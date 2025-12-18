@@ -1,7 +1,7 @@
 # Community & Retention Responsibilities
 
-**Version:** 1.0
-**Last Updated:** 2025-12-13
+**Version:** 1.1
+**Last Updated:** 2025-12-18
 **Purpose:** Track the core responsibilities of the Community & Retention department.
 
 ---
@@ -36,6 +36,20 @@ Owns community health, member retention, and accountability systems. Proactively
 - Most responsibilities await Community Steward hire (near-term priority)
 - Currently, Coach–Educators handle community engagement as part of their coaching role
 - Video feedback (Charlie) and onboarding (Toni) provide engagement touchpoints
+
+---
+
+## Operating System Notes
+
+**Group Calls:**
+- All group coaching calls are hosted natively on Skool (no Zoom)
+- All recordings must be posted in Skool under Call Recordings within 24 hours
+
+**1:1 Recordings:**
+- Fast-track 1:1 recordings are not posted to the community to avoid noise and decision fatigue
+
+**Accountability System:**
+- Leaderboards (7-day Top 10, 30-day) and weekly video submissions are the primary accountability mechanisms
 
 ---
 
