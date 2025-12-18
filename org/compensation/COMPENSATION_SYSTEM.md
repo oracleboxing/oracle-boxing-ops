@@ -1,7 +1,7 @@
 # Compensation System
 
-**Version:** 1.0
-**Last Updated:** 2025-12-14
+**Version:** 1.1
+**Last Updated:** 2025-12-18
 **Purpose:** Single source of truth for Oracle Boxing compensation structures, formulas, and performance metrics.
 
 ---
@@ -14,7 +14,7 @@ Oracle Boxing uses four compensation modes:
 |------|---------|---------|
 | **Flat** | Reliability and baseline commitment | Monthly retainer |
 | **Unit** | Throughput and volume | Per-short payment |
-| **Performance** | Outcomes controlled by the role | AVD% bonus tiers |
+| **Performance** | Outcomes controlled by the role | Watch Time bonus tiers |
 | **Incentive/Bonus** | Milestone achievements | Managing Director quarterly bonuses |
 
 All performance bonuses are defined with:
@@ -43,7 +43,7 @@ All performance bonuses are defined with:
 |------|-----------|--------|
 | Flat payments | Monthly | End of month |
 | Unit payments | Monthly | End of month |
-| Performance bonuses (AVD%, Meta) | Monthly | After metrics finalised |
+| Performance bonuses (Watch Time, Meta) | Monthly | After metrics finalised |
 | Campaign profit share | Per campaign | After campaign closes and refund window ends |
 | Managing Director milestone bonuses | Quarterly | After milestone verified |
 | Hourly work | Monthly | After hours logged and approved |
@@ -107,7 +107,7 @@ All performance bonuses are defined with:
 |-----------|--------|---------|
 | Content Creator base | £1,500 | Monthly |
 
-### Long-Form Performance Bonus
+### Long-Form YouTube Performance Bonus
 
 **Metric:** Monthly total Watch Time (hours) across all long-form uploads (YouTube Analytics)
 
@@ -122,6 +122,23 @@ All performance bonuses are defined with:
 - All scheduled long-form videos must ship on time for that month
 - Weekly YouTube insights report must be delivered
 
+#### Reference (Historical Watch Time Hours)
+
+| Month | Watch Time (hrs) |
+|-------|------------------|
+| Nov 2025 | 4,508.9 |
+| Oct 2025 | 17,381.9 |
+| Sep 2025 | 4,101.9 |
+| Aug 2025 | 5,311.7 |
+| Jul 2025 | 4,784.6 |
+| Jun 2025 | 4,232.9 |
+| May 2025 | 3,806.1 |
+| Apr 2025 | 6,528.3 |
+| Mar 2025 | 4,986.3 |
+| Feb 2025 | 6,924.8 |
+| Jan 2025 | 6,203.4 |
+| Dec 2024 | 7,497.2 |
+| Nov 2024 | 3,019.8 |
 **Reference (historical watch time hours):**
 - Nov 2025 4,508.9; Oct 2025 17,381.9; Sep 2025 4,101.9; Aug 2025 5,311.7; Jul 2025 4,784.6; Jun 2025 4,232.9; May 2025 3,806.1; Apr 2025 6,528.3; Mar 2025 4,986.3; Feb 2025 6,924.8; Jan 2025 6,203.4; Dec 2024 7,497.2; Nov 2024 3,019.8
 
@@ -131,14 +148,26 @@ All performance bonuses are defined with:
 | Live group coaching call | £30 | Per session |
 | 1-on-1 coaching session | £30 | Per session |
 
-### Course Creation (Episodic Hourly Lane)
-| Component | Amount | Cadence |
-|-----------|--------|---------|
-| Course creation work | £20 | Per hour |
+### Course Content Creation (Bounty-Based)
 
-**Conditions:**
-- Hourly work must be pre-approved
-- Hours must be logged and submitted
+Course content creation is paid via fixed bounties, not hourly.
+
+**Process:**
+
+1. **Plan Creation (Required)**
+   - Oliver must create a detailed course content plan before work begins
+   - The plan must include: scope, deliverables, breakdown (modules/lessons), timeline/effort estimate, and a proposed fixed price
+
+2. **Founder Review & Approval**
+   - The plan must be discussed and approved by the founders
+   - Scope and price must be agreed before execution begins
+
+3. **Execution & Success Payout**
+   - Payment is made upon successful completion of the agreed deliverables
+   - No retroactive pricing
+   - Partial payments only if explicitly agreed in advance as milestones
+
+**Responsibility:** Oliver is responsible for creating the plan to present and calculating how much it should cost the business.
 
 ### Oliver Monthly Compensation Range
 - **Minimum:** £1,500 (flat only)
@@ -205,8 +234,16 @@ Notes:
 - Backend systems work
 
 **Conditions:**
-- Hourly work must be pre-approved
+- Hours/tasks must be approved before they are payable
 - Hours must be logged and submitted
+
+**Monthly Reporting Requirements:**
+At the end of each month, Jordan must submit:
+- Total hours worked
+- Breakdown of tasks completed
+- Allocation of hours by project/function
+
+This reporting is required for business record-keeping and cost tracking.
 
 ### Managing Director: Success-Only Compensation
 
@@ -276,6 +313,9 @@ The percentage of a video's total length that viewers watch on average. Measured
 
 **Example:** A 10-minute video with 4-minute average view duration = 40% AVD
 
+### Watch Time (Hours)
+Total hours viewers spend watching long-form content during the measurement period. Measured via YouTube Analytics.
+
 ### Meta Content Interactions
 Total interactions (likes, comments, shares, saves) across Instagram and Facebook content for the measurement period. Measured via Meta Business Suite.
 
@@ -291,7 +331,7 @@ The period during which customers can request refunds. Commission and profit sha
 
 ### Logging Requirements
 - **Hourly work:** Log hours in shared tracker with description of work
-- **Pre-approval:** Required for episodic hourly work (course creation, ops/finance)
+- **Pre-approval:** Required for episodic hourly work (ops/finance)
 - **Performance metrics:** Compiled and shared by end of month
 
 ### Disputes
