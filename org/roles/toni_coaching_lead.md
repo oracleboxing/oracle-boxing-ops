@@ -79,7 +79,7 @@ Toni's compensation follows a **3-lane structure** that aligns pay with value cr
 
 | Component | Amount | Cadence |
 | --- | --- | --- |
-| Per 1–1 coaching call delivered | $35 | Monthly |
+| Per 1–1 coaching call delivered | $30 | Monthly |
 
 **Definitions:**
 
