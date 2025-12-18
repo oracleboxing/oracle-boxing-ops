@@ -100,7 +100,7 @@ G currently holds this role in addition to Content Producer (Editor) on an inter
 
 **Model:** Flat + Performance (part of G's combined compensation)
 
-See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#g--content-producer-editor--content-manager-interim) for full details.
+See [G's Compensation](../compensation/people/g.md) for full details.
 
 | Component | Amount | Type |
 | --- | --- | --- |

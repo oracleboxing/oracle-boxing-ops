@@ -1,7 +1,7 @@
 # Organisational Blueprint
 
-**Version:** 2.0
-**Last Updated:** 2025-12-13
+**Version:** 2.1
+**Last Updated:** 2025-12-18
 **Purpose:** Define Oracle Boxing's mission, departmental structure, people, roles, outcomes, and hiring roadmap.
 
 ---
@@ -18,7 +18,7 @@
 
 | # | Department | Outcome | Primary Owner |
 |---|------------|---------|---------------|
-| 1 | [Executive & Strategy](#3-executive--strategy) | Direction, priorities, resourcing, culture | Jordan |
+| 1 | [Executive & Strategy](#3-executive--strategy) | Direction, priorities, resourcing, culture | WIP (MD role unassigned) |
 | 2 | [Product & Coaching](#4-product--coaching) | Student results through curriculum and live coaching | Oliver, Toni, Charlie |
 | 3 | [Community & Retention](#5-community--retention) | High retention, community health, accountability | Future hire |
 | 4 | [Content](#6-content) | Consistent high-quality content pipeline that feeds growth | Oliver, G |
@@ -32,7 +32,7 @@
 [Department Details](departments/executive_and_strategy.md)
 
 ### People
-- **Jordan** – Managing Director (Founding Partner)
+- **WIP / Unassigned** – Managing Director (Founding Partner) — role defined but not currently staffed
 
 ### Outcome
 Direction, priorities, resourcing, and culture that enable the team to execute effectively.
@@ -48,6 +48,8 @@ Direction, priorities, resourcing, and culture that enable the team to execute e
 - Weekly planning + ops dashboard update
 - Hiring plans and performance reviews
 - Org blueprint updates as needed
+
+**Note:** This department is WIP. The Managing Director role is defined but currently unassigned.
 
 ---
 
@@ -205,7 +207,7 @@ Reliability, customer support, payment processing, compliance, and system stabil
 
 | Role | Current Holder(s) | Primary Department |
 |------|-------------------|-------------------|
-| Managing Director (Founding Partner) | Jordan | Executive & Strategy |
+| Managing Director (Founding Partner) | WIP / Unassigned | Executive & Strategy |
 | Content Creator | Oliver | Content |
 | Content Producer (Editor) | G | Content |
 | Content Manager (Publishing & Performance) | G [interim] | Content |

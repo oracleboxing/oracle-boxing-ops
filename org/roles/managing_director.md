@@ -1,7 +1,7 @@
 # Managing Director (Founding Partner)
 
-**Version:** 2.0
-**Last Updated:** 2025-12-14
+**Version:** 2.1
+**Last Updated:** 2025-12-18
 **Purpose:** Define how this role creates leverage, focus, and clarity so Oracle Boxing can scale predictably.
 
 ---
@@ -22,7 +22,7 @@ This role does not exist to "sit above" execution or creative work. It exists to
 - A replacement for domain expertise (content, coaching, operations)
 - A role that centralises all decision-making
 
-Both founding partners are essential. Neither supersedes the other. Jordan owns the system design; Oliver owns the IP and craft.
+Both founding partners are essential. Neither supersedes the other. When staffed, the MD owns the system design; the Content Creator / IP Founder owns the IP and craft.
 
 ---
 
@@ -30,10 +30,12 @@ Both founding partners are essential. Neither supersedes the other. Jordan owns 
 
 | Attribute | Value |
 | --- | --- |
-| **Current Holder** | Jordan |
+| **Current Holder** | WIP / Unassigned |
 | **Primary Department** | Executive & Strategy |
 | **Works Alongside** | Content Creator / IP Founder (Oliver) |
 | **Enables** | All departments and roles |
+
+**Note:** This role is defined and parked as WIP. When activated, it will be assigned explicitly.
 
 ---
 
@@ -73,7 +75,7 @@ Scale coordination and execution without adding complexity.
 - Ensure meetings result in real outcomes, not just discussion
 - Reduce confusion, duplication, and dropped actions
 - Design handoffs that don't require founder involvement
-- Build systems that work when Jordan isn't watching
+- Build systems that work without founder involvement
 
 ---
 
@@ -122,7 +124,7 @@ If this role is regularly doing these things, something is misaligned and needs 
 
 These remain owned by the Content Creator / IP Founder (Oliver).
 
-This division reinforces co-founder parity: Jordan designs the system, Oliver owns the craft.
+This division reinforces co-founder parity: the MD designs the system, the Content Creator / IP Founder owns the craft.
 
 ---
 
@@ -157,10 +159,10 @@ These measure whether the role is creating leverage—not vanity metrics.
 
 | Measure | What It Means |
 | --- | --- |
-| **Reduction in founder bottlenecks** | Work flows without waiting on Jordan |
+| **Reduction in founder bottlenecks** | Work flows without waiting on founders |
 | **Improved clarity of roles and incentives** | Everyone knows what they own and how they're rewarded |
 | **Faster execution after decisions** | Decisions translate to system changes within days, not weeks |
-| **Ability to step back** | Jordan can be absent for a week without performance drop |
+| **Ability to step back** | MD can be absent for a week without performance drop |
 | **Measurable progress toward £50k/month** | Revenue growth attributable to focus and leverage improvements |
 | **Team velocity without burnout** | Sustainable execution pace, no firefighting culture |
 
@@ -170,7 +172,7 @@ These measure whether the role is creating leverage—not vanity metrics.
 
 This role is compensated only when defined outcomes are achieved. This model is designed to be board-defensible and attribution-safe.
 
-See [Compensation System](../compensation/COMPENSATION_SYSTEM.md#jordan--managing-director--growth-operator--operations-manager) for integration with Jordan's other roles.
+See [Managing Director Compensation](../compensation/roles/managing_director.md) for full details.
 
 ---
 
@@ -241,7 +243,7 @@ A constraint is only considered "removed" if **all 3 conditions** are met:
 
 ### Quarterly Pre-Agreement Process (Board Approval)
 
-At the start of each quarter, Jordan proposes 1–3 constraints to the board (Jordan + Oliver). The board reviews and approves each bounty before work begins.
+At the start of each quarter, the role holder proposes 1–3 constraints to the board. The board reviews and approves each bounty before work begins.
 
 **No bounty is payable unless pre-approved. No retroactive bounties.**
 
@@ -253,7 +255,7 @@ For each proposed constraint, a written **Bounty Spec** must contain:
 | 2 | **Evidence & Impact** | Data showing this limits growth (e.g., missed uploads, conversion rate baseline, churn data, support backlog) |
 | 3 | **Baseline (Current State)** | Clear description of what is true today |
 | 4 | **Removal Definition (Success Condition)** | Binary/verifiable condition including sustainability window (e.g., "holds for 6 consecutive weeks") |
-| 5 | **Owner & Dependencies** | Who must do what; what Jordan controls vs. influences; explicit dependencies (e.g., Oliver's filming cadence) |
+| 5 | **Owner & Dependencies** | Who must do what; what the MD controls vs. influences; explicit dependencies |
 | 6 | **System Change Required** | What will materially change (roles, process, tooling, documentation) |
 | 7 | **Verification Plan** | How the board will verify success (metrics check + documentation review) |
 | 8 | **Payout Amount** | The bounty value in pounds |
@@ -317,7 +319,7 @@ This is a template example—not a current commitment.
 | **Evidence & Impact** | 2 missed uploads in past 8 weeks; no weekly insights report; Jordan involved in 60% of publishing decisions |
 | **Baseline** | Publishing schedule sometimes missed; performance data reviewed ad-hoc; no documented Content Manager workflow |
 | **Removal Definition** | 0 missed uploads for 6 consecutive weeks AND weekly insights report delivered every week AND documented Content Manager role with clear ownership |
-| **Owner & Dependencies** | Jordan owns system design and documentation; G executes Content Manager duties; Oliver provides raw footage on agreed schedule |
+| **Owner & Dependencies** | MD owns system design and documentation; G executes Content Manager duties; Oliver provides raw footage on agreed schedule |
 | **System Change** | Updated [content_manager.md](content_manager.md) with explicit checklist; weekly insights template created; publishing calendar implemented |
 | **Verification Plan** | Board reviews: (1) upload log for 6-week period, (2) 6 weekly insights reports delivered, (3) role file updated in repo |
 | **Payout Amount** | £1,500 |
@@ -341,7 +343,7 @@ To prevent ambiguity and resentment:
 
 ## Notes
 
-- Jordan currently also holds Growth Operator and Operations Manager roles—these will be delegated as hiring progresses
+- This role is defined and parked as WIP. When activated, it will be assigned explicitly
 - The co-founder relationship with Oliver is 50/50 in authority, with distinct domains
 - This role scales Oracle Boxing by designing leverage, not by doing more
 - Success is measured by what the team achieves, not by how busy the Managing Director is
