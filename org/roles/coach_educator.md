@@ -1,7 +1,7 @@
 # Coach–Educator
 
-**Version:** 1.0
-**Last Updated:** 2025-12-13
+**Version:** 1.1
+**Last Updated:** 2025-12-18
 **Purpose:** Define the Coach–Educator role scope, decision rights, and success measures for Oracle Boxing.
 
 ---
@@ -27,25 +27,42 @@ Deliver boxing coaching through group sessions, 1-1 coaching, video feedback, an
 
 | Person | Primary Focus | Weekly Load |
 | --- | --- | --- |
-| **Oliver** | Course creation, group coaching, monthly 1-1s | 3 group sessions + 3 monthly 1-1s |
-| **Toni** | Group coaching, weekly 1-1s, paid packages, onboarding, sales | 4 group sessions + 3 weekly 1-1s + 1-2 paid |
-| **Charlie** | Group coaching, weekly 1-1s, video feedback | 2 group sessions + 7 weekly 1-1s + feedback |
+| **Oliver** | Course creation, group coaching, topic planning | 3 group sessions |
+| **Toni** | Group coaching, paid packages, onboarding, sales | 4 group sessions + 1-2 paid |
+| **Charlie** | Group coaching, video feedback, video submissions | 2 group sessions + feedback |
 
 ---
 
 ## Key Responsibilities
 
 ### Group Coaching Sessions
-- [ ] Punctually host assigned group coaching calls
+- [ ] Punctually host assigned group coaching calls on Skool (no Zoom)
 - [ ] Plan the coaching call at least 10 minutes in advance
 - [ ] Deliver engaging, educational coaching content
-- [ ] Publish the recording of the call within 24 hours
+- [ ] Publish the recording to Skool Call Recordings within 24 hours
+- [ ] Align weekly on 3 shared core topics across all coaches/time zones
+
+**Operating Notes:**
+- All group coaching calls are hosted natively on Skool (no Zoom)
+- All recordings must be posted in Skool under Call Recordings within 24 hours
+- Only the most valuable calls will be curated into courses over time
+- Each week, we plan 3 core coaching topics shared across all coaches/time zones. Calls still allow flexibility for individual needs
 
 ### 1-1 Coaching
-- [ ] Deliver 45-minute 1-1 sessions to leaderboard winners (weekly/monthly)
 - [ ] Deliver 45-minute 1-1 sessions to paid package customers
 - [ ] Prepare personalised feedback for each session
 - [ ] Track session completion and member progress
+
+**Note:** 1-1 coaching is primarily reserved for paid coaching packages. Leaderboard 1-1 rewards are limited and defined by the weekly plan—not guaranteed for all top-10 members. Fast-track 1:1 recordings are not posted to the community to avoid noise and decision fatigue.
+
+### Leaderboard Rewards System
+- [ ] Maintain and update 7-Day Leaderboard (Top 10) and 30-Day Leaderboard
+- [ ] Run weekly video submissions and accountability
+- [ ] Distribute rewards as defined by the weekly plan
+
+**Operating Notes:**
+- We run a 7-Day Leaderboard (Top 10) and a 30-Day Leaderboard
+- Rewards are structured to incentivise submissions and progress without overextending 1:1 coaching time
 
 ### Video Feedback (Charlie)
 - [ ] Leave weekly video feedback on qualifying member posts
@@ -105,8 +122,10 @@ Deliver boxing coaching through group sessions, 1-1 coaching, video feedback, an
 
 - **Session delivery:** 100% of scheduled sessions delivered
 - **Punctuality:** Sessions start on time
-- **Recording turnaround:** Posted within 24 hours
-- **1-1 completion:** All leaderboard/paid sessions delivered
+- **Recording turnaround:** Posted to Skool Call Recordings within 24 hours
+- **Topic alignment:** 3 core topics planned weekly across coaches
+- **1-1 completion:** All paid package sessions delivered
+- **Leaderboard rewards:** System maintained and rewards distributed
 - **Video feedback:** Queue cleared weekly (Charlie)
 - **Onboarding completion:** 100% of new members receive call (Toni)
 - **Community presence:** Active engagement maintained

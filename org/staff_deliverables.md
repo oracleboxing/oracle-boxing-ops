@@ -1,7 +1,7 @@
 # Staff Deliverables
 
-**Version:** 2.1
-**Last Updated:** 2025-12-14
+**Version:** 2.2
+**Last Updated:** 2025-12-18
 **Purpose:** Single source of truth mapping each staff member to their roles and deliverables.
 
 ---
@@ -103,10 +103,10 @@
 | Deliverable | Cadence |
 | --- | --- |
 | Create or update / maintain high quality course material | Ongoing |
-| Host group coaching calls (Wed 9am, Thu 9am, Fri 9am UK) | Weekly (3 sessions) |
+| Host group coaching calls on Skool (Wed 9am, Thu 9am, Fri 9am UK) | Weekly (3 sessions) |
 | Plan coaching calls at least 10 minutes in advance | Per session |
-| Publish coaching call recordings within 24 hours | Per session |
-| Deliver a 45-minute 1-on-1 coaching session to top 3 on 30-day leaderboard | Monthly |
+| Publish coaching call recordings to Skool Call Recordings within 24 hours | Per session |
+| Plan 3 core coaching topics weekly, shared across all coaches | Weekly |
 | Provide a "satisfactory" level of community activity | Ongoing |
 
 ### Compensation
@@ -129,10 +129,9 @@
 ### Product & Coaching
 | Deliverable | Cadence |
 | --- | --- |
-| Host group coaching calls (Mon 8pm, Tue 9pm, Sat 5pm, Sun 12pm UK) | Weekly (4 sessions) |
+| Host group coaching calls on Skool (Mon 8pm, Tue 9pm, Sat 5pm, Sun 12pm UK) | Weekly (4 sessions) |
 | Plan coaching calls at least 10 minutes in advance | Per session |
-| Publish coaching call recordings within 24 hours | Per session |
-| Deliver a 45-minute 1-on-1 coaching session to top 3 on 7-day leaderboard | Weekly |
+| Publish coaching call recordings to Skool Call Recordings within 24 hours | Per session |
 | Deliver a 45-minute 1-on-1 coaching call for paid coaching packages | 1-2 per week |
 | Deliver a 15-minute onboarding call to every new member | As members join |
 | Provide a "satisfactory" level of community activity | Ongoing |
@@ -164,10 +163,10 @@
 ### Product & Coaching
 | Deliverable | Cadence |
 | --- | --- |
-| Host group coaching calls (Wed 11pm, Sat 12am UK) | Weekly (2 sessions) |
+| Host group coaching calls on Skool (Wed 11pm, Sat 12am UK) | Weekly (2 sessions) |
 | Plan coaching calls at least 10 minutes in advance | Per session |
-| Publish coaching call recordings within 24 hours | Per session |
-| Deliver a 45-minute 1-on-1 coaching session to members ranked 4-10 on 7-day leaderboard | Weekly |
+| Publish coaching call recordings to Skool Call Recordings within 24 hours | Per session |
+| Run weekly video submissions and accountability | Weekly |
 | Leave weekly video feedback on qualifying member posts (key takeaways, actionables, <5 mins) | Weekly |
 | Provide a "satisfactory" level of community activity | Ongoing |
 

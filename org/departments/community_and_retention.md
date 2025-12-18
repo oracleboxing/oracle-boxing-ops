@@ -1,7 +1,7 @@
 # Community & Retention Department
 
-**Version:** 1.0
-**Last Updated:** 2025-12-13
+**Version:** 1.1
+**Last Updated:** 2025-12-18
 **Purpose:** High retention, strong community health, member accountability, and success story capture.
 
 ---
@@ -90,6 +90,23 @@ Until a Community Steward is hired:
 - **Video feedback** (Charlie) serves as a form of engagement and accountability
 - **Onboarding calls** (Toni) set initial expectations and connection
 - **Churn signals** are not systematically tracked
+
+---
+
+## Operating System Notes
+
+**Group Calls:**
+- All group coaching calls are hosted natively on Skool (no Zoom)
+- All recordings must be posted in Skool under Call Recordings within 24 hours
+- Only the most valuable calls will be curated into courses over time
+
+**1:1 Recordings:**
+- Fast-track 1:1 recordings are not posted to the community to avoid noise and decision fatigue
+
+**Accountability System:**
+- We run a 7-Day Leaderboard (Top 10) and a 30-Day Leaderboard
+- Rewards are structured to incentivise submissions and progress without overextending 1:1 coaching time
+- Weekly video submissions are the primary accountability mechanism
 
 ---
 
