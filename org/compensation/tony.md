@@ -1,6 +1,6 @@
-# Toni — Coach–Educator + Sales Rep
+# Tony — Coach–Educator + Sales Rep
 
-> Source of truth: [Compensation System Index](../COMPENSATION_SYSTEM.md)
+> Source of truth: [Compensation System Index](COMPENSATION_SYSTEM.md)
 
 ---
 
@@ -34,5 +34,5 @@
 
 ## Related Documents
 
-- [Coach–Educator Role](../../roles/coach_educator.md)
-- [Staff Deliverables](../../staff_deliverables.md)
+- [Coach–Educator Role](../roles/coach_educator.md)
+- [Staff Deliverables](../staff_deliverables.md)

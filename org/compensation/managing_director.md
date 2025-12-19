@@ -1,7 +1,7 @@
 # Managing Director — Success-Only Compensation
 
-> Source of truth: [Compensation System Index](../COMPENSATION_SYSTEM.md)
-> Role Definition: [Managing Director Role](../../roles/managing_director.md)
+> Source of truth: [Compensation System Index](COMPENSATION_SYSTEM.md)
+> Role Definition: [Managing Director Role](../roles/managing_director.md)
 
 **Status:** WIP / Unassigned — This compensation model is defined but the role is not currently staffed.
 
@@ -105,5 +105,5 @@ For each proposed constraint, a written **Bounty Spec** must contain:
 
 ## Related Documents
 
-- [Managing Director Role](../../roles/managing_director.md) — Full role definition
-- [Compensation System Index](../COMPENSATION_SYSTEM.md) — System overview
+- [Managing Director Role](../roles/managing_director.md) — Full role definition
+- [Compensation System Index](COMPENSATION_SYSTEM.md) — System overview

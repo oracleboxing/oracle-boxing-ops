@@ -62,14 +62,14 @@
 | Engage Dev/Tech contractor via SOW for projects | As needed |
 
 ### Compensation
-**Model:** Flat + Tiered Commission + Hourly | [Full details](compensation/people/jordan.md)
+**Model:** Flat + Tiered Commission + Hourly/Bounty | [Full details](compensation/jordan.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
 | Growth Operator base | £1,000/month | Flat |
-| Campaign commission | Tiered 10–20% (£3k cap) | Per campaign |
+| Campaign commission | Tiered 10–20% (£2,250 cap) | Per campaign |
 | Challenge upsell calls | 10% of collected revenue | Commission |
-| Ops & Finance work | £20/hour | Hourly (pre-approved) |
+| Ops & Finance work | £20/hour | Hourly (pre-approved) OR Bounty set (pre-approved) |
 
 ---
 
@@ -97,7 +97,7 @@
 | Provide a "satisfactory" level of community activity | Ongoing |
 
 ### Compensation
-**Model:** Flat + Unit + Performance | [Full details](compensation/people/oliver.md)
+**Model:** Flat + Unit + Performance | [Full details](compensation/oliver.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -132,7 +132,7 @@
 | Collect payment for 1-on-1 coaching package and update tracker | Per sale |
 
 ### Compensation
-**Model:** Commission + Floor | [Full details](compensation/people/toni.md)
+**Model:** Commission + Floor | [Full details](compensation/tony.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -158,7 +158,7 @@
 | Provide a "satisfactory" level of community activity | Ongoing |
 
 ### Compensation
-**Model:** Flat | [Full details](compensation/people/charlie.md)
+**Model:** Flat | [Full details](compensation/charlie_g.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
@@ -190,7 +190,7 @@
 | Track video performance and report insights | Weekly |
 
 ### Compensation
-**Model:** Flat + Unit + Performance | [Full details](compensation/people/g.md)
+**Model:** Flat + Unit + Performance | [Full details](compensation/charlie_g.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |

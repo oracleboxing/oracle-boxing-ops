@@ -1,10 +1,29 @@
-# G — Content Producer (Editor) + Content Manager [interim]
+# Charlie & G — Compensation
 
-> Source of truth: [Compensation System Index](../COMPENSATION_SYSTEM.md)
+> Source of truth: [Compensation System Index](COMPENSATION_SYSTEM.md)
 
 ---
 
-## Flat Component
+## Charlie — Coach–Educator
+
+### Flat Component
+
+| Component | Amount | Cadence |
+|-----------|--------|---------|
+| Base | $800 | Monthly |
+
+---
+
+### Related Documents
+
+- [Coach–Educator Role](../roles/coach_educator.md)
+- [Staff Deliverables](../staff_deliverables.md)
+
+---
+
+## G — Content Producer (Editor) + Content Manager [interim]
+
+### Flat Component
 
 | Component | Amount | Cadence |
 |-----------|--------|---------|
@@ -12,7 +31,7 @@
 
 ---
 
-## Long-Form Performance Bonus
+### Long-Form Performance Bonus
 
 **Metric:** Monthly average AVD% (Average View Duration percentage) across all long-form uploads
 
@@ -30,7 +49,7 @@
 
 ---
 
-## Short-Form Unit Payment
+### Short-Form Unit Payment
 
 | Component | Amount | Cadence |
 |-----------|--------|---------|
@@ -38,7 +57,7 @@
 
 ---
 
-## Meta Performance Bonus
+### Meta Performance Bonus
 
 **Metric:** Monthly "Content Interactions" on Meta platforms (Instagram/Facebook)
 
@@ -51,7 +70,7 @@
 
 ---
 
-## Monthly Compensation Range
+### Monthly Compensation Range
 
 - **Minimum:** £300 (flat only)
 - **Typical:** £500–£800 (flat + shorts + moderate performance)
@@ -59,8 +78,8 @@
 
 ---
 
-## Related Documents
+### Related Documents
 
-- [Content Producer Role](../../roles/content_producer_editor.md)
-- [Content Manager Role](../../roles/content_manager.md)
-- [Staff Deliverables](../../staff_deliverables.md)
+- [Content Producer Role](../roles/content_producer_editor.md)
+- [Content Manager Role](../roles/content_manager.md)
+- [Staff Deliverables](../staff_deliverables.md)

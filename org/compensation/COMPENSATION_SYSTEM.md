@@ -31,7 +31,7 @@ All performance bonuses are defined with:
 |--------|---------|-------------------|--------------|-------------------|
 | G | Content Producer + Content Manager | Flat + Unit + Performance | £300 | £200–£1,400+ |
 | Oliver | Content Creator + Coach–Educator | Flat + Unit + Performance | £1,000 | £450–£1,500+ |
-| Jordan | Growth Operator + Operations Manager | Flat + Tiered Commission + Hourly | £1,000 | Tiered commission (£3k cap) |
+| Jordan | Growth Operator + Operations Manager | Flat + Tiered Commission + Hourly/Bounty | £1,000 | Tiered commission (£2,250 cap) |
 | Toni | Coach–Educator + Sales Rep | Commission + Floor | £1,000 floor | 60% of 1-1 sales |
 | Charlie | Coach–Educator | Flat | $800 | — |
 
@@ -51,17 +51,11 @@ All performance bonuses are defined with:
 
 ## Detailed Compensation by Person
 
-- [G](./people/g.md) — Content Producer + Content Manager
-- [Oliver](./people/oliver.md) — Content Creator + Coach–Educator
-- [Jordan](./people/jordan.md) — Growth Operator + Operations Manager
-- [Toni](./people/toni.md) — Coach–Educator + Sales Rep
-- [Charlie](./people/charlie.md) — Coach–Educator
-
----
-
-## Role-Based Compensation (WIP Roles)
-
-- [Managing Director](./roles/managing_director.md) — Success-only compensation model (WIP / Unassigned)
+- [Charlie & G](./charlie_g.md) — Coach–Educator + Content Producer/Manager
+- [Jordan](./jordan.md) — Growth Operator + Operations Manager
+- [Oliver](./oliver.md) — Content Creator + Coach–Educator
+- [Tony](./tony.md) — Coach–Educator + Sales Rep
+- [Managing Director](./managing_director.md) — Success-only compensation model (WIP / Unassigned)
 
 ---
 

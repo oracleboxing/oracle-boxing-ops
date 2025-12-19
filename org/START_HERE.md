@@ -51,7 +51,6 @@
 
 - [Roles Index & Guidelines](roles/README.md)
 - [Responsibilities Index](responsibilities/README.md)
-- [Department Snapshots](department_snapshots/README.md)
 
 ---
 

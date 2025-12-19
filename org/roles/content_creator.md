@@ -93,7 +93,7 @@ Oliver also holds the **Coach–Educator** role in Product & Coaching.
 
 **Model:** Flat + Performance
 
-See [Oliver's Compensation](../compensation/people/oliver.md) for full details.
+See [Oliver's Compensation](../compensation/oliver.md) for full details.
 
 | Component | Amount | Type |
 | --- | --- | --- |

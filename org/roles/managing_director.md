@@ -172,7 +172,7 @@ These measure whether the role is creating leverage—not vanity metrics.
 
 This role is compensated only when defined outcomes are achieved. This model is designed to be board-defensible and attribution-safe.
 
-See [Managing Director Compensation](../compensation/roles/managing_director.md) for full details.
+See [Managing Director Compensation](../compensation/managing_director.md) for full details.
 
 ---
 

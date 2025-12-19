@@ -1,6 +1,6 @@
 # Jordan — Growth Operator + Operations Manager
 
-> Source of truth: [Compensation System Index](../COMPENSATION_SYSTEM.md)
+> Source of truth: [Compensation System Index](COMPENSATION_SYSTEM.md)
 
 ---
 
@@ -29,18 +29,13 @@ Notes:
 | £5,001 – £10,000 | 15% |
 | Above £10,000 | 20% |
 
-**Hard Cap:** Maximum commission per campaign: **£3,000**
+**Hard Cap:** Maximum commission per campaign: **£2,250**
 
 **Worked Example:**
 - Campaign Net Profit: £15,000
 - Commission: (£5,000 × 10%) + (£5,000 × 15%) + (£5,000 × 20%) = £500 + £750 + £1,000 = **£2,250**
 
-**Worked Example (hitting cap):**
-- Campaign Net Profit: £25,000
-- Uncapped commission: (£5,000 × 10%) + (£5,000 × 15%) + (£15,000 × 20%) = £500 + £750 + £3,000 = £4,250
-- **Actual commission: £3,000** (capped)
-
-> Commission is calculated per campaign according to the tiered structure above and is capped at **£3,000 per campaign**. Commission structure is reviewed quarterly as campaign scale and business capacity evolve.
+> Commission is calculated per campaign according to the tiered structure above and is capped at **£2,250 per campaign**. Commission structure is reviewed quarterly as campaign scale and business capacity evolve.
 
 ---
 
@@ -55,11 +50,11 @@ Notes:
 
 ---
 
-## Ops & Finance Hourly Lane (Episodic)
+## Ops & Finance Lane (Episodic)
 
 | Component | Amount | Cadence |
 |-----------|--------|---------|
-| Ops & Finance work | £20 | Per hour |
+| Ops & Finance work | £20 | Per hour (pre-approved) OR Bounty set (pre-approved) |
 
 **Examples of qualifying work:**
 - Automations (Make.com workflows)
@@ -71,6 +66,7 @@ Notes:
 **Conditions:**
 - Hours/tasks must be approved before they are payable
 - Hours must be logged and submitted
+- Bounty work must be scoped and approved in advance
 
 **Monthly Reporting Requirements:**
 At the end of each month, Jordan must submit:
@@ -119,13 +115,13 @@ Assumes 1 marketing campaign per month, plus quarterly VAT preparation work.
 
 - **Minimum:** £1,000 (Growth Operator base only)
 - **Typical:** £1,500–£2,500 (base + tiered commission + occasional ops work)
-- **Maximum per campaign:** £3,000 commission cap + base + hourly
+- **Maximum per campaign:** £2,250 commission cap + base + hourly/bounty
 - **Variable:** Dependent on campaign performance
 
 ---
 
 ## Related Documents
 
-- [Growth Operator Role](../../roles/growth_operator.md)
-- [Operations Manager Role](../../roles/operations_manager.md)
-- [Staff Deliverables](../../staff_deliverables.md)
+- [Growth Operator Role](../roles/growth_operator.md)
+- [Operations Manager Role](../roles/operations_manager.md)
+- [Staff Deliverables](../staff_deliverables.md)

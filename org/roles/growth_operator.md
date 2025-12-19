@@ -113,7 +113,7 @@ Jordan currently holds this role alongside Managing Director and Operations Mana
 
 **Model:** Flat + Tiered Commission
 
-See [Jordan's Compensation](../compensation/people/jordan.md) for full details.
+See [Jordan's Compensation](../compensation/jordan.md) for full details.
 
 ### Base Pay
 
@@ -138,9 +138,9 @@ Notes:
 | £5,001 – £10,000 | 15% |
 | Above £10,000 | 20% |
 
-**Hard Cap:** Maximum commission per campaign: **£3,000**
+**Hard Cap:** Maximum commission per campaign: **£2,250**
 
-> Commission is calculated per campaign according to the tiered structure above and is capped at **£3,000 per campaign**. Commission structure is reviewed quarterly as campaign scale and business capacity evolve.
+> Commission is calculated per campaign according to the tiered structure above and is capped at **£2,250 per campaign**. Commission structure is reviewed quarterly as campaign scale and business capacity evolve.
 
 ---
 

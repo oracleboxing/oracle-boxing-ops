@@ -116,11 +116,11 @@ Jordan currently holds this role alongside Managing Director and Growth Operator
 
 **Model:** Hourly (episodic)
 
-See [Jordan's Compensation](../compensation/people/jordan.md) for full details.
+See [Jordan's Compensation](../compensation/jordan.md) for full details.
 
 | Component | Amount | Type |
 | --- | --- | --- |
-| Ops & Finance work | £20/hour | Hourly (pre-approved) |
+| Ops & Finance work | £20/hour | Hourly (pre-approved) OR Bounty set (pre-approved) |
 
 **Examples of qualifying work:**
 - Automations (Make.com workflows)

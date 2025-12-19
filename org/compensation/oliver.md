@@ -1,6 +1,6 @@
 # Oliver — Content Creator + Coach–Educator
 
-> Source of truth: [Compensation System Index](../COMPENSATION_SYSTEM.md)
+> Source of truth: [Compensation System Index](COMPENSATION_SYSTEM.md)
 
 ---
 
@@ -125,6 +125,6 @@ This is additional to the figures above and depends on approved course projects.
 
 ## Related Documents
 
-- [Content Creator Role](../../roles/content_creator.md)
-- [Coach–Educator Role](../../roles/coach_educator.md)
-- [Staff Deliverables](../../staff_deliverables.md)
+- [Content Creator Role](../roles/content_creator.md)
+- [Coach–Educator Role](../roles/coach_educator.md)
+- [Staff Deliverables](../staff_deliverables.md)

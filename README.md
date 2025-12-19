@@ -40,4 +40,4 @@
   - `org/departments/` – Department files with outcomes, deliverables, KPIs
   - `org/roles/` – Role definitions with responsibilities and decision rights
   - `org/responsibilities/` – Department-level responsibility trackers
-  - `org/department_snapshots/` – Quick reference summaries
+  - `org/compensation/` – Person compensation docs

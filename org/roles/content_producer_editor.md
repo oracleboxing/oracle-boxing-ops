@@ -90,7 +90,7 @@ Edit all video content (long-form YouTube videos, vlogs, short-form content) to 
 
 **Model:** Flat + Unit + Performance (combined with Content Manager role)
 
-See [G's Compensation](../compensation/people/g.md) for full details.
+See [G's Compensation](../compensation/charlie_g.md) for full details.
 
 | Component | Amount | Type |
 | --- | --- | --- |

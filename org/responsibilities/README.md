@@ -32,4 +32,3 @@
 
 - [Departments](../departments/) – Full department details
 - [Staff Deliverables](../staff_deliverables.md) – Person → deliverables
-- [Department Snapshots](../department_snapshots/) – Quick overviews
