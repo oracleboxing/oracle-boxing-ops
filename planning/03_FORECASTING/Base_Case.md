@@ -1,62 +1,71 @@
-# Base Case Forecast — 2026
+# Base Case Forecast — USD
 
 ## Purpose
 
-The Base Case represents the scenario where:
+The Base Case defines how Oracle Boxing clears **~$19,000/month** in revenue without relying on launches or heroics.
 
-- No heroics are required
+This scenario assumes:
+
 - Systems function as designed
+- No exceptional performance
 - Campaigns are optional, not required
 
-This is the "steady state" where the business sustains itself without emergency interventions.
+## Core Assumptions (Locked)
 
-## Core Assumptions
-
-- Default intake offer: **Hybrid — 6-Week Challenge → Fight Camp**
+- Default intake path: **Hybrid — 6-Week Challenge → Community Education**
 - Focus on:
   - Increasing upfront AOV
-  - Optimising upsell conversion
-- Baseline revenue must clear **£15k/month**
-- Systems handle renewals, upsells, and onboarding without manual intervention
+  - Improving upsell conversion into time-based commitments
+- Cash is collected upfront
+- Founder workload capped at ~50 hrs/week
 
-## Revenue Structure
+## Current Baseline (Observed Reality)
 
-### Base (Platform / Community)
+Approximate recurring revenue today:
 
-Recurring revenue from platform access and community membership.
+| Segment | Calculation | Monthly |
+|---------|-------------|---------|
+| 41 members × $97 | Core community | $3,977 |
+| 9 members × $70 | Legacy/other | $630 |
+| **Total** | | **~$4,600** |
 
-TODO: Base monthly subscribers and pricing
+**Notes:**
+- Additional members are trialling, free, or improperly attributed
+- Hygiene fixes expected to materially improve this baseline
 
-### Ascension (Upsells, Longer Commitments)
+## Target Base Case Structure
 
-Revenue from upsells post-challenge and extended program commitments.
+### Education Platform (Recurring)
 
-TODO: Upsell conversion assumptions
+| Metric | Target |
+|--------|--------|
+| Active paying members | ~200 |
+| Average effective monthly value | ~$90 |
+| Target recurring revenue | ~$18,000/month |
 
-### Campaign Acceleration (Fight Camps)
+This forms the **stability floor**.
 
-Additional revenue from Fight Camp cohorts — accelerates growth but not required for baseline.
+## How the Base Case Is Achieved
 
-TODO: Average LTV per participant
+Not through new traffic, but through:
 
-| Revenue Layer | Monthly Est. | Notes |
-|--------------|--------------|-------|
-| Base | TODO | Platform/community recurring |
-| Ascension | TODO | Upsells and longer commitments |
-| Campaign | TODO | Fight Camp acceleration |
-| **Total** | TODO | |
+- Improved Challenge → Membership conversion
+- Defaulting to 6- and 12-month commitments
+- Fixing renewal and billing leaks
+- Removing non-paying / ghost accounts
 
-## Cash Timing
+## Retention Reality
 
-- All cash collected **upfront**
-- Profit realised through upsells **post-delivery**
-- No payment plans creating collection lag
+- Average retention ≈ 4 months
+- 6-month packages most popular
+- Stripe-reported churn ≈ 12.5% (requires deeper audit)
+
+TODO: Confirm true churn via Stripe Sigma / SQL
 
 ## Failure Conditions
 
-The Base Case is failing if:
+The Base Case is considered broken if:
 
-- Baseline revenue < £15k/month
-- Upsells leaking or not tracked
-- Founder required to intervene constantly
-- Systems breaking and requiring emergency fixes
+- Recurring revenue < $19k/month
+- Upsells are not tracked or executed
+- Founder intervention is required to maintain baseline
