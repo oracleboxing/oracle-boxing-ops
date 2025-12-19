@@ -1,48 +1,54 @@
-# Business Thesis — 2026
+# Oracle Boxing — 2026 Business Thesis
 
-## What Business Is Oracle Boxing In?
+## What Business We Are In
 
-TODO: Define the core business in one sentence
+Oracle Boxing in 2026 is a **systems-based boxing education platform**.
 
-Questions to answer:
-- Are we a gym? A coaching business? A transformation company?
-- What do we actually sell? (Access, outcomes, community, identity?)
-- Who is the customer? (Demographics, psychographics, problem they're solving)
+The primary output is not content, launches, or hype, but **codified systems** that reliably develop boxers, coaches, and educators through structured progression.
 
-## What Oracle Boxing Is NOT
+## What We Are NOT
 
-TODO: Define what we explicitly choose not to be
+Oracle Boxing is no longer allowed to be:
 
-Questions to answer:
-- What services/customers will we say no to?
-- What growth opportunities will we deliberately ignore?
-- What would success look like if we're NOT us?
+- A business that struggles to retain profit
+- A business that leaks customers or upsell cash
+- A content treadmill with no leverage or compounding effect
 
-## Primary Constraint in 2026
+**Any activity that does not build durable systems is considered a liability.**
 
-TODO: Identify the single biggest bottleneck
+## Primary Optimisation Axis (2026)
 
-Candidates to consider:
-- Cash (can't invest in growth)
-- Time (founder bandwidth)
-- Space (physical capacity)
-- Talent (team capabilities)
-- Demand (not enough leads)
-- Something else
+**Skill and system building** (long-term compounding) is the primary optimisation axis.
 
-## Primary Optimisation Axis
+This applies to:
 
-TODO: What's the ONE thing we're optimising for in 2026?
+- **Jordan** → becoming a better entrepreneur
+- **Toni** → becoming a better coach
+- **Oliver** → becoming a better boxer and educator
 
-Options to consider:
-- Profit margin (make more per customer)
-- Customer volume (serve more people)
-- Cash flow stability (smooth out the spikes)
-- Owner freedom (less founder dependency)
-- Something else
+Revenue exists to fund compounding capability.
 
-## The Thesis Statement
+## Founder Constraints
 
-TODO: Write the complete thesis in 2-3 sentences
+- Target workload: **~50 hours/week**
+- The business must stop:
+  - Breaking technically
+  - Creating staff fires
+  - Requiring emergency revenue or profit fixes
 
-Template: "Oracle Boxing is a [type of business] that [does what] for [whom]. In 2026, we will [primary focus] by [key mechanism], constrained primarily by [constraint]."
+**Systems must function without heroics.**
+
+## Financial Intent
+
+| Target | Description |
+|--------|-------------|
+| Baseline stability floor | £15,000/month revenue |
+| Growth target | £25,000/month run rate by December 2026 |
+
+- Baseline must **not depend on campaigns**
+- Growth achieved through improved AOV, LTV, retention, and upsell execution
+- **Campaigns accelerate growth — they do not sustain the business**
+
+## Campaign Philosophy
+
+Campaigns exist to **feed and strengthen the platform**, not to save the business month to month.

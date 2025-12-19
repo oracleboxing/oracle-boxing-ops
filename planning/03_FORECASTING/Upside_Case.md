@@ -1,56 +1,50 @@
 # Upside Case Forecast — 2026
 
-The upside case represents what's possible if things go well. Optimistic but not fantasy.
+## Purpose
 
-## Assumptions
+The Upside Case represents what's possible when:
 
-TODO: What needs to go right for the upside case?
+- Systems work better than expected
+- Conversion rates exceed assumptions
+- Growth cycles compound successfully
 
-Potential upside drivers:
-- Higher challenge conversion rates
-- Better member retention
-- Successful new revenue stream
-- Viral marketing moment
-- Strategic partnership
-- Something else
+## Core Assumptions
 
-## Revenue Model
+Same structure as Base Case, plus:
 
-TODO: Build optimistic revenue projection
+- Improved AOV through better offer packaging
+- Improved upsell execution and tracking
+- Best-performing growth cycle repeated consistently
+- Higher retention than baseline
 
-| Revenue Stream | Monthly Est. | Annual Est. | vs Base Case |
-|---------------|--------------|-------------|--------------|
-| TODO | TODO | TODO | TODO |
-| **Total** | TODO | TODO | TODO |
+## Revenue Structure
 
-## Cost Model
+| Revenue Layer | Monthly Est. | vs Base Case |
+|--------------|--------------|--------------|
+| Base | TODO | TODO |
+| Ascension | TODO | TODO |
+| Campaign | TODO | TODO |
+| **Total** | TODO | TODO |
 
-TODO: How do costs change in the upside scenario?
+## Upside Drivers
 
-| Cost Category | Monthly Est. | Annual Est. | vs Base Case |
-|--------------|--------------|-------------|--------------|
-| TODO | TODO | TODO | TODO |
-| **Total** | TODO | TODO | TODO |
+- Higher challenge → Fight Camp conversion
+- Better upsell capture rate
+- Stronger word-of-mouth from satisfied participants
+- Reduced churn in community/platform
 
-## Net Profit Projection
+## Cash Timing
 
-| Metric | Monthly Avg | Annual | vs Base Case |
-|--------|-------------|--------|--------------|
-| Revenue | TODO | TODO | TODO |
-| Expenses | TODO | TODO | TODO |
-| Net Profit | TODO | TODO | TODO |
-| Net Margin | TODO | TODO | TODO |
+- Same as Base Case: all cash upfront
+- Faster compounding due to improved conversion
 
-## Notes on Cash Timing
+## Success Indicators
 
-TODO: How does cash flow differ in the upside case?
+Tracking toward Upside if:
 
-## How Success/Failure Is Measured
+- Baseline exceeds £15k/month without campaigns
+- Upsell conversion rates above assumption
+- Customer satisfaction driving referrals
+- Founder workload staying within ~50 hrs/week despite growth
 
-TODO: What signals would indicate we're tracking toward upside?
-
-Leading indicators:
-- TODO
-
-What we'd do differently if tracking toward upside:
-- TODO
+TODO: Define specific upside targets (AOV, conversion rates, LTV)

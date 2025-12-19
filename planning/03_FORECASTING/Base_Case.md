@@ -1,79 +1,62 @@
 # Base Case Forecast — 2026
 
-The base case represents a conservative, "business as usual" projection. No heroic assumptions.
+## Purpose
 
-## Assumptions
+The Base Case represents the scenario where:
 
-TODO: List the core assumptions underlying this forecast
+- No heroics are required
+- Systems function as designed
+- Campaigns are optional, not required
 
-Questions to answer:
-- Member growth rate?
-- Retention rate?
-- Number of campaigns planned?
-- Challenge conversion rates?
-- Pricing changes?
-- Staffing changes?
-- Rent/overhead changes?
+This is the "steady state" where the business sustains itself without emergency interventions.
 
-## Revenue Model
+## Core Assumptions
 
-TODO: Build bottom-up revenue projection
+- Default intake offer: **Hybrid — 6-Week Challenge → Fight Camp**
+- Focus on:
+  - Increasing upfront AOV
+  - Optimising upsell conversion
+- Baseline revenue must clear **£15k/month**
+- Systems handle renewals, upsells, and onboarding without manual intervention
 
-Components to consider:
-- Recurring membership revenue
-- Challenge/camp revenue
-- PT and 1:1 coaching revenue
-- Other revenue streams
+## Revenue Structure
 
-| Revenue Stream | Monthly Est. | Annual Est. |
-|---------------|--------------|-------------|
-| TODO | TODO | TODO |
-| **Total** | TODO | TODO |
+### Base (Platform / Community)
 
-## Cost Model
+Recurring revenue from platform access and community membership.
 
-TODO: Build cost projection
+TODO: Base monthly subscribers and pricing
 
-| Cost Category | Monthly Est. | Annual Est. | % of Revenue |
-|--------------|--------------|-------------|--------------|
-| Payroll | TODO | TODO | TODO |
-| Cost (COGS) | TODO | TODO | TODO |
-| Software | TODO | TODO | TODO |
-| Rent | TODO | TODO | TODO |
-| Marketing | TODO | TODO | TODO |
-| Other | TODO | TODO | TODO |
-| **Total** | TODO | TODO | TODO |
+### Ascension (Upsells, Longer Commitments)
 
-## Net Profit Projection
+Revenue from upsells post-challenge and extended program commitments.
 
-TODO: Revenue minus costs
+TODO: Upsell conversion assumptions
 
-| Metric | Monthly Avg | Annual |
-|--------|-------------|--------|
-| Revenue | TODO | TODO |
-| Expenses | TODO | TODO |
-| Net Profit | TODO | TODO |
-| Net Margin | TODO | TODO |
+### Campaign Acceleration (Fight Camps)
 
-## Notes on Cash Timing
+Additional revenue from Fight Camp cohorts — accelerates growth but not required for baseline.
 
-TODO: When does cash actually arrive vs. when is it earned?
+TODO: Average LTV per participant
 
-Considerations:
-- Challenge → upsell lag
-- Payment plan collections
-- Seasonal patterns
-- Working capital requirements
+| Revenue Layer | Monthly Est. | Notes |
+|--------------|--------------|-------|
+| Base | TODO | Platform/community recurring |
+| Ascension | TODO | Upsells and longer commitments |
+| Campaign | TODO | Fight Camp acceleration |
+| **Total** | TODO | |
 
-## How Success/Failure Is Measured
+## Cash Timing
 
-TODO: What would make this forecast "on track" vs "failing"?
+- All cash collected **upfront**
+- Profit realised through upsells **post-delivery**
+- No payment plans creating collection lag
 
-Early indicators (by end of Q1):
-- TODO
+## Failure Conditions
 
-Mid-year check (by end of Q2):
-- TODO
+The Base Case is failing if:
 
-Course correction triggers:
-- TODO
+- Baseline revenue < £15k/month
+- Upsells leaking or not tracked
+- Founder required to intervene constantly
+- Systems breaking and requiring emergency fixes

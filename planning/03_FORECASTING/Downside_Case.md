@@ -1,65 +1,62 @@
 # Downside Case Forecast — 2026
 
-The downside case represents what happens if things go wrong. Not catastrophe, but realistic bad luck.
+## Purpose
 
-## Assumptions
+The Downside Case represents what happens when:
 
-TODO: What could go wrong?
+- Conversion rates underperform
+- Systems have gaps or failures
+- External factors slow acquisition
 
-Potential downside drivers:
-- Lower challenge conversion rates
-- Higher churn / poor retention
-- Campaign that doesn't land
-- Key staff departure
-- Economic downturn affecting discretionary spend
-- Increased competition
-- Something else
+This is not catastrophe — it's realistic underperformance.
 
-## Revenue Model
+## Core Assumptions
 
-TODO: Build pessimistic revenue projection
+- Lower conversion rates than Base Case
+- Missed upsell windows (timing, tracking failures)
+- Slower acquisition from campaigns
+- Higher churn than expected
 
-| Revenue Stream | Monthly Est. | Annual Est. | vs Base Case |
-|---------------|--------------|-------------|--------------|
-| TODO | TODO | TODO | TODO |
-| **Total** | TODO | TODO | TODO |
+## Revenue Structure
 
-## Cost Model
+| Revenue Layer | Monthly Est. | vs Base Case |
+|--------------|--------------|--------------|
+| Base | TODO | TODO |
+| Ascension | TODO | TODO |
+| Campaign | TODO | TODO |
+| **Total** | TODO | TODO |
 
-TODO: How do costs change (or stay fixed) in downside scenario?
+## Downside Drivers
 
-| Cost Category | Monthly Est. | Annual Est. | vs Base Case |
-|--------------|--------------|-------------|--------------|
-| TODO | TODO | TODO | TODO |
-| **Total** | TODO | TODO | TODO |
+- Challenge → Fight Camp conversion below target
+- Upsell cash not captured (system leaks)
+- Campaign ROAS lower than 2025 benchmarks
+- Higher-than-expected churn
 
-## Net Profit Projection
+## Cash Timing
 
-| Metric | Monthly Avg | Annual | vs Base Case |
-|--------|-------------|--------|--------------|
-| Revenue | TODO | TODO | TODO |
-| Expenses | TODO | TODO | TODO |
-| Net Profit | TODO | TODO | TODO |
-| Net Margin | TODO | TODO | TODO |
+- Cash still collected upfront
+- But less of it, and upsell collection may be missed entirely
 
-## Notes on Cash Timing
+## Warning Indicators
 
-TODO: Cash flow stress points in downside scenario
+Tracking toward Downside if:
 
-Questions to answer:
-- When would cash get tight?
-- What's the minimum cash reserve needed?
-- How long could we sustain losses before action required?
+- Baseline revenue < £15k/month
+- Upsell tracking shows leaks or gaps
+- Founder constantly intervening to fix issues
+- Campaign performance significantly below 2025
 
-## How Success/Failure Is Measured
+## Mitigation
 
-TODO: What signals would indicate we're tracking toward downside?
+TODO: Cost controls — what can be reduced if revenue underperforms?
 
-Warning indicators:
-- TODO
+TODO: Cycle pacing adjustments — can we slow cadence to reduce burn?
 
-Contingency actions if downside materialises:
-- TODO
+## Contingency Triggers
 
-"Pull the ripcord" triggers:
-- TODO
+If Downside materialises:
+
+- Review payroll structure (largest cost lever)
+- Pause non-essential spend
+- Focus on fixing system leaks before next cycle

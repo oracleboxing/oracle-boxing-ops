@@ -1,50 +1,30 @@
 # Success Definition — 2026
 
-## Financial Targets
+## Financial Success
 
-TODO: Set specific, measurable financial goals
+- £15k/month stable baseline (non-campaign dependent)
+- £25k/month run rate by end of 2026
+- Improved cash collected upfront
+- Improved upsell cash collection thereafter
 
-Questions to answer:
-- Target annual revenue?
-- Target net profit (£ and %)?
-- Target monthly recurring revenue?
-- Maximum acceptable loss in any single month?
-- Cash reserve target?
+## Operational Success
 
-## Operational Targets
+- No silent revenue leaks (renewals, upsells, onboarding)
+- Reliable subscription and auto-renew systems
+- Reduced emergency fixes
 
-TODO: Define operational success metrics
+## Team Success
 
-Questions to answer:
-- Active member count target?
-- Member retention rate target?
-- Challenge conversion rate target?
-- Staff utilisation targets?
-- Hours per week for owner in the business?
+- Clear role ownership
+- Reduced founder bottlenecks
+- Coaching and education quality improving cycle over cycle
 
-## Audience / Brand Targets
+## Founder Success
 
-TODO: Define brand and community goals
+- ~50 hours/week average workload
+- Predictable cadence
+- No constant fire-fighting
 
-Questions to answer:
-- Social media metrics that matter?
-- Community engagement indicators?
-- Brand positioning relative to competitors?
-- Reputation/review targets?
+---
 
-## Personal Targets (Owner)
-
-TODO: Define what success means personally
-
-Questions to answer:
-- Income drawn from the business?
-- Time working ON vs IN the business?
-- Stress/lifestyle indicators?
-- Skills to develop or delegate?
-- What does "enough" look like?
-
-## Success Summary
-
-TODO: If 2026 goes perfectly, what's different by Dec 31?
-
-Write this as a short narrative describing the state of the business and your life at the end of 2026.
+TODO: Quantify acceptable margins and retention benchmarks
