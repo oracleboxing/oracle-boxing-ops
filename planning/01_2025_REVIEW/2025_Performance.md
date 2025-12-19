@@ -2,7 +2,10 @@
 
 ## High-Level Summary
 
-2025 was a year of campaign-driven growth experimentation. The business ran multiple acquisition campaigns throughout the year, with financial results closely tied to campaign timing rather than steady-state operations.
+- 2025 was proof of demand, not stability
+- Profitability was episodic and campaign-led
+- Loss months were caused by unintentional overhead drift
+- Cash collection was always upfront
 
 The year ended with a small net loss (-£3,522.38 YTD as of Dec 19), but the final quarter showed signs of improvement with an average net profit of £1,102.60 over the last three months.
 
@@ -22,32 +25,55 @@ The monthly profit pattern tells a campaign story:
 
 See: [2025 Campaigns](2025_Campaigns.md) for full timeline.
 
-## Structural Observations
+---
+
+## Offer-Level Reality (2025)
+
+### Primary Profit Drivers
+
+- **6-Week Challenge** — Front-end acquisition with upsell conversion
+- **Fight Camps II & III** — Event-based cohorts with strong margins
+
+### Secondary / Amplifier
+
+- **Upsells** — Back-end revenue dependent on challenge performance
+- **1-on-1 coaching** — High margin, capacity-bound
+
+### Non-Core / Incremental
+
+- Courses & bundles
+- Merch
+
+---
+
+## Operational Observations
 
 ### Campaign → Delay → Collect Rhythm
 
 There's a predictable lag between launching a campaign (acquisition cost) and collecting the upsell revenue. This creates a "spend now, collect later" cash flow pattern that makes individual months misleading.
 
-TODO: Quantify the typical lag (appears to be ~1 month based on Sep→Oct pattern)
-
-### Payroll as the Largest Cost Lever
+### Payroll as the Primary Cost Lever
 
 Payroll represents approximately 49% of total expenses. This is the single biggest line item and the most significant lever for profitability.
 
-TODO: Break down payroll by role/function
-TODO: Identify which payroll costs are fixed vs. variable with revenue
+### High-Performing Acquisition with Weak Baseline Months
 
-### Revenue Concentration
+Campaigns drive strong spikes, but baseline months without campaigns often run at a loss due to fixed overhead.
 
-TODO: How much revenue came from campaigns vs. steady-state memberships?
-TODO: What's the retention rate on challenge participants?
+---
+
+## Team & Payroll Context
+
+| Person | Status | Notes |
+|--------|--------|-------|
+| Toni | Full-time | Essential |
+| Jordan | Full-time | Director |
+| Oliver | Full-time | Director |
+| Charlie | Part-time | Nice-to-have |
+| G | Part-time | Role important but fit uncertain |
+
+---
 
 ## Core 2025 Lesson
 
-TODO: Summarise the single most important lesson from 2025
-
-Candidates to consider:
-- Campaign timing matters more than campaign frequency
-- The upsell conversion rate determines whether challenges are profitable
-- Payroll needs to flex with revenue, not stay fixed
-- Something else entirely
+> Oracle Boxing is a campaign-led, event-driven business with strong acquisition and delayed profit realisation.
