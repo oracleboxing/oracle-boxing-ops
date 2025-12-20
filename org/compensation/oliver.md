@@ -79,47 +79,11 @@ Course content creation is paid via fixed bounties, not hourly.
 
 ---
 
-## Expected Earnings
-
-### Monthly Scenarios
-
-Assumes 3 group coaching calls per week (12 per month) and ~3 1-on-1 coaching sessions per month.
-
-| Watch Time | Base | Watch Time Bonus | Group Calls (12×£30) | 1-1s (3×£30) | Monthly Total |
-|------------|------|------------------|----------------------|--------------|---------------|
-| < 10,000 hrs | £1,000 | £0 | £360 | £90 | **£1,450** |
-| ≥ 12,500 hrs | £1,000 | £675 | £360 | £90 | **£2,125** |
-| ≥ 15,000 hrs | £1,000 | £900 | £360 | £90 | **£2,350** |
-| ≥ 20,000 hrs | £1,000 | £1,125 | £360 | £90 | **£2,575** |
-
-### Quarterly Scenarios
-
-Assumes 3 group coaching calls per week (36 per quarter), ~9 1-on-1 coaching sessions per quarter, and consistent Watch Time performance.
-
-| Watch Time (avg) | 3× Base | 3× Watch Time Bonus | Group Calls (36×£30) | 1-1s (9×£30) | Quarterly Total |
-|------------------|---------|---------------------|----------------------|--------------|-----------------|
-| < 10,000 hrs | £3,000 | £0 | £1,080 | £270 | **£4,350** |
-| ≥ 12,500 hrs | £3,000 | £2,025 | £1,080 | £270 | **£6,375** |
-| ≥ 15,000 hrs | £3,000 | £2,700 | £1,080 | £270 | **£7,050** |
-| ≥ 20,000 hrs | £3,000 | £3,375 | £1,080 | £270 | **£7,725** |
-
-### Course Content Bounty (Variable)
-
-Course content creation is paid as a bounty on top of regular earnings.
-
-**Example:** A course module project approved at £1,000 over a 2–3 month period would add:
-- £333–500/month during the project period
-- Paid on successful completion of agreed deliverables
-
-This is additional to the figures above and depends on approved course projects.
-
----
-
 ## Monthly Compensation Range
 
 - **Minimum:** £1,000 (flat only)
 - **Typical:** £1,450–£2,350 (flat + coaching sessions + moderate Watch Time performance)
-- **Maximum potential:** £2,575+ (all bonuses + high session volume + course bounties)
+- **Maximum potential:** Uncapped (all bonuses + high session volume + course bounties)
 
 ---
 

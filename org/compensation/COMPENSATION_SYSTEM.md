@@ -31,7 +31,7 @@ All performance bonuses are defined with:
 |--------|---------|-------------------|--------------|-------------------|
 | G | Content Producer + Content Manager | Flat + Unit + Performance | £300 | £200–£1,400+ |
 | Oliver | Content Creator + Coach–Educator | Flat + Unit + Performance | £1,000 | £450–£1,500+ |
-| Jordan | Growth Operator + Operations Manager | Flat + Tiered Commission + Hourly/Bounty | £1,000 | Tiered commission (£2,250 cap) |
+| Jordan | Growth Operator + Operations Manager | Flat + Tiered Commission + Bounty | £1,000 | Tiered commission (£2,250 cap) |
 | Toni | Coach–Educator + Sales Rep | Commission + Floor | £1,000 floor | 60% of 1-1 sales |
 | Charlie | Coach–Educator | Flat | $800 | — |
 
@@ -45,7 +45,7 @@ All performance bonuses are defined with:
 | Unit payments | Monthly | End of month |
 | Performance bonuses (Watch Time, Meta) | Monthly | After metrics finalised |
 | Campaign profit share | Per campaign | After campaign closes and refund window ends |
-| Hourly work | Monthly | After hours logged and approved |
+| Bounty work | Per project | After successful completion of agreed deliverables |
 
 ---
 
@@ -82,9 +82,10 @@ The period during which customers can request refunds. Commission and profit sha
 
 ## Administration
 
-### Logging Requirements
-- **Hourly work:** Log hours in shared tracker with description of work
-- **Pre-approval:** Required for episodic hourly work (ops/finance)
+### Bounty Work Requirements
+- **Plan creation:** Jordan/Oliver must create detailed work plan with scope, deliverables, and proposed price
+- **Pre-approval:** Founders must approve scope and price before work begins
+- **Completion:** Payment on successful completion of agreed deliverables
 - **Performance metrics:** Compiled and shared by end of month
 
 ### Disputes

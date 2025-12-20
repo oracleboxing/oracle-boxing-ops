@@ -114,13 +114,11 @@ Jordan currently holds this role alongside Managing Director and Growth Operator
 
 ## Compensation
 
-**Model:** Hourly (episodic)
+**Model:** Bounty-based (pre-approved)
 
 See [Jordan's Compensation](../compensation/jordan.md) for full details.
 
-| Component | Amount | Type |
-| --- | --- | --- |
-| Ops & Finance work | £20/hour | Hourly (pre-approved) OR Bounty set (pre-approved) |
+Ops & Finance work is paid via fixed bounties. Jordan creates a work plan with scope, deliverables, and proposed price. Founders approve before work begins. Payment on successful completion.
 
 **Examples of qualifying work:**
 - Automations (Make.com workflows)
@@ -128,8 +126,6 @@ See [Jordan's Compensation](../compensation/jordan.md) for full details.
 - Accounting/admin above baseline
 - VAT/tax preparation
 - Backend systems work
-
-*Hourly work must be pre-approved and hours logged.*
 
 ---
 

@@ -50,11 +50,26 @@ Notes:
 
 ---
 
-## Ops & Finance Lane (Episodic)
+## Ops & Finance Work (Bounty-Based)
 
-| Component | Amount | Cadence |
-|-----------|--------|---------|
-| Ops & Finance work | £20 | Per hour (pre-approved) OR Bounty set (pre-approved) |
+Ops & Finance work is paid via fixed bounties, not hourly.
+
+**Process:**
+
+1. **Plan Creation (Required)**
+   - Jordan must create a detailed work plan before work begins
+   - The plan must include: scope, deliverables, breakdown of tasks, effort estimate, and a proposed fixed price
+
+2. **Founder Review & Approval**
+   - The plan must be discussed and approved by the founders
+   - Scope and price must be agreed before execution begins
+
+3. **Execution & Success Payout**
+   - Payment is made upon successful completion of the agreed deliverables
+   - No retroactive pricing
+   - Partial payments only if explicitly agreed in advance as milestones
+
+**Responsibility:** Jordan is responsible for creating the plan to present and calculating how much it should cost the business.
 
 **Examples of qualifying work:**
 - Automations (Make.com workflows)
@@ -63,60 +78,14 @@ Notes:
 - VAT/tax preparation
 - Backend systems work
 
-**Conditions:**
-- Hours/tasks must be approved before they are payable
-- Hours must be logged and submitted
-- Bounty work must be scoped and approved in advance
-
-**Monthly Reporting Requirements:**
-At the end of each month, Jordan must submit:
-- Total hours worked
-- Breakdown of tasks completed
-- Allocation of hours by project/function
-
-This reporting is required for business record-keeping and cost tracking.
-
----
-
-## Expected Earnings
-
-### Monthly Scenarios (1 campaign per month)
-
-| Campaign Net Profit | Commission | Base | Tech Work (est.) | Monthly Total |
-|---------------------|------------|------|------------------|---------------|
-| £2,500 | £250 | £1,000 | £100–200 | **£1,350–1,450** |
-| £5,000 | £500 | £1,000 | £100–200 | **£1,600–1,700** |
-| £7,500 | £875 | £1,000 | £100–200 | **£1,975–2,075** |
-| £10,000 | £1,250 | £1,000 | £100–200 | **£2,350–2,450** |
-
-*Commission calculation: First £5k at 10%, next £5k at 15%*
-
-### Quarterly Scenarios (3 campaigns + VAT prep)
-
-Assumes 1 marketing campaign per month, plus quarterly VAT preparation work.
-
-| Scenario | 3× Campaign Commission | 3× Base | Tech Work (3mo) | VAT Prep (~5 hrs) | Quarterly Total |
-|----------|------------------------|---------|-----------------|-------------------|-----------------|
-| Low (£2.5k profit/campaign) | £750 | £3,000 | £300–600 | £100 | **£4,150–4,450** |
-| Moderate (£5k profit/campaign) | £1,500 | £3,000 | £300–600 | £100 | **£4,900–5,200** |
-| Good (£7.5k profit/campaign) | £2,625 | £3,000 | £300–600 | £100 | **£6,025–6,325** |
-| Strong (£10k profit/campaign) | £3,750 | £3,000 | £300–600 | £100 | **£7,150–7,450** |
-
-### Notes
-
-- **Tech work** estimated at £100–200/month for routine automation/backend tasks
-- **VAT prep** approximately 5 hours per quarter (~£100)
-- Campaign commission is variable and depends on marketing performance
-- Hourly work must be pre-approved and logged
-
 ---
 
 ## Monthly Compensation Range
 
 - **Minimum:** £1,000 (Growth Operator base only)
-- **Typical:** £1,500–£2,500 (base + tiered commission + occasional ops work)
-- **Maximum per campaign:** £2,250 commission cap + base + hourly/bounty
-- **Variable:** Dependent on campaign performance
+- **Typical:** £1,500–£2,500 (base + tiered commission + occasional bounty work)
+- **Maximum per campaign:** £2,250 commission cap + base + bounty
+- **Variable:** Dependent on campaign performance and approved bounty work
 
 ---
 

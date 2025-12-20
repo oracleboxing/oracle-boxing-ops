@@ -62,14 +62,14 @@
 | Engage Dev/Tech contractor via SOW for projects | As needed |
 
 ### Compensation
-**Model:** Flat + Tiered Commission + Hourly/Bounty | [Full details](compensation/jordan.md)
+**Model:** Flat + Tiered Commission + Bounty | [Full details](compensation/jordan.md)
 
 | Component | Amount | Type |
 | --- | --- | --- |
 | Growth Operator base | £1,000/month | Flat |
 | Campaign commission | Tiered 10–20% (£2,250 cap) | Per campaign |
 | Challenge upsell calls | 10% of collected revenue | Commission |
-| Ops & Finance work | £20/hour | Hourly (pre-approved) OR Bounty set (pre-approved) |
+| Ops & Finance work | Bounty set | Pre-approved bounty |
 
 ---
 
