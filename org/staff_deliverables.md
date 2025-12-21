@@ -15,6 +15,7 @@
 | Toni | Coach–Educator, Sales Rep | Product & Coaching, Growth |
 | Charlie | Coach–Educator | Product & Coaching |
 | G | Content Producer (Editor), Content Manager (Publishing & Performance) [interim] | Content |
+| Belle | Thumbnail Specialist | Content |
 
 ---
 
@@ -184,7 +185,7 @@
 | --- | --- |
 | Plan a high-CTR worthy title for each YouTube video (8 per month) | Per video |
 | Write SEO-optimised descriptions | Per video |
-| Coordinate Fiverr thumbnails (3 variants for ABC testing) | Per video |
+| Coordinate thumbnails with Belle (3 variants for ABC testing) | Per video |
 | Schedule video with appropriate end cards and mid cards | Per video |
 | Manage publishing schedule and calendar | Weekly |
 | Track video performance and report insights | Weekly |
@@ -203,13 +204,35 @@
 
 ---
 
+## Belle
+
+**Roles:** Thumbnail Specialist
+
+### Content
+| Deliverable | Cadence |
+| --- | --- |
+| Design YouTube thumbnails for long-form videos | Per video (8/month) |
+| Deliver 3 thumbnail variants per video for ABC testing | Per video |
+| Attend weekly team meeting (Saturday 9am UK) | Weekly |
+
+### Compensation
+**Model:** Unit + Performance | [Full details](compensation/belle_thumbnail_specialist.md)
+
+| Component | Amount | Type |
+| --- | --- | --- |
+| Per thumbnail delivered | £10 | Unit |
+| Weekly meeting attendance | £10 | Unit |
+| CTR bonus (4.5%/5.5%/6.5%) | £25/£50/£100 | Performance |
+
+---
+
 ## Notes
 
 - **Jordan** currently holds 2 roles; mid-term goal is to delegate Growth Operator and Operations Manager
 - **Oliver** splits time between Content Creator and Coach–Educator
 - **Toni** handles both coaching and sales execution
 - **G** holds Content Producer/Editor and Content Manager roles [interim]
-- **Thumbnails** outsourced to Fiverr (coordinated by G)
+- **Belle** handles all YouTube thumbnails (coordinated by G)
 - **Community Steward** is the immediate priority hire to support member engagement
 - **Managing Director** role is defined but currently WIP/unassigned — see [Managing Director Role](roles/managing_director.md)
 

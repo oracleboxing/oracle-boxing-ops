@@ -115,7 +115,7 @@ High retention, strong community health, member accountability, and success stor
 ### People
 - **Oliver** – Content Creator (planning, scripting, filming)
 - **G** – Content Producer / Editor (editing) + Content Manager (publishing & performance) [interim]
-- **Fiverr** – Thumbnails (external vendor)
+- **Belle** – Thumbnail Specialist
 
 ### Outcome
 Consistent high-quality content pipeline that feeds growth and reinforces brand authority.
@@ -133,7 +133,7 @@ Consistent high-quality content pipeline that feeds growth and reinforces brand 
 - Asset tracker: script → raw → edit → publish URL
 
 **Thumbnails:**
-- Outsourced to Fiverr (coordinated by G)
+- Created by Belle (Thumbnail Specialist), coordinated by G
 - 3 variants per video for ABC testing
 
 ---
@@ -211,6 +211,7 @@ Reliability, customer support, payment processing, compliance, and system stabil
 | Content Creator | Oliver | Content |
 | Content Producer (Editor) | G | Content |
 | Content Manager (Publishing & Performance) | G [interim] | Content |
+| Thumbnail Specialist | Belle | Content |
 | Coach–Educator | Oliver, Toni, Charlie | Product & Coaching |
 | Community Steward | Future hire | Community & Retention |
 | Growth Operator | Jordan | Growth |

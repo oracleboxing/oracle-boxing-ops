@@ -10,7 +10,7 @@
 
 - **Oliver** – Content Creator (planning, scripting, filming)
 - **G** – Content Producer / Editor (editing) + Content Manager (publishing & performance) [interim]
-- **Fiverr** – Thumbnails (external vendor)
+- **Belle** – Thumbnail Specialist
 
 ---
 
@@ -44,7 +44,7 @@ Deliver a consistent pipeline of high-quality YouTube videos, vlogs, and short-f
 | --- | --- | --- | --- |
 | Plan a high-CTR worthy title for each YouTube video | G | Per video | Titles optimised for CTR |
 | Write SEO-optimised descriptions | G | Per video | Descriptions published |
-| Coordinate Fiverr thumbnails (3 variants for ABC testing) | G | Per video | 3 thumbnail variants per video |
+| Coordinate thumbnails with Belle (3 variants for ABC testing) | G | Per video | 3 thumbnail variants per video |
 | Schedule video with appropriate end cards and mid cards | G | Per video | Videos scheduled with cards configured |
 | Manage publishing schedule and calendar | G | Weekly | Schedule maintained and followed |
 | Track video performance and report insights | G | Weekly | Performance tracked with recommendations |
@@ -101,12 +101,13 @@ Deliver a consistent pipeline of high-quality YouTube videos, vlogs, and short-f
 
 ---
 
-## Thumbnails (External Vendor)
+## Thumbnails
 
-Thumbnails are outsourced to **Fiverr**:
+Thumbnails are created by **Belle** (Thumbnail Specialist):
 - G provides brief and raw frame references
-- Fiverr delivers 3 thumbnail variants per video for ABC testing
+- Belle delivers 3 thumbnail variants per video for ABC testing
 - G coordinates delivery timeline and provides feedback
+- See [Belle's Compensation](../compensation/belle_thumbnail_specialist.md) for pay structure
 
 ---
 
@@ -119,5 +120,5 @@ See [Compensation System](../compensation/COMPENSATION_SYSTEM.md) for pay struct
 ## Notes
 
 - G currently holds **Content Producer / Editor** and **Content Manager** roles [interim]
-- Thumbnails outsourced to Fiverr rather than handled internally
+- Belle handles all YouTube thumbnails (previously outsourced to Fiverr)
 - Community Steward is now the **immediate priority hire** to support member engagement

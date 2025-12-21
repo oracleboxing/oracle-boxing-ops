@@ -34,6 +34,7 @@ All performance bonuses are defined with:
 | Jordan | Growth Operator + Operations Manager | Flat + Tiered Commission + Bounty | £1,000 | Tiered commission (£2,250 cap) |
 | Toni | Coach–Educator + Sales Rep | Commission + Floor | £1,000 floor | 60% of 1-1 sales |
 | Charlie | Coach–Educator | Flat | $800 | — |
+| Belle | Thumbnail Specialist | Unit + Performance | £120 | CTR bonus up to £100 |
 
 ---
 
@@ -51,6 +52,7 @@ All performance bonuses are defined with:
 
 ## Detailed Compensation by Person
 
+- [Belle](./belle_thumbnail_specialist.md) — Thumbnail Specialist
 - [Charlie & G](./charlie_g.md) — Coach–Educator + Content Producer/Manager
 - [Jordan](./jordan.md) — Growth Operator + Operations Manager
 - [Oliver](./oliver.md) — Content Creator + Coach–Educator
