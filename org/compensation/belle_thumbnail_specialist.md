@@ -20,8 +20,9 @@
 | Component | Amount | Cadence |
 |-----------|--------|---------|
 | Per thumbnail delivered | £10 | Per thumbnail |
+| Weekly team meeting attendance | £10 | Per meeting |
 
-**Expected monthly base:** £80 (8 thumbnails × £10)
+**Expected monthly base:** £120 (8 thumbnails × £10 + 4 meetings × £10)
 
 ---
 
@@ -59,6 +60,12 @@ These remain owned by Content Creator and Content Manager roles.
 
 ---
 
+## Non-Negotiables
+
+- **Weekly team meeting:** Saturdays at 9am UK time — attendance is required
+
+---
+
 ## Rules & Governance
 
 - Bonus calculated monthly after 30-day measurement window
@@ -70,9 +77,18 @@ These remain owned by Content Creator and Content Manager roles.
 
 ## Monthly Compensation Range
 
-- **Minimum:** £80 (base only, 8 thumbnails delivered)
-- **Typical:** £105–£130 (base + moderate CTR bonus)
-- **Maximum:** £180 (base + top-tier CTR bonus)
+- **Minimum:** £120 (base only, 8 thumbnails + 4 meetings)
+- **Typical:** £145–£170 (base + moderate CTR bonus)
+- **Maximum:** £220 (base + top-tier CTR bonus)
+
+---
+
+## Onboarding Checklist
+
+- [ ] Join Slack workspace
+- [ ] Review Long-Form Content Schedule
+- [ ] Accept weekly Saturday meeting invite (9am UK)
+- [ ] Get Dropbox access for asset delivery
 
 ---
 
