@@ -53,7 +53,8 @@
 
 | Component | Amount | Cadence |
 |-----------|--------|---------|
-| Per short-form video | £8 | Per short |
+| Short-form specific content | £5 | Per short |
+| Long-form repurposed content | £15 | Per short |
 
 ---
 
